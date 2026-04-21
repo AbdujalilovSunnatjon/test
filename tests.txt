@@ -1,2009 +1,3054 @@
-O‘zbekiston Respublikasining “Auditorlik faoliyati to‘g‘risida”gi qonuni qachon qabul qilingan?
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Rejalashtirilgan jami material xarajati necha so‘m?
 ======
-#2021-yil 25-fevral
+#550 000
 ======
-2021-yil 24-fevral
+537 500
 ======
-2022-yil 25-fevral
+440 000
 ======
-2020-yil 10- noyabr
+430 000
 ++++++
-Renking -bu?
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Haqiqatdagi jami material xarajati necha so‘mni tashkil etadi?
 ======
-#Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish
+#540 500
 ======
-Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan xo‘jalik yurituvchi subyektlar va auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish
+440 000
 ======
-Auditorlik tashkilotining nomi va joylashgan eri
+537 000
 ======
-Auditorlar ishi sifatining ichki nazorati auditorlik tashkiloti tomonidan amalga oshiriladigan, uning auditorlari va xodimlari tomonidan ushbu Qonun talablariga rioya etilishini ta’minlovchi tartib-taomillarga asoslangan tashkiliy chora-tadbirlar tizimi
+430 000
 ++++++
-Auditorlik tashkiloti o‘zi uchun asosiy ish joyi bo‘lgan auditorlarning eng kam soni nechi nafar auditordan iborat bo‘lishi kerak?
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajati rejaga nisbatan qancha summaga og‘ishgan?
 ======
-#4
+#97800 oshgan
 ======
-5
+97500 kamaygan
+======
+97500 oshgan
+======
+110000 kamaygan
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Haqiqatdagi material sarfni rejadagi baho orqali qayta hisoblaganda material xarajati necha so‘mni tashkil etadi?
+======
+#450 000
+======
+440 000
+======
+537 500
+======
+550 000
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajatining o‘zgarishiga miqdor omili ta’sirini aniqlang?
+======
+#+120 000
+======
+-110 000
+======
++ 110 000
+======
+-97 500
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajatining o‘zgarishiga baho omili ta’sirini aniqlang?
+======
+#+ 12500
+======
+-110 000
+======
+- 12 500
+======
++10 500
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajati bo‘yicha reja bajarilishi foizini aniqlang.
+======
+#125 %
+======
+100 %
+======
+122 %
+======
+82 %
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajati bo‘yicha reja necha foiz ortiq bajarilgan?
+======
+#25 %
+======
+10 %
+======
+22 %
+======
+-18 %
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material miqdorining rejaga nisbatan foizdagi o‘zgarishini toping.
+======
+#-25 %
+======
+10 %
+======
+25 %
+======
+-10 %
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material bahosining rejaga nisbatan foizdagi o‘zgarishini toping.
+======
+#+2,5 %
+======
++10 %
+======
+-2,3 %
+======
+-10 %
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material bahosining mutloq farqi necha so’m?
+======
+#-2500
+======
+-1500
+======
+-500
+======
+-1000
+++++++
+Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material miqdorining mutloq farqini toping?
+======
+#+25 kg
+======
+-5 kg
+======
++25 kg
+======
++5 kg
+++++++
+Quyidagi tenglikda natija ko‘rsatkichiga to‘g‘ri ta’sir etayotgan omillar soni nechta?
+SF=OD+AFBD+MFD-SMT-DX-MFX-FS
+======
+#2
+======
+4
+======
+7
+======
+3
+++++++
+Quyidagi tenglikda natija ko‘rsatkichiga teskari ta’sir etayotgan omillar soni nechta?
+SF=OD+AFBD+MFD-SMT-DX-MFX-FS
+======
+#5
 ======
 3
 ======
-6
+7
+======
+4
 ++++++
-Ustav fondidagi (ustav kapitalidagi) auditorlarga (auditorga) tegishli bo‘lgan ulush kamida nechi foizni tashkil etishi kerak?
+Quyidagi tenglikda natija ko‘rsatkichi o‘zgarishiga omillar ta’sirini toppish uchun qaysi usuldan foydalaniladi?
+SF=OD+AFBD+MFD-SMT-DX-MFX-FS
 ======
-#51%
+#zanjirli bog‘lanish usuli
 ======
-50%
+balansli bog‘lanish usuli
 ======
-49%
+teng taqsimlash usuli
 ======
-52%
+indeks usuli
 ++++++
-Auditorlik tashkilotlari qanday turidagi auditorlik xizmatlarini ko‘rsatadi?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi foyda solig‘i summasi o’tgan yilgidan qanchaga farq qilgan?
 ======
-#Auditorlik tekshiruvlari va turdosh xizmatlari
+#20 mln so‘mga kamaygan
 ======
-Faqat auditorlik tekshiruvlari
+200 mln so‘mga kamaygan
 ======
-Ixtiyoriy va majburiy auditorlik tekshiruvlari
+20 mln so‘mga ko‘paygan
 ======
-Tashabbusga ko’ra auditorlik tekshiruvlari
+400 mln so‘mga ko‘paygan
 ++++++
-Auditorlik tashkilotlarida quyidagi xizmatlarni ko‘rsatmaydi?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi foyda solig‘i summasi qancha?
 ======
-#korxonaning moliyaviy-xo’jalik faoliyatini o’rgangan holda kreditlar berish.
+#680 mln so‘m
 ======
-Moliya-xo‘jalik faoliyatini tahlil qilish va moliyaviy rejalashtirish, shu jumladan biznes-rejalar tayyorlash, iqtisodiy, moliyaviy maslahat va boshqaruvga oid maslahat berish
+500 mln so‘m
 ======
-Buxgalteriya hisobini yo‘lga qo‘yish, qayta tiklash, yuritish va moliyaviy hisobot tuzish, shu jumladan moliyaviy hisobotning xalqaro standartlari bo‘yicha moliyaviy hisobot tuzish
+480 mln so‘m
 ======
-Buxgalteriya hisobi, audit va moliyaviy hisobot, soliq solish, moliya-xo‘jalik faoliyatini hamda moliyaviy rejalashtirishni tahlil qilishga doir seminarlar, konferensiyalar o‘tkazish
+280 mln so‘m
 ++++++
-Auditorlik tashkilotlariga qanday holatlarda auditorlik tekshiruvini o‘tkazish taqiqlanadi?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, o‘tgan yildagi foyda solig‘i summasi qancha?
 ======
-#Muassisi, ishtirokchisi, aksiyadori yoki rahbarlik vazifalarini yoxud buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshirayotgan shaxsi, audit qo‘mitasi a’zosi bir vaqtning o‘zida mazkur auditorlik tashkilotining xodimi bo‘lgan xo‘jalik yurituvchi subyektga nisbatan
+#800 mln so‘m
 ======
-Xodimlari muassisning, ishtirokchining yaqin qarindoshlari yoki rahbarlik vazifalarini yoxud buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshiruvchi shaxsning tekshirilayotgan xo‘jalik yurituvchi subyekt audit qo‘mitasi a’zosining yaqin qarindoshlari bo‘lmagan
+500 mln so‘m
 ======
-Auditorlik tashkilotining yoki auditorning manfaatdorligi moliyaviy hisobot va u bilan bog‘liq moliyaviy axborot to‘g‘risida fikr bildirishga ta’sir ko‘rsatishi mumkin bo‘lgan manfaatlar to‘qnashuvi yuzaga kelmagan taqdirda
+600 mln so‘m
 ======
-Hech qanday holatda cheklov o‘rnatilmagan
+480 mln so‘m
 ++++++
-Auditorlik tashkiloti ketma-ket nechi yildan ko‘proq ayni bir xo‘jalik yurituvchi subyektning auditorlik tekshiruvini o‘tkazishga haqli emas?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i summasining o‘zgarishiga soliq stavkasining ta’siri summasini toping.
 ======
-#7 yil
+#+160 mln so‘m
 ======
-3 yil
+-160 mln so‘m
 ======
-5 yil
++140 mln so‘m
 ======
-6 yil
++480 mln so‘m
 ++++++
-Quyidagi yuridik sahxslarning qaysi biri har yili majburiy auditorlik tekshiruvidan o‘tmaydi?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i summasining o‘zgarishiga soliq to‘langunga qadar foydaning ta’siri summasini toping.
 ======
-#Maktabgacha ta’lim muassasalari
+#+140 mln so‘m
 ======
-Aksiyadorlik jamiyatlari
++160 mln so‘m
 ======
-Davlat unitar korxonalari
+-240 mln so‘m
 ======
-Investitsiya fondlari
+-20 mln so‘m
 ++++++
-Banklarning auditorlik tekshiruvi shtatida banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatiga ega bo‘lgan nechi nafar auditor mavjud bo‘lgan auditorlik tashkilotlari tomonidan o‘tkaziladi?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Soliq to‘langunga qadar foyda summasining mutloq farqi necha so‘mga teng?
 ======
-#Kamida 2 nafar
+#+160 mln so‘m
 ======
-Kamida 3 nafar
++700 mln so‘m
 ======
-Kamida 1 nafar
+-240 mln so‘m
 ======
-Kamida 4 nafar
+-200 mln so‘m
 ++++++
-Yuridik shaxs, uning mulkdori, ustav fondida (ustav kapitalida) nechi foiz miqdoridagi ulushga ega bo‘lgan ishtirokchilar va aksiyadorlar, shuningdek nazorat qiluvchi yoki huquqni muhofaza qiluvchi organlar tashabbus tarzidagi auditorlik tekshiruvining buyurtmachilari bo‘lishi mumkin?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilida qancha foyda solig‘i hisoblangan?
 ======
-#Kamida 5%
+#600 mln so‘m
 ======
-Kamida 3%
+800 mln so‘m
 ======
-Kamida 15%
+480 mln so‘m
 ======
-Kamida 51%
+500 mln so‘m
 ++++++
-O‘zbekiston Respublikasi Markaziy bankining auditorlik faoliyati sohasidagi vakolatlariga nimalar kirmaydi?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi foyda solig‘i summasi o‘tgan yilgiga nisbatan necha foiz pasaygan?
 ======
-#Auditorlik faoliyati sohasidagi Xalqaro qonunlarni O’zbekiston Respublikasida qo’llash tartibini belgilaydi/
+#5 foiz
 ======
-Banklarni auditorlik tekshiruvidan o‘tkazishning o‘ziga xos xususiyatlarini belgilaydi
+28 foiz
 ======
-Banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatini berish tartibini belgilaydi va uni beradi
+25 foiz
 ======
-Banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatiga ega bo‘lgan Auditorlarning reyestrini yuritadi va uni o‘z rasmiy veb-saytiga joylashtiradi
+4 foiz
 ++++++
-Auditorlarning respublika jamoat birlashmalari-bu?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi soliq to‘langunga qadar foyda summasi o‘tgan yilgiga nisbatan necha foiz oshgan?
 ======
-#Auditorlarni birlashtiradigan nodavlat notijorat tashkilotlari
+#25 foiz
 ======
-O‘zbekiston Respublikasi Moliya vazirligi auditorlik faoliyati sohasidagi vakolatli davlat organidir
+4 foiz
 ======
-Auditorlarni birlashtiradigan xo‘jalik yurituvchi subyektlar
+28 foiz
 ======
-Markaziy bankning audit sohasidagi maxsus organi
+50 foiz
 ++++++
-Auditor auditorning malaka sertifikatini olgan yildan keyingi yildan e’tiboran nechi yilda auditorlarning malaka oshirish kurslaridan o‘tishi lozim?
+Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i summasi natija ko‘rsatkichi sifatida olinsa, unga ta’sir etuvchi omillarni quyidagi usullardan qaysi biri orqali topish mumkin?
 ======
-#Har 1 yili
+#qayta hisoblash
 ======
-Har 2 yili
+balansli bog‘lanish
 ======
-Har 3 yili
+guruhlash
 ======
-Har 5 yili
+o‘rtacha miqdorlardan foydalanish
 ++++++
-…………………..-auditorning malakasini tasdiqlaydigan va unga auditorlik tashkiloti tarkibida auditorlik xizmatlarini ko‘rsatish huquqini beradigan hujjatdir
+Soliq to‘langunga qadar foyda (STF) summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi (S) o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i (FS) summasi natija ko‘rsatkichi sifatida olinsa, natija va omillar o‘rtasidagi bog’liqlik qanday ko‘rinishda bo‘ladi?
 ======
-#Auditorning malaka sertifikati
+#FS=STF*S
 ======
-Auditorlik sertifikati
+FS=STF/S
 ======
-Xalqaro buxgalterlik sertifikati
+FS=STF+S
 ======
-Xalqaro auditorlik sertifikari
+FS=STF-S
 ++++++
-Auditorning malaka sertifikati dastlabki nechi yillik muddatga beriladi, uning amal qilishi navbatdagi nechi yillik muddatga va keyinchalik nechi yillik davrga uzaytiriladi?
+Soliq to‘langunga qadar foyda (STF) summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi (S) o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i (FS) summasi natija ko‘rsatkichi sifatida olinsa, natija va omillar o‘rtasidagi bog’liqlik qanday matematik tipga mansub bo‘ladi?
 ======
-#5, 10,muddatsiz
+#multiplikativ
 ======
-5, 10, 15
+kasrli
 ======
-5, 15, muddatsiz
+additiv
 ======
-5, 15, 25
+aralash
 ++++++
-Auditorning malaka sertifikatining amal qilish muddati qanday holatlarda malaka imtihoni topshirilmagan holda uzaytiriladi.?
+Soliq to‘langunga qadar foyda (STF) summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi (S) o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i (FS) summasi natija ko‘rsatkichi sifatida olinsa, natija o‘zgarishiga omillar ta’sirini quyidagi usullardan qaysi biri bilan aniqlab bo‘lmaydi?
 ======
-#Auditorda kamida 10 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda
+#balansli bog‘lanish
 ======
-Auditorda kamida 5 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda
+qayta hisoblash
 ======
-Auditorda kamida 15 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda
+integral
 ======
-Auditorda kamida 12 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda
+indeks
 ++++++
-Malaka imtihonidan o‘ta olmagan talabgor, malaka imtihonini qayta topshirish uchun malaka imtihonida ishtirok etgan sanadan e’tiboran qancha oydan so‘ng hujjatlarni taqdim etishga haqli?
+Korxonaning biznes obro‘si ko‘rsatkichi kreditga layoqatlilik tahlilida qo‘llaniladigan qaysi ko‘rsatkichlar guruhiga mansub?
 ======
-#Kamida 1 oy
+#nomoliyaviy
 ======
-Kamida 2 oy
+moliyaviy
 ======
-Kamida 1.5 oy
+intensiv
 ======
-Kamida 3 oy
+ekstensiv
 ++++++
-Sertifikat olish uchun talabgor oliy ma’lumotga hamda oliy ta’lim tashkilotini tamomlaganidan keyin oxirgi o‘n yildan kamida nechi yil buxgalteriya hisobi va audit sohasida yoki oliy ta’lim tashkilotida “Buxgalteriya hisobi” yoxud “Audit” fanidan dars berish sohasida ish stajiga ega bo‘lishi kerak?
+Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan moliyaviy ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
+======
+#likvidlik koeffitsiyentlari
+======
+kredit tarixi
+======
+menejment sifati
+======
+mahsulotlar raqobatdoshligi
+++++++
+Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan nomoliyaviy ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
+======
+#kredit tarixi
+======
+pul oqimlari ko‘rsatkichlari
+======
+foydalilik ko‘rsatkichlari
+======
+likvidlik koeffitsiyentlari
+++++++
+Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan to‘lovga qodirlikni ifodalovchi ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
+======
+#joriy likvidlik koeffitsiyenti
+======
+aktivlar rentabelligi
+======
+sotish rentabelligi
+======
+immobilizatsiya koeffitsiyenti
+++++++
+Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan aylanuvchanlik (samaradorlik) bilan bog‘liq ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
+======
+#sof tushumni aktivlarga nisbati
+======
+aktivlar rentabelligi
+======
+joriy likvidlik koeffitsiyenti
+======
+immobilizatsiya koeffitsiyenti
+++++++
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent formulasi to‘g‘ri ko‘rsatilgan qatorni toping.
+======
+#Kml=(PM+QMI)/JM
+======
+Kml=PM*QMI/JM
+======
+Kml=(PM+QMI)/JM-PM
+======
+Kml=(PM-QMI)/JM
+++++++
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan nechta omil ta’sir etadi.
+======
+#1
+======
+2
+======
+3
+======
+4
+++++++
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan nechta omil to‘g‘ri ta’sir etadi.
 ======
 #3
 ======
-5
+2
 ======
-6
+1
+======
+4
+++++++
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan nechta omil teskari ta’sir etadi.
+======
+#4
+======
+3
+======
+2
 ======
 1
 ++++++
-“Buxgalteriya hisobi” va “Audit” ixtisosliklari bo‘yicha magistr diplomiga ega bo‘lgan sertifikat olish uchun talabgor uchun auditorlik tashkilotida kamida nechi yillik ish staji talab qilinadi?
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan omillar ta’sirini quyidagi usullarning qaysi biri bilan aniqlash mumkin?
 ======
-#1 yillik
+#integral
 ======
-2 yillik
+balansli bog‘lanish
 ======
-6 yillik
+nisbiy farqlar
 ======
-9 yillik
+mutloq farqlar
 ++++++
-Auditorlik faoliyati sohasidagi asosiy prinsiplar nimalardan iboratdir?
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan omillar ta’sirini quyidagi usullarning qaysi biri bilan aniqlash mumkin?
 ======
-#Mustaqillik, xolislik va halollikdan, kasbiy bilimga egalik hamda axborotning maxfiyligidan
+#zanjirli bog‘lanish
 ======
-Mustaqillik, halollik va muqobillik
+balansli bog‘lanish
 ======
-Mustaqillik, xolislik va halolik, uyg‘unlik
+nisbiy farqlar
 ======
-Hamma javoblar to‘g‘ri
+logorifm
 ++++++
-Auditorning malaka sertifikati kim tomonidan beriladi?
+Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan omillar ta’sirini quyidagi usullarning qaysi biri bilan aniqlash mumkin emas?
 ======
-#Auditorlarning respublika jamoat birlashmalari tomonidan
+#logorifm
 ======
-O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi tomonidan
+zanjirli bog‘lanish
 ======
-O‘zbekiston Respublikasi Markaziy banki tomonidan
+integral
 ======
-Davlat aktivlarini boshqarish agentligi
+zanjirli o‘rin almashtirish
 ++++++
-……………..-auditorlik tashkilotlarining auditorlik faoliyati sohasidagi vakolatli davlat organi rasmiy veb-saytiga joylashtirilgan ro‘yxati.
+Quyidagi omillarning qaysi biri bankrotlikka olib keluvchi ichki omil hisoblanadi?
 ======
-#Auditorlik tashkilotlarining reyestri
+#aylanma mablag‘lar yetishmasligi
 ======
-Auditorlar reyestri
+yuqori inflatsiya
 ======
-Audit qo‘mitasi
+kredit stavkasi oshishi
 ======
-Auditorlik tashkiloti
+demografik o‘zgarishlar
 ++++++
-Moliyaviy hisobotning ishonchliligi va buxgalteriya hisobi to‘g‘risidagi qonunchilik talablariga muvofiqligi to‘g‘risida auditorlik tashkilotining yozma shaklda ifodalangan fikrini o‘z ichiga olgan hujjat bu – ?
+Quyidagi omillarning qaysi biri bankrotlikka olib keluvchi tashqi omil hisoblanmaydi?
 ======
-#Auditorlik xulosasi
+#zaxiralarning me’yordan ortiqligi
 ======
-Dalolatnoma
+yuqori inflatsiya
 ======
-Hisobot
+asosiy stavkasi oshirilishi
 ======
-Auditning xalqaro qoidalari
+demografik o‘zgarishlar
 ++++++
-Auditorlik tashkiloti ishi sifatining tashqi nazoratini o‘tkazish muddati …….
+Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot miqdori nechtani tashkil etadi?
 ======
-#O‘n ish kunidan oshmasligi kerak
+#7876
 ======
-O‘n kunidan oshmasligi kerak
+11250
 ======
-Besh ish kunidan oshmasligi kerak
+16071
 ======
-O‘n besh kundan oshmasligi kerak
+7875
 ++++++
-500-son AXSga muvofiq audit amallarining nechta asosiy turi mavjud?
+Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot (JM) miqdori aniqlanishi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#7 ta
+#JM=S*U*Q
 ======
-5 ta
+JM=S*(U+Q)
 ======
-8 ta
+JM=(S+U)*Q
 ======
-6 ta
+JM=S*Q
 ++++++
-«Buxgalteriya hisobi to‘g‘risida»gi qonunning 21-moddasiga muvofiq ichki nazorat tizimini tashkil etish uchun kim javobgardir?
+Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot (JM) miqdori o‘zgarishiga asosiy vositalar soni (S) ta’sirini mutloq farqlar usuli orqali aniqlash formulasi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Xo‘jalik yurituvchi subyekt rahbari
+#∆JMS=∆S*U0*Q0
 ======
-Auditor
+∆JMS=∆S*U1*Q0
 ======
-Bosh hisobchi
+∆JMS=S1*∆U*Q0
 ======
-Moliyaviy deriktor
+∆JMS=S1*U0*∆Q
 ++++++
-Auditorlik tashkiloti ishi sifatining tashqi nazorati ……..
+Hisobot davrida jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 donani tashkil etgan. Jami mahsulot (JM)ning bazis davridan mutloq farqi +75 dona bo‘lsa, basis davridagi jami mahsulot miqdorini toping.
 ======
-#Tavakkalchilik-tahlili natijasi bo‘yicha o‘tkaziladi
+#7808 dona
 ======
-Har chorak yakunida o‘tkaziladi
+7875 dona
 ======
-Moliya yili yakunida o‘tkaziladi
+7800 dona
 ======
-Hisobot yilidan keyin 15 iyunga qadar o‘tkaziladi
+16071 dona
 ++++++
-Quyidagilardan qaysi biri auditorlik tashkiloti ishi sifatining asosiy ko‘rsatkichlari tarkibiga kirmaydi?
+Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot (JM) miqdori o‘zgarishiga Q omil ta’sirini zanjirli bog’lanish usuli yordamida aniqlash formulasi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#auditorlik tashkiloti ustav kapitalining yetarliligi
+#∆JMQ=S1*U1*Q1 - S1*U1*Q0
 ======
-ichki nazoratning tizimi
+∆JMQ=S1*U0*Q1 - S1*U1*Q0
 ======
-xalqaro auditorlik tashkilotlariga yoki assotsiatsiyalariga a’zolik;
+∆JMQ=S1*U0*Q1 + S1*U1*Q0
 ======
-auditorlarning har yilgi malaka oshirish kurslaridan o‘tish
+∆JMQ=S1*U1*Q0 - S1*U1*Q0
 ++++++
-Vakolatli organ tomonidan auditorlik tashkiloti ishi sifatining tashqi nazoratini o‘tkazishda quyidagilardan qaysi biriga aralashishga yo‘l qo‘yilmaydi
+Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga U omil ta’sirini zanjirli bog’lanish usuli yordamida aniqlash hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Auditorlik tashkilotining moliyaviy-xo‘jalik faoliyatiga aralashishga
+#∆JMU=260*80%*45 - 260*70%*45
 ======
-Tavakkalchilik darajasini baholashga
+∆JMU=260*70%*45 - 250*70%*45
 ======
-Auditorlik tashkiloti tomonidan AXS talablariga rioya etilishini baholashga
+∆JMU=260*70%*40 - 260*70%*45
 ======
-Auditorlik tashkilotining Qonun talablarini buzadigan harakatlari (harakatsizligi) ustidan jismoniy yoki yuridik shaxslarning murojaatlari mavjudligini o‘rganishga
+∆JMU=250*80%*45 - 260*70%*40
 ++++++
-Ichki auditorga tekshirish uchun huquq beradigan hujjat?
+Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga U omil ta’sirini mutloq farqlar usuli yordamida aniqlash hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Malaka sertifikati
+#∆JMU=260*10%*45
 ======
-Litsenziya
+∆JMU=260*10%*40
 ======
-Diplom
+∆JMU=250*10%*45
 ======
-Guvohnoma
+∆JMU=10*80%*40
 ++++++
-O‘zbekiston Respublikasi hududida qo‘llash uchun auditning xalqaro standartlarini tan olish tartibini belgilash qaysi organning vakolatiga mansub?
+Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga S omil ta’siri miqdori to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#O‘zbekiston Respublikasi Vazirlar mahkamasi
+#+455
 ======
-O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi
++1170
 ======
-O‘zbekiston auditorlar palatasi
++315
 ======
-O‘zbekiston buxgalter va auditorlarning milliy assotsiatsiyasi
++10
 ++++++
-Moliyaviy hisobot auditining maqsadi va uni tartibga soluvchi asosiy tamoyillar qaysi standartga tegishli?
+Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga U omil ta’siri miqdori to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Auditning umumiy standarti
+#+1200
 ======
-Auditning ishchi standarti
+-1040
 ======
-Hisobot standari
++1170
 ======
-Maxsus standart
++445
 ++++++
-Xalqaro buxgalterlar federatsiyasining Xalqaro odob-axloq standartlari bo‘yicha kengashi tomonidan ………………… e’lon qilinadi
+Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga Q omil ta’siri miqdori to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Professional buxgalterning odob-axloq kodeksi
+#-104
 ======
-Auditorlarning axloq kodeksi
++1170
 ======
-Auditning xalqaro standartlari
++450
 ======
-Ishonchni ta’minlaydigan topshiriqlarning xalqaro standartlari
++445
 ++++++
-Auditorlik tashkilotlari renkingini o‘tkazishning yagona tartibini belgilovchi organ bu – ……….
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Hisobot davridagi aktivlar rentabelligi necha foiz?
 ======
-#Auditorlarning respublika jamoat birlashmalari
+#33.30
 ======
-O‘zbekiston Respublikasi Vazirlar Mahkamasi
+20
 ======
-O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi
+33,3
 ======
-Barcha javob to‘g‘ri
+66.7
 ++++++
-Auditni rejalashtirish qaysi standartda ko‘rib chiqiladi?
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Hisobot davridagi aktivlar rentabelligi o‘tgan yildagidan necha foiz ko‘p?
 ======
-#Auditning ishchi standarti
+#8.4
 ======
-Auditning umumiy standarti
+10
 ======
-Hisobot standarti
+8,3
 ======
-Maxsus standart
+6.7
 ++++++
-Auditorlik dalillar qaysi standartda ko‘riladi?
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Sof foydaning o‘sish sur’ati necha foizni tashkil etadi?
 ======
-#Auditning ishchi standarti
+#66.50
 ======
-Maxsus standart
+10
 ======
-Auditning umumiy standarti
+33.3
 ======
-Hisobot standarti
+25
 ++++++
-Buxgalteriya hisobi va audit sohasidagi xalqaro tashkilotda akkreditatsiyadan o‘tgan o‘quv markazlari ………….
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar qiymatining o‘sish sur’ati necha foizni tashkil etadi?
 ======
-#Auditorlarning malakasini oshirish kurslarini tashkil etadi
+#45
 ======
-Auditorlarni sertifikatlash dasturlarini ishlab chiqhishga ko‘maklashadi
+25
 ======
-Auditorlarni sertifikatlash imtihonlarini tashkil etishga ko‘maklashadi
+33.3
 ======
-Auditorlarni qayta tayyorlash kurslarini tashkil etadi
+65
 ++++++
-Quyidagilarning qaysi biri “Auditorlik faoliyati to‘g‘risida”gi Qonun talablarini bir marta qo‘pol tarzda buzish deb e’tirof etilmaydi?
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar rentabelligining o‘zgarishiga sof foydaning ta’siri hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Auditorning har yilgi malaka imtixonini topshirmaganligi
+#500 mln/1,2 mlrd – 300 mln/1,2 mlrd
 ======
-auditorning huquqni muhofaza qiluvchi organlarning topshiriqlariga ko‘ra har xil tekshiruvlarni o‘tkazish uchun auditorlik tashkiloti va mazkur organlar o‘rtasida shartnoma asosida mutaxassis sifatida ishtirok etganligi;
+500 mln/1,2 mlrd + 300 mln/1,2 mlrd
 ======
-auditor faqat bir auditorlik tashkilotining xodimi ekanligi fakti aniqlanganda
+500 mln/1,5 mlrd – 300 mln/1,2 mlrd
 ======
-Auditorning har yilgi malaka oshirish kurslaridan o‘tmaganligi
+300 mln/1,2 mlrd – 500 mln/1,5 mlrd
 ++++++
-Auditorlik xizmatlari buyurtmachisining talabiga ko‘ra auditor (auditorlar) sertifikatini ko‘rsatish bu –
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar rentabelligining o‘zgarishiga aktivlar qiymatining ta’siri hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#Auditorlik tashkilotining majburiyati
+#500 mln/1,5 mlrd – 500 mln/1,2 mlrd
 ======
-Auditorlik tashkilotining huquqi
+500 mln/1,2 mlrd + 300 mln/1,2 mlrd
 ======
-Auditorlik tashkilotining javobgarligi
+500 mln/1,5 mlrd – 300 mln/1,2 mlrd
 ======
-Auditorlik tashkilotining axloqiy tamoyili
+300 mln/1,2 mlrd – 300 mln/1,5 mlrd
 ++++++
-Auditorlik tashkilotlari ish sifati ustidan tashqi nazoratni qaysi organ amalga oshiradi?
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar rentabelligining o‘zgarishi hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
 ======
-#O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi va auditorlarning respublika jamoat birlashmalari bilan birgalikda
+#500 mln/1,5 mlrd – 300 mln/1,2 mlrd
 ======
-O‘zbekiston Respublikasi adliya vazirligi
+500 mln/1,2 mlrd - 300 mln/1,2 mlrd
 ======
-Audit qo‘mitasi
+500 mln/1,5 mlrd + 300 mln/1,2 mlrd
 ======
-O’zbekiston Respublikasi bazirlar mahkamasi
+500 mln/1,2 mlrd – 300 mln/1,5 mlrd
 ++++++
-Tekshirilayotgin korxona xodimlariga «yaxshilik» qilish maqsadida auditorni nima qilishi mutlaqo mumkin emas?
+Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. Agarda sof foyda 70 mln so‘m bo‘lib, aktivlar qiymati o‘zgarmasa, u holda korxona rentabellikning qaysi guruhiga mansub bo‘ladi?
 ======
-#auditorni shaxsan o‘zi dastlabki hujjatlar, hisob registrlari va buxgalteriya hisobotlaridagi xatolarni to‘g‘rilashi
+#past rentabelli
 ======
-auditorni shaxsan o‘zi taklif va maslahat berishi
+yuqori rentabelli
 ======
-auditor aniqlangan xato yoki kamchiliklar to‘g‘risida korxona rahbariyatiga bildiradi
+o‘rta rentabelli
 ======
-Xato va kamchiliklarni tuzatish bo‘yicha aniq tavsiyalar beradi
+zarar ko‘rib ishlayotgan
 ++++++
-Kamchiliklar audit o‘tkazish chog‘ida buyurtmachi korxona tomonidan tuzatilmasa, auditor tomonidan qanday chora ko‘rilishi mumkin?
+Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, jami material xarajati necha so‘mni tashkil etadi?
 ======
-#moliyaviy hisobotning ishonchliligini tasdiqlash mumkin emasligi to‘g‘risida auditorlik tekshiruvining xulosasida yoziladi
+#1014000
 ======
-buxgalterlik (moliyaviy) hisobotning ishonchliligini tasdiqlash mumkin emasligi to‘g‘risida auditorlik tekshiruvining xulosasida yozilmaydi
+750000
 ======
-javobgarlikka tortiladi
+240000
 ======
-xulosa berishdan bosh tortadi
+990000
 ++++++
-Auditorlik xulosasining shakli va mazmuni nima asosida belgilanadi
+Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, sarflangan materiallarning o‘rtacha narxi necha so‘mni tashkil etadi?
 ======
-#auditorlik faoliyati standartlari
+#5620
 ======
-hujjatlar asosida
+4233
 ======
-tekshirilayotgan hujjatlar va dalillar asosida
+5500
 ======
-Buxgalteriya hisobi standartlari asosida
+6150
 ++++++
-Auditorlik xulosasi qachon bila turib soxta tuzilgan deb topiladi?
+Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, A turdagi material sarfi necha so‘m?
 ======
-#sudning qonuniy kuchga kirgan qaroriga ko‘ra
+#750000
 ======
-aniqlangan paytda
+1014000
 ======
-tekshiruv jarayonida
+240000
 ======
-Soliq auditi tekshiruvida.
+990000
 ++++++
-Bila turib soxta auditorlik xulosasini tuzish qanday oqibatlarga olib kelishi mumkin?
+Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, A turdagi material xarajati jami material xarajatining necha foizini tashkil etadi?
 ======
-#auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarishga, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatishga, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish
+#76
 ======
-auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarmaslikka, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatishga, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish
+74
 ======
-auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarishga, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatmaslikka, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish
+65
 ======
-auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarmaslikka, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatmaslikka, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish
+52
 ++++++
-Auditorlik tekshiruvida axborotlarga shubha koʼzi bilan qarashni va dalillarni tanqidiy baholashni nazarda tutadigan yondashuv?
+Quyidagi ma’lumotlar asosida moliyaviy barqarorlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 150 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 250 mln so‘m.
 ======
-#Professional skeptitsizm
+#0,6
 ======
-Professional mulohaza
+0,8
 ======
-Professional kompitetntlik
+0,5
 ======
-to‘gri javob ko‘rsatilmagan
+0,2
 ++++++
-Muayyan auditorlik tekshiruvida harakatlarni yetarli rejalashtirish toʼgʼrisida asoslantirilgan qarorlar qabul qilish tegishli malaka, bilim va tajribani qoʼllash.................................asosida amalga oshiriladi
+Quyidagi ma’lumotlar asosida sof aktivlar miqdorini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 150 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 350 mln so‘m.
 ======
-#Professional mulohaza
+#350 mln so‘m
 ======
-Kasbiy kompitentlik
+380 mln so‘m
 ======
-Maxfiylik
+420 mln so‘m
 ======
-uzluksizlik
+250 mln so‘m
 ++++++
-Xalqaro standartlarga binoan auditorlik xulosalarining qanday turlari mavjud emas?
+Quyidagi ma’lumotlar asosida aktivlar rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 80 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
 ======
-#tavsiyali xulosa
+#10 foiz
 ======
-Ijobiy auditorlik xulosasi
+5 foiz
 ======
-Salbiy auditorlik xulosasi
+50 foiz
 ======
-Xulosa berishdan bosh tortish
+16 foiz
 ++++++
-Ichki audit xizmati xarajatlarining yillik smetasi kim tomonidan tasdiqlanadi ?
+Quyidagi ma’lumotlar asosida sof rentabellikni aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, yalpi tushum 820 mln so‘m, biznesga egri soliqlar 220 mln so‘m.
 ======
-#Kuzatuv kengashi
+#50 foiz
 ======
-Ichki audit xizmati rahbari
+6 foiz
 ======
-Direktorlar Kengashi
+5 foiz
 ======
-Ta’sischilar umumiy yig‘ilishi
+10 foiz
 ++++++
-Muhim buzib ko‘rsatishlar riski komponentlari to‘g‘ri ko‘rastilgan javobni toping?
+Quyidagi ma’lumotlar asosida sof tushumni aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, yalpi tushum 820 mln so‘m, biznesga egri soliqlar 220 mln so‘m.
 ======
-#Ajratib boʼlmaslik riski va nazorat vositalari riski
+#400 mln
 ======
-Ajratib boʼlmaslik riski va aniqlanmaslik riski
+820 mln
 ======
-Nazorat vositalari riski va tadbirkotlik riski
+600 mln
 ======
-aniqlanmaslik riski va biznes risk
+320 mln
 ++++++
-Aniqlanmaslik riskiga ta’sir etuvchi risklar to‘g‘ri ko‘rsatilgan javobni aniqlang?
+Quyidagi ma’lumotlar asosida sotish rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sotilgan mahsulot tannarxi 400 mln so‘m, yalpi tushum 820 mln so‘m, biznesga egri soliqlar 220 mln so‘m.
 ======
-#Tanlash bilan bog‘liq va tanlash bilan bog‘liq bo‘lmagan risklar
+#33 foiz
 ======
-Aniqlanmaslik riski va biznes risk.
+66.7 foiz
 ======
-Ajratib boʼlmaslik riski va aniqlanmaslik riski
+33,3 foiz
 ======
-Ajratib boʼlmaslik riski va nazorat vositalari riski.
+41.8 foiz
 ++++++
-Auditini rejalashtirishning asosiy qoidalarini ko‘rsating?
+Quyidagi ma’lumotlar asosida yalpi foydani aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sotish tannarxi 520 mln, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m.
 ======
-#Komplekslilik, uzluksizlik, maqbullik
+#800 mln
 ======
-Aniqlilik, uzluksizlik, maqbullik
+100 mln
 ======
-To‘liqlik, uzluksizlik, maqbullik
+300 mln
 ======
-Komplekslilik, aniqlik, maqbullik
+80 mln
 ++++++
-Ma’lumot yetarli bo‘lmagani uchun haqiqiy holatni aniqlay olmadik, degan fikrga kelinsa qaysi xulosa turi tanlanadi?
+Quyidagi ma’lumotlar asosida tannarx rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 120 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 600 mln so‘m.
 ======
-#Xulosa berishdan bosh tortish
+#2 foiz
 ======
-Modifikatsiyalanmagan auditorlik xulosasi
+50 foiz
 ======
-Stratifikatsiyalangan auditorlik xulosasi
+20 foiz
 ======
-Izohlar bilan bildirilgan auditorlik xulosasi
+17 foiz
 ++++++
-Quyidagi holatlardan qaysi birida mijoz korxonada auditorlik tekshiruvini o‘tkazish taqiqlanadi?
+Quyidagi ma’lumotlar asosida TMZ aylanuvchanlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, TMZlar 800 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, sotilgan mahsulot tannarxi tushum 1200 mln so‘m, davr xarajatlari 950 mln so‘m.
 ======
-#Auditorlik tashkiloti ketma-ket yetti yildan ko‘proq ayni bir mijoz korxonaning auditorlik tekshiruvini o‘tkazganda
+#2,5
 ======
-buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshirayotgan shaxs bir vaqtning o‘zida mazkur auditorlik tashkilotining xodimi bo‘lmaganda
+0,67
 ======
-mazkur auditorlik tashkilotining kreditorlari, sug‘urtalovchilari bo‘lmagan xo‘jalik yurituvchi subyektlar
+1,5
 ======
-mazkur auditorlik tashkilotining kreditorlari, sug‘urtalovchilari bo‘lmagan mijoz korxonada
+1,2
 ++++++
-Kutilayotgan ishlar rejasida quyidagi ko‘rsatkichlardan qaysi biri aks ettirilmaydi?
+Quyidagi ma’lumotlar asosida TMZ aylanish davri necha kun ekanligini aniqlang. Jami aktiv 500 mln so‘m, TMZlar 800 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, sotilgan mahsulot tannarxi tushum 1200 mln so‘m, davr xarajatlari 950 mln so‘m, hisobot davri 90 kun.
 ======
-#auditorlik tekshiruvi uchun haq
+#40
 ======
-audit o‘tkazish muddati va ishlarning davomiyligi
+75
 ======
-bajariladigan ishlar hajmi
+60
 ======
-auditor qo‘llaydigan usullar va amallar
+30
 ++++++
-Auditda tekshiruvning mamlakat qonunlariga to‘g‘ri kelish-kelmasligi auditning qaysi turida ko‘rib o‘tiladi?
+TMZ aylanish davri 60 kun chiqdi. Agar hisobot davri 90 kun, bir kunlik tushum 30 mln so‘m bo‘lsa, TMZlar qiymati nechaga teng?
 ======
-#Mos keluvchanlik auditi
+#1900 mln
 ======
-Operatsion audit
+2700 mln
 ======
-Moliyaviy hisobotlar auditi
+3600 mln
 ======
-Majburiy audit
+1800 mln
 ++++++
-Auditorlik tekshiruvlarini o‘tkazish shakllari va uslublari kim tomonidan aniqlanadi?
+Quyidagi ma’lumotlar asosida aylanma mablag‘lar summasini aniqlang. Jami aktiv 500 mln so‘m, TMZlar 300 mln so‘m, qisqa muddatli debitorlik qarzlari 140 mln so‘m, pul mablag‘lari 60 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
 ======
-#Auditorlik tashkiloti
+#300 mln
 ======
-Moliya vazirligi
+200 mln
 ======
-Auditorlar palatasi
+500 mln
 ======
-Soliq Qo‘mitasi
+360 mln
 ++++++
-Moliyaviy hisobot auditining maqsadiga eng to‘g‘ri berilgan ta’rifni toping
+Quyidagi ma’lumotlar asosida uzoq muddatli aktivlarning jami aktivlardagi ulushini  aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 200 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
 ======
-#Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo‘yicha moliyaviy hisobotni taqdim etishga oid belgilangan konseptual asosga muvofiq tayyorlanganligi haqida o‘z fikrini bildirish uchun imkoniyat yaratishdir.
+#30 %
 ======
-Moliyaviy hisobotni taqdim etishga oid belgilangan kontseptual asosga muvofiq tayyorlanganligini bildirish uchun auditor xulosasini shakllantirish
+60 %
 ======
-Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo‘yicha tayyorlanganligi va taqdim etilishi moliyaviy hisobotning xalqaro standart (MHXS) talablari asosida tayyorlashdir
+30 %
 ======
-Moliyaviy hisobotga nisbatan ishonchni oshirganligi bilan bir qatorda, foydalanuvchi ushbu xulosani subyekt kelajakda barqaror faoliyat ko‘rsatish uchun ishonch, hamda subyekt rahbariyati tomonidan mukammal va samarali ish yuritish kafolati deb hisoblaydi.
+25 %
 ++++++
-Moliyaviy hisobotni tayyorlash va taqdim etish bo‘yicha mas’uliyat kimning zimmasida bo‘ladi?
+Quyidagi ma’lumotlar asosida joriy likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 200 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 120 mln so‘m.
 ======
-#mijoz korxona rahbariyatida
+#2
 ======
-auditor zimmasida
+1,5
 ======
-yurist zimmasida
+2,5
 ======
-mijoz rahbariyati va auditor zimmasida
+3
 ++++++
-Audit o‘tkazishning muddatiga bog‘liq ravishda auditorlik tekshiruvi qanday turlarga bo‘linadi?
+Quyidagi ma’lumotlar asosida tez likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, TMZlar 180 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 240 mln so‘m.
 ======
-#Dastlabki, joriy, yakuniy auditorlik tekshiruvi
+#0,9
 ======
-hujjatli va haqiqiy
+0,5
 ======
-joriy va yakuniy
+1,07
 ======
-kunlik, oylik, yarim yillik va yillik
+0,23
 ++++++
-Soliqqa tortish maqsadida amortizatsiya ajratmalari hisoblash qaysi yuridik hujjatga muvofiq amalga oshiriladi?
+Quyidagi ma’lumotlar asosida mutloq likvidlik koeffitsiyentini aniqlang. Jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, uzoq muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, joriy majburiyatlar 150 mln so‘m.
 ======
-#O‘zbekiston Respublikasi Soliq Kodeksi;
+#0,4
 ======
-O`zbekiston Respublikasi «Buxgalteriya hisobi to`g`risida» gi qonuni;
+0,12
 ======
-O`zbekiston Respublikasi «Auditorlik faoliyati to`g`risida» gi qonuni;
+0,2
 ======
-O`zbekiston Respublikasi Fuqarolik Kodeksi;
+0,53
 ++++++
-O`zbekistonda lizing hisobi qaysi hujjat bilan tartibga solinadi?
+Quyidagi ma’lumotlar asosida sotishdan yalpi foyda summasini aniqlang. TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 700 mln so‘m, joriy majburiyatlar 250 mln so‘m.
 ======
-#6-son «Ijara hisobi» nomli BHMS;
+#120 mln
 ======
-5-son «Asosiy vositalar» nomli BHMS;
+280 mln
 ======
-22-son «Chet el valutasida ifodalangan aktivlar va majburiyatlarning hisobi» nomli BHMS;
+220 mln
 ======
-14-son «Xususiy kapital to`g`risidagi hisobot» nomli BHMS;
+200 mln
 ++++++
-Quyidagilardan qaysinisi auditorlik dalillarning eng ishonchlisi hisoblanadi?
+Quyidagi ma’lumotlar asosida asosiy faoliyat foydasini hisoblang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami majburiyatlar 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 230 mln so‘m, TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
 ======
-#Auditorning bevosita kuzatish va moliya xo‘jalik muomalalarini o‘rganishi natijasida olingan dalillar.
+#150 mln
 ======
-Uchinchi shaxsning dastlabki hujjatlari.
+-350 mln
 ======
-Uchinchi shaxsning og‘zaki bildirishlari.
+50 mln
 ======
-Mijoz korxonani inventarizatsiya qilishdan olingan ma’lumotlar.
+200 mln
 ++++++
-Auditorlik amali nima?
+Quyidagi ma’lumotlar asosida umumxo‘jalik faoliyat bo‘yicha moliyaviy natija miqdorini aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 20 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m.
 ======
-#Bu muayyan audit uchastkasida dalillarni olish uchun auditor tomonidan amalga oshiriladigan ishlarning ma’lum tartibda va ketma-ketligidir.
+#21 mln
 ======
-Bu mijoz korxonani inventarizatsiya qilishdir.
+-350 mln
 ======
-Bu uchinchi shaxsning og‘zaki bildirishlarini yig‘ishdir.
+-50 mln
 ======
-Bu mijoz korxonaning bir hujjatlarini boshqalar bilan solishtirishdir.
+-110 mln
 ++++++
-Tahliliy amallar nima?
+Quyidagi ma’lumotlar asosida soliq to‘langunga qadar foydani aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 55 mln.
 ======
-#Bu auditor tomonidan olingan ma’lumotlarni baholash, g‘ayrioddiy va buxgalteriya hisobida noto‘g‘ri aks ettirilgan xo‘jalik faoliyati faktlarini aniqlash.
+#+45 mln
 ======
-Bu sintetik va analitik hisob registrlarida dastlabki hujjatlar ma’lumotlarni aks ettirish.
+-350 mln
 ======
-Bu mijoz korxonani inventarizatsiya qilish.
+-50 mln
 ======
-Bu mijoz korxonaning arifmetik hisob-kitoblarini tekshirish.
+110 mln
 ++++++
-Auditorlik dalillari olinish manbasiga ko‘ra qaysi turlarga bo‘linadi.
+Quyidagi ma’lumotlar asosida TMZ aylanuvchanlik koeffitsiyentini toping. Jami aktiv 500 mln so‘m, TMZ 240 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m.
 ======
-#Ichki, tashqi va aralash dalillar
+#6
 ======
-Tasdiqlovchi, hujjatlashtirilgan.
+3
 ======
-Yozma va og‘zaki.
+2
 ======
-Manbali olingan dalillar.
+3,2
 ++++++
-Moliyaviy hisobot auditi va muvofiqlik auditi o‘rtasidagi farq nima
+Quyidagi ma’lumotlar asosida debitorlik qarzlar aylanish davrini toping. Jami aktiv 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, sof tushum 900 mln so‘m, favqulodda zarar 15 mln. Hisobot davri 90 kun.
 ======
-#Moliyaviy hisobot auditi moliyaviy hisobotlarning to‘g'riligiga e'tiborni qaratadi, muvofiqlik auditi esa tashkilotning qonunlar va qoidalarga muvofiqligiga e'tibor qaratadi
+#75
 ======
-moliyaviy hisobot auditi ichki nazoratning samaradorligiga, muvofiqlik auditi esa tashkilotning qonunlar va me'yoriy hujjatlarga muvofiqligiga e'tibor qaratiladi
+18,75
 ======
-Yozma va og‘zaki
+78
 ======
-Manbali olingan dalillar
+60
 ++++++
-500-599 raqamli audit standartlari qanday nomlanadi?
+Quyidagi ma’lumotlar asosida doimiy passivlar (P4) summasini aniqlang. Uzoq muddatli aktivlar 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, joriy aktivlar 360 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, jami majburiyatlar 240 mln so‘m.
 ======
-#Auditorlik dalillar
+#620 mln
 ======
-Boshqa shaxslar xizmatlaridan foydalanish
+860 mln
 ======
-Auditda muhimlik
+260 mln
 ======
-Auditni rejalashtirish
+720 mln
 ++++++
-Mohiyatiga ko‘ra tekshirish … larni o‘z ichiga oladi?
+Quyidagi ma’lumotlar asosida asosiy vositalarning eskirish darajasini toping. Boshlang’ich qiymati 1,2 mlrd so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m, yaroqlilik darajasi 64 foiz.
 ======
-#batafsil testlash hamda tahliliy amal
+#36 %
 ======
-nazorat testlash
+33,3 %
 ======
-maxsus savolnoma
+50 %
 ======
-inventarizatsiya
+16,7 %
 ++++++
-Auditorlik dalillarini to‘plash vaqtida paydo bo‘ladigan vaziyatda firibgarlik va xatolarni ko‘paytiradigan omillarga quyidagilardan qaysi biri kiradi?
+Quyidagi ma’lumotlar asosida asosiy vositalarning yaroqlilik darajasini toping. Jamg’arilgan eskirish summasi 800 mln so‘m, eskirish darajasi 44 foiz, qoldiq qiymat 400 mln so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m.
 ======
-#Buxgalteriya yozuvlari va uchinchi tomonlar ma’lumotlari o‘rtasida katta farq mavjudligi va ularning auditorlik isbotlariga qarama-qarshiligi
+#-56 %
 ======
-Ko‘pturkumli korporativ tizim mavjudligi
+66,7%
 ======
-Yuristlarni va auditorlarni tez-tez almashinishi
+50 %
 ======
-Bosh buxgalter, buxgalterlar va iqtisodchilarni tez-tez o‘zgarib, almashinib turishi
+16,7 %
 ++++++
-Quyidagilardan qaysi biri auditorlik dalillarini to‘plash usuli hisoblanmaydi?
+Quyidagi ma’lumotlar asosida asosiy vositalar rentabelligini aniqlang. Yil boshidagi qoldiq qiymat 400 mln so‘m, yil oxiridagi qoldiq qiymat 600 mln so‘m. Hisobot davridagi sof foyda 90 mln so‘m, sof tushum 500 mln so‘m.
 ======
-#baholash
+#18 %
 ======
-kuzatish
+22,5 %
 ======
-so‘rov
+28 %
 ======
-qayta hisoblash
+16,7 %
 ++++++
-Auditorlik dalillarining mosligi
+Quyidagi ma’lumotlar asosida yuqori likvidlik aktivlar (A1) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli qarzlar 50 mln so‘m.
 ======
-#Auditorlik dalillarining sifat o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi
+#70 mln
 ======
-Auditorlik dalillarining miqdoriy o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi
+360 mln
 ======
-Auditorlik dalillarining nisbiy o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi
+222 mln
 ======
-Auditorlik dalillarining mutlaq o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi
+100 mln
 ++++++
-Auditorlik tashkiloti moliyaviy hisobot to‘g‘risida fikr bildirish uchun yetarli dalillar ololmayotganda qanday yo‘l tutish lozim?
+Quyidagi ma’lumotlar asosida qiyin sotiluvchi aktivlar (A4) summasini aniqlang. Jami aktivlar 900 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m.
 ======
-#Auditorlik xulosasini tuzishdan bosh tortishi lozim
+#405 mln
 ======
-Mijoz korxona raxbari va bosh buxgalteri bilan dalolatnoma tuzish lozim.
+440 mln
 ======
-Mijoz korxona raxbari va bosh auditor birgalikda dalolatnoma tuzish lozim.
+220 mln
 ======
-Mijoz korxona raxbari va bosh buxgalterini jinoiy javobgalikga tortish lozim
+7 mln
 ++++++
-Majburiyatlar auditida kamchiliklar sabablarini surishtirish auditorlik dalillarini olishning qaysi turiga mansub?
+Quyidagi ma’lumotlar asosida sekin sotiluvchi aktivlar (A3) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat.
 ======
-#so‘rov
+#22 mln
 ======
-nazorat
+440 mln
 ======
-hisoblash
+220 mln
 ======
-analitik amallar
+360 mln
 ++++++
-Auditorlar nazorat testlashdan qachon foydalanadi?
+Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlar (A2) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 130 mln so‘m, pul mablag‘lari 60 mln so‘m.
 ======
-#Agar auditor muhim buzib ko‘rsatishlarning oldini olish yoki aniqlash va tuzatishda nazorat vositalarining samaradorligini baholashni xohlasa, nazorat vositalarini testlashni amalga oshiradi.
+#130 mln
 ======
-Auditorlar muhim buzib ko‘rsatishlar riskini aniqlash uchun auditni rejalashtirish jarayonida risklarni baholash tartib-qoidalaridan foydalanadilar.
+190 mln
 ======
-Auditor moliyaviy hisobotdagi muhim buzib ko‘rsatishlar bo‘yicha bevosita dalil olmoqchi bo‘lganda, mohiyatiga ko‘ra tekshirishni qo‘llaydi.
+220 mln
 ======
-Muhimlik darajasini belgilash paytida nazorat testlashni qo‘llaydi
+160 mln
 ++++++
-“Audit” o‘zagi so‘zi qaysi tildan olingan?
+Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlarning (A2) jami aktivlardagi ulushini aniqlang. Jami aktivlar 1000 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m.
 ======
-#lotin tili
+#10 %
 ======
-ingliz tili
+25 %
 ======
-yunon tili
+50 %
 ======
-nemis tili
+27,5 %
 ++++++
-Bosh to‘plamni har biri o‘xshash xususiyatlarga ega bo‘lgan namunaviy elementlar guruhini ifodalaydigan kichik to‘plamlarga bo‘lish jarayoni auditda nima deb ataladi?
+Quyidagi ma’lumotlar asosida yuqori likvidli aktivlarning (A1) joriy aktivlardagi ulushini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 82 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
 ======
-#Stratifikatsiya
+#50 %
 ======
-Ekstrapolyatsiya
+13,6 %
 ======
-Inventarizatsiya
+30 %
 ======
-Amortizatsiya
+22,7 %
 ++++++
-Moliyaviy hisobot auditining asosiy maqsadi nimadan iborat
+Quyidagi ma’lumotlar asosida korxonaning o‘z oborot mablag‘lari mavjud summasini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 260 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 190 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
 ======
-#moliyaviy hisobotlarning to‘g‘riligini tekshirish
+#130 mln
 ======
-Auditorlik dalillarining sifat o‘lchovi, ya’ni auditorlik fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi
+60 mln
 ======
-Auditorlik fikri uchun asos bo‘lgan hulosalarga erishishda ekspert tomonidan foydalanilgan ma’lumot
+140 mln
 ======
-Auditorlik dalillarining sifat o‘lchovi, ya’ni auditorlik fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda foydalanilgan ma’lumotlar
+120 mln
 ++++++
-Agar nomoddiy aktiv kelgusida korxonaga iqtisodiy naf keltirmasa, nomoddiy aktiv…?
+Quyidagi ma’lumotlar asosida o‘z oborot mablag‘lari mavjud summasining balans jamiga nisbati koeffitsiyentini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 370 mln so‘m, uzoq muddatli kredit va qarzlar 130 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
 ======
-#xarajat sifatida aks ettiriladi
+#0,4
 ======
-aktiv sifatida aks ettiriladi
+0,03
 ======
-kelgusi davr xarajatlari sifatida aks ettiriladi
+0,8
 ======
-kelgusi davr daromadlari sifatida aks ettiriladi
+0,05
+68 mln
 ++++++
-Auditorlar mohiyatiga ko‘ra tekshirish amalidan qachon foydalanadi?
+Quyidagi modellardan qaysi biri xususiy kapitalga ta’sir etuvchi mustaqil ko‘rsatkichlarni o‘rganishga xizmat qiladi?
 ======
-#Auditor moliyaviy hisobotdagi muhim buzib ko‘rsatishlar bo‘yicha bevosita dalil olmoqchi bo‘lganda, mohiyatiga ko‘ra tekshirishni qo‘llaydi.
+#Dyupont modeli
 ======
-Auditorlar muhim buzib ko‘rsatishlar riskini aniqlash uchun auditni rejalashtirish jarayonida risklarni baholash tartib-qoidalaridan foydalanadilar.
+Altman modeli
 ======
-Agar auditor muhim buzib ko‘rsatishlarning oldini olish yoki aniqlash va tuzatishda nazorat vositalarining samaradorligini baholashni xohlasa, mohiyatiga ko‘ra tekshirishni amalga oshiradi.
+Biver modeli
 ======
-Muhimlik darajasini belgilash paytida mohiyatiga ko‘ra tekshirishni qo‘llaydi
+Taffler modeli
 ++++++
-Asosiy vositalar auditida tanlashni amalga oshirishda olingan natijalarni butun tekshirilayotgan jamlanmaga tatbiq etish nima deb ataladi?
+Quyidagi modellardan qaysi biri korxona bankrotligini baholash modeli hisoblanmaydi?
 ======
-#ekstrapolyatsiyalash
+#Dyupont modeli
 ======
-difraktsiyalash
+Altman modeli
 ======
-dispersiyalash
+Biver modeli
 ======
-determinlash
+Taffler modeli
 ++++++
-Asosiy vositalar bo‘yicha hisoblangan amortizatsiya qanday hisobdan chiqariladi?
+Sotishdan olingan sof tushum qanday aniqlanadi?
 ======
-#Asosiy ishlab chiqarish yoki davr xarajati hisobiga
+#Mahsulot sotishdan tushgan yalpi tushumdan biznesga egri soliqlar ayriladi.
 ======
-debitorlik qarzlari hisobiga
+Mahsulot sotishdan tushgan yalpi tushumdan ishlab chiqarish tannarxi ayriladi
 ======
-qarz mablag‘lari hisobiga
+Mahsulot sotishdan tushgan yalpi tushumga qo‘shilgan qiymat solig‘i qo‘shilib, ishlab  chiqarish tannarxi ayriladi
 ======
-majburiyatlar hisobiga
+Mahsulot sotishdan tushgan yalpi tushumga qo‘shilgan qiymat solig‘i va aksiz solig‘i qo‘shiladi.
 ++++++
-Audit standartlari -?
+Sof foydaning aniqlanishi to‘g‘ri ko’rsatilgan qatorni toping.
 ======
-#Bu o‘zining professional faoliyati davomida hamma auditorlar rioya qilishi lozim bo‘lgan yagona asos tamoyillardir
+#Soliq to‘lagunga qadar umumiy moliyaviy natijadan  foyda solig’i  va foydadan boshqa soliqlar va ajratmalar ayriladi
 ======
-Bunday hujjat mavjud emas
+Soliq to‘lagunga qadar umumiy moliyaviy natijaga boshqa soliq va ajratmalar qo‘shiladi.
 ======
-Bu faqat yordamchi auditorlar rioya qilishi lozim bo‘lgan yagona asos tamoyillardir
+Soliq to‘lagunga qadar umumiy moliyaviy natijadan daromad solig‘i ayriladi
 ======
-Bu faqat yordamchi auditorlar rioya qilishi lozim bo‘lgan asos tamoyillardir
+Soliq to‘lagunga qadar umumiy moliyaviy natijaga boshqa soliq va ajratmalar ko‘paytiriladi
 ++++++
-Auditor auditni rejalashtirish davrida ajratib bo‘lmaydigan tavakkalchiligini 70%, ichki nazorat tavakkalchiligini 40%, aniqlanmaslik tavakkalchiligini 12% qilib belgiladi. Shunda auditorlik tavakkalchiligi necha foizga teng bo‘ladi?
+Yalpi foyda qanday aniqlanadi?
 ======
-#3,36%
+#Sotishdan olingan sof tushumdan ishlab chiqarish tannarxi ayriladi
 ======
-3,16%
+Sotishdan olingan sof tushumga ishlab chiqarish tannarxi qo‘shiladi
 ======
-3,46%
+Sotishdan olingan sof tushum 100 ga ko‘paytirilib, ishlab chiqarish tannarxiga bo‘linadi
 ======
-2,15%
+Sotishdan olingan sof tushum 100 ga bo‘linib, ishlab chiqarish tannarxiga ko‘paytiriladi
 ++++++
-Nomoddiy aktivlar inventarizatsiyasini o‘tkazishda auditor qaysi standartga asoslanadi?
+Ustav kapitali qaysi moddalar hisobiga hosil bo‘ladi?
 ======
-#BHMS №19
+#Ta’sischilarning ulushlari, sof foyda va maqsadli tushumlar
 ======
-BHMS №1
+Ta’sischilarning ulushlari;
 ======
-BHMS №4
+Korxonaning xo`jalik faoliyatidan kelgan foydasi;
 ======
-BHMS №5
+Ta’sischilarning maqsadli badali;
 ++++++
-Auditda xolislik tamoyilining mazmunini aniqlang?
+Rezerv kapitali tarkibiga kirmaydigan moddani aniqlang.
 ======
-#Auditorning manfaatsizligi va beg‘arazligi
+#xususiy aksiyalar;
 ======
-Professional xizmatlarni ko‘rsatishda qo‘shimcha tekshiruv
+Tekinga olingan mulk;
 ======
-Tarafkashlik qilish
+Asosiy vositalarni qayta baholash bo‘yicha tuzatishlar;
 ======
-Boshqa omillar ta’siridan foydalanish
+Nomoddiy aktivlarni qayta baholash bo‘yicha tuzatishlar;
 ++++++
-Auditorlar auditorlik amallarini bajarish chog‘ida quyidagilardan qaysi birini bajarmaydi?
+Quyida berilgan ko’rsatkichlardan qaysilari korxonaning moliyaviy barqarorlik 
+darajasini ifodalaydi?
 ======
-#mijoz korxonaning bank hisob raqamini muzlatib turadi
+#Qarzga olingan va o‘z mablag‘lari nisbati;
 ======
-dalillovchi ma’lumotlarni to‘playdi
+Joriy aktivlar miqdori;
 ======
-mijoz korxonani inventarizatsiya qiladi
+Operatsion davr;
 ======
-uchinchi shaxsning og‘zaki bildirishlarini yig‘adi
+Debitorlik qarzlarini aylanishi
 ++++++
-Auditorlar bilim darajasini doimiy ravishda mustahkamlab borishi zarurligi Axloq kodeksining qaysi tamoyilida belgilangan?
+Buxgalteriya balansi quyidagi elementlarni o‘z ichiga oladi:
 ======
-#professional kompetentlik
+#Aktivlar, o’z kapitali va qarz kapitali
 ======
-mustaqillik
+Aktivlar va majburiyatlar;
 ======
-obyektivlik
+Uzoq muddatli aktivlar va o‘z kapitali;
 ======
-maxfiylik
+Joriy aktivlar va majburiyatlar;
 ++++++
-Moliyaviy hisobotlarni tasdiqlash sanasi…?
+Korxonaning moliyaviy holati nimaga bog‘liq emas?
 ======
-#Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda tegishli vakolatlarga ega bo‘lgan shaxslar ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana
+#Davlatning moliyaviy faoliyati natijalariga
 ======
-Moliyaviy axborotlar aks etadigan hujjatlarni tayyorlanganligini hamda tegishli vakolatlarga ega bo‘lgan shaxslar ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana
+Korxonaning asosiy faoliyati natijalariga
 ======
-Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda tashkilot raxbari tomonidan ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana
+Korxonaning jami faoliyati natijalariga
 ======
-Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda yordamchi buxgalter tomonidan ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana
+Korxonaning ishlab chiqarish faoliyati natijalariga
 ++++++
-Auditorlik faoliyatini amalga oshirish uchun Auditorlik tashkilotlari Reyestrini yuritishga vakolatli organni ko‘sating?
+Balansning aktiv qismi quyidagi tahliliy guruhlardan iborat:
 ======
-#Iqtisodiyot va moliya vazirligi
+#Uzoq muddatli va joriy aktivlar.
 ======
-Iqtisodiyot vazirligi.
+Uzoq mudatli aktivlar va hisob-kitob schyotidagi mablag‘lar.
 ======
-Auditorlar palatasi
+Materiallar va zaxiralar, pul mablag‘lari va kreditlar.
 ======
-O‘zbekiston buxgalterlar va auditorlar milliy assotsiatsiyasi
+Asosiy vositalar va oborotdan tashqari aktivlar.
 ++++++
-Auditorlik tashkiloti auditorlik tanlashning barcha bosqichlarini va uning natijalari tahlilini qaysi hujjatda aks ettiradi?
+Balansning passiv qismi quyidagi tahliliy guruhlardan iborat:
 ======
-#auditorning ishchi hujjatlarida
+#O‘z va qarz mablag‘lari
 ======
-auditorlik shartnomada
+Uzoq muddatli va qisqa muddatli aktivlar.
 ======
-auditorlik hisobotida
+Qisqa muddatli aktivlar va kreditorlik qarzlari.
 ======
-auditorlik xulosasida
+Qarz mablag‘lari va taqsimlanmagan foyda.
 ++++++
-Auditorlik tekshiruvi hajmining cheklanganligi deb nimaga aytiladi?
+Moliyaviy tahlilga ta’rif bering.
 ======
-#Bu xo‘jalik yurituvchi sub’ekt vakillari yoki uchinchi shaxslarning, boshlab qo‘yilgan auditorlik tekshiruvini, auditor auditorlik xulosasi tayyorlash uchun yetarli deb hisoblaydigan hajmda o‘tkazishga to‘sqinlik qilishga qaratilgan ochiqdan-ochiq ko‘rsatadigan hatti-harakatlari yoki harakatsizligidir
+#Xo‘jalik yurituvchi sub’ekt moliyaviy natijalari va moliyaviy holatini o‘rganishga qaratilgan tahlildir
 ======
-Auditorlik tekshiruvida inventarizatsiyani o‘tkazilmasligidir
+Korxona xo‘jalik faoliyatini o‘rganishga qaratilgan iqtisodiyotning mikroiqtisod darajasini o‘rganishga qaratilgan tahlildir.
 ======
-Bu xo‘jalik yurituvchi sub’ekt vakillari yoki uchinchi shaxslarning, boshlab qo‘yilgan auditorlik tekshiruvini, auditor auditorlik xulosasi tayyorlash uchun sifatli o‘tkazishga to‘sqinlik qilishga qaratilgan ochiqdan-ochiq ko‘rsatadigan hatti-harakatlari yoki harakatsizligidir
+Xo‘jalik yurituvchi sub’ekt faoliyatini makon va zamon nuqtai nazaridan barcha tuzilmalari bilan birga batafsil tahlil qilishdir.
 ======
-Auditorlik tekshiruvining hajmi cheklanmagan
+Xo‘jalik faoliyatida natija va omillar o‘rtasidagi bog‘liqlik funksional bog‘liq bo‘lmagan sharoitda, ularning bog‘liqligini o‘rganishga qaratilgan tahlildir.
 ++++++
-Auditorlik tekshiruvi ko‘rsatkichlar samaradorligi va unumdorligi bo‘yicha o‘tkazilishi auditning qaysi turida ko‘rib o‘tiladi?
+Agar tovar mahsuloti hajmining qiymati 100 ming. so‘mni tashkil etsa, mahsulotni ishlab chiqarish tannarxi 80 ming. so‘m, davr xarajatlari esa 30 ming.so‘m bo‘lsa, u holda ishlab chiqarishning yalpi foydasini toping.
 ======
-#operatsion audit
+#50 ming. so‘m
 ======
-mos keluvchanlik auditi
+20 ming. so‘m
 ======
-moliyaviy hisobotlar auditi
+60 ming. so‘m
 ======
-majburiy audit
+180 ming. so‘m
 ++++++
-Auditorlik tekshiruvi natijasida etkazilgan zararlarni undirish bo‘yicha daromadlar moliyaviy daromadlar tarkibiga qo‘shilganligi aniqlandi. Qonunchilikka binoan bu turdagi daromad qaysi qatorga qo‘shilishi kerak?
+"Davr xarajatlari"ga quyidagi qaysi modda kirmaydi?
 ======
-#asosiy ishlab chiqarish faoliyatidan olinadigan boshqa daromadlar
+#Valyuta kurs farqidan zarar
 ======
-moliyaviy faoliyatdan olinadigan daromadlar
+Boshqaruv xarajatlari
 ======
-mahsulot sotishdan olingan sof tushum
+Reklama xarajatlari
 ======
-favqulodda daromadlar
+Asosiy vositalar chiqimidan zarar
 ++++++
-Auditorlik tekshiruvi natijasida ishlab chiqarish xodimlarini va ishlab chiqarish aktivlarini majburiy va ixtiyoriy sug‘urta qilish xarajatlari boshqa operatsion xarajatlar tarkibiga qo‘shilganligi aniqlandi. Qonunchilikka binoan bu turdagi xarajat qaysi qatorga qo‘shilishi kerak?
+Moliyaviy natijalar qaysi elementlardan iborat?
 ======
-#ishlab chiqarish tusidagi boshqa xarajatlar
+#Daromadlar va xarajatalar
 ======
-ishlab chiqarish xususiyatiga ega bo‘lgan mehnatga haq to‘lash xarajatlari;
+Daromadlar
 ======
-ishlab chiqarish bilan bog‘liq moddiy xarajatlar
+Xarajatlar
 ======
-sotish xarajatlari
+Jami aktivlar
 ++++++
-Auditorlik tekshiruvi natijasida mol-mulkni uzoq muddatli ijaraga berishdan olingan daromadlar operatsion daromadlar tarkibiga qo‘shilganligi aniqlandi. Qonunchilikka binoan bu turdagi daromad qaysi qatorga qo‘shilishi kerak?
+Daromadlar-...
 ======
-#moliyaviy faoliyatdan olinadigan daromadlar
+#Bu hisobot davrida iqtisodiy foydaning  aktivlarning oqimi yoki ko‘payishi shaklida o`sishi yoki passivlarning qatnashchilarning kapitaldagi omonatlaridan farq etuvchi o`sishiga olib keluvchi kamayishidir
 ======
-mahsulot sotishdan olingan sof tushum
+Hisobot davrida iqtisodiy foydaning aktivlarning chiqib ketishi  yoki ulardan foydalanish  shaklida kamayishi, shuningdek, qatnashchilar o‘rtasida kapitalning kamayishiga olib keluvchi  majburiyatlarning yuzaga kelishidir
 ======
-asosiy ishlab chiqarish faoliyatidan olinadigan boshqa daromadlar
+Boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan boshqa xarajatlar
 ======
-favqulodda daromadlar
+Hisobot davrida kapitalning o’sgan qismi
 ++++++
-Auditorlik tekshiruvi qanday shakllarda o‘tkaziladi?
+Xarajatlar –....
 ======
-#majburiy, tashabbus tarzidagi audit shakllari
+#Hisobot davrida iqtisodiy foydaning aktivlarning chiqib ketishi yoki ulardan foydalanish shaklida kamayishi, shuningdek, qatnashchilar o‘rtasida kapitalning kamayishiga olib keluvchi  majburiyatlarning yuzaga kelishidir
 ======
-majburiy audit shakllar
+Bu hisobot davrida iqtisodiy foydaning aktivlarning oqimi yoki ko‘payishi shaklida o`sishi yoki passivlarning qatnashchilarning kapitaldagi omonatlaridan farq etuvchi o`sishiga olib keluvchi kamayishidir
 ======
-nazorat, taftish va ixtiyoriy audit shakllari
+Boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan boshqa xarajatlar
 ======
-majburiy, ixtiyoriy va taftish shakllari
+Tabiiy resurslarning sarflanishi
 ++++++
-Korporativ boshqaruvda ichki audit xizmati ishini tahlil va nazorat qilish qaysi qo‘mitaning vazifasi hisoblanadi?
+Moliyaviy natijalar tahlilida nimalarga baho beriladi?
 ======
-#Audit qo‘mitasi
+#Daromadlar va xarajatalar, foyda va zarar
 ======
-Rag‘batlantirish qo‘mitasi
+Daromadlar va foyda
 ======
-Xodimlar bo‘yicha qo‘mitasi
-======
-Risklar bo‘yicha qo‘mita
-++++++
-Audit qo‘mitasi a’zoligiga nomzodlar qatoriga kimlarni kiritish mumkin?
-======
-#Ijrochi bo‘lmagan direktorlar
-======
-Ijrochi direktorlar
-======
-Ichki auditorlar
-======
-Ekspertlar
-++++++
-Korporativ boshqaruvda tashqi auditorlarning mustaqilligi va obyektivligini qaysi qo‘mita nazorat va tahlil qiladi?
-======
-#Audit qo‘mitasi
-======
-Risklarni boshqarish qo‘mitasi
-======
-Rag‘batlantirish bo‘yicha qo‘mita
-======
-Xodimlarni boshqarish qo‘mitasi
-++++++
-Auditorlik xulosasiga qaysi qatorda to‘liqroq va aniqroq javob berilgan?
-======
-#Moliyaviy hisobotning to‘g‘riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to‘g‘risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo‘jalik yurituvchi sub’ektga taqdim etilgan hujjat
-======
-Moliyaviy hisobotning to‘g‘riligi to‘g‘risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo‘jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo‘lgan hujjat
-======
-Buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to‘g‘risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo‘jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo‘lgan hujjat
-======
-Moliyaviy hisobotning to‘g‘riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to‘g‘risida auditorlik tashkilotining maxfiy fikri yozma shaklda ifodalangan, xo‘jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo‘lgan hujjat
-++++++
-Moliyaviy hisobotdagi ataylab qilingan buzib ko‘rsatish, jumladan moliyaviy hisobot tuzishda ochib berilishi talab etiladigan ma’lumotlarni yoki qandaydir summalarni ataylab yashirish
-======
-#Firibgarlik
-======
-Xato
-======
-Tushrib qoldirish
-======
-Noto‘g‘ri ko‘rsatish
-++++++
-Bekor qilingan ishlab chiqarish buyurtmalari bo‘yicha yo‘qotishlar qaysi turdagi xarajatlarga kiritiladi?
-======
-#boshqa operatsion xarajatlar
-======
-ma’muriy xarajatlari
-======
-sotish xarajatlari
-======
-moliyaviy xarajatlar
-++++++
-Asosiy vositalar auditining aniq maqsadi nimalardan iborat?
-======
-#asosiy vositalar tarkibining to‘g‘ri shakllantirilishi, ular xarakatini hisobga olishning to‘liqligi va realligini tekshirilishidan iborat
-======
-ularni hisob kitob schetida to‘g‘ri aks ettirilganligini o‘rganish
-======
-asosiy vositalar xarakati to‘g‘risidagi hisobotni tekshirishdan iborat
-======
-mol etkazib beruvchilan bilan aloqasini o‘rganish
-++++++
-Firibgarlik bu-
-======
-#Rahbariyat, boshqaruv yuklatilgan shaxslar, xodimlar yoki uchinchi shaxslar orasidan bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan noxaqqoniy va noqonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat
-======
-Kuzatuv kengashi yuklatilgan shaxslar bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan noxaqqoniy va noqonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat
-======
-Rahbariyat, boshqaruv yuklatilgan shaxslar, xodimlar yoki uchinchi shaxslar orasidan bitta yoki bir nechta shaxslar tomonidan bilmasdan qilinadigan xarakat
-======
-Kuzatuv kengashi yuklatilgan shaxslar bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan xaqqoniy va qonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat
-++++++
-Ekspert ishlari natijalari to‘g‘risidagi xulosaning mazmuni va shakli bu -
-======
-#ekspert xizmat ko‘rsatish shartnomasida kursatiladi
-======
-korxona hisob siyosatida ko‘zda tutiladi
-======
-auditorlik tashkiloti bilan korxona o‘rtasida tuzilgan shartnomada
-======
-auditorlar yig‘ilishida belgilanadi
-++++++
-Firibgarlikni rag‘batlantiruvchi yoki sodir etishga majburlovchi yohud firibgarlik qilish imkoniyatini yuzaga keltiruvchi voqealar va sharoitlar
-======
-#Firibgarlik riski omillari
-======
-Nazorat riski omillari
-======
-Ajratib bo‘lmaydigan risk omillari
-======
-Auditorlik riski omillari
-++++++
-Moliyaviy hisobotda buzib ko‘rsatish
-======
-#xato yoki firibgarlik natijasida yuzaga kelishi mumkin
-======
-firibgarlik natijasida yuzaga kelishi mumkin
-======
-xato natijasida yuzaga kelishi mumkin
-======
-Buxgalterlarning bilimsizligi natijasida yuzaga kelishi mumkin
-++++++
-Auditor professional xizmat ko‘rsatib bo‘lganidan so‘ng mijozning maxfiy axborotini o‘zining foydasi, 3-shaxsning foydasi yoki mijozga zarar etkazish maqsadida oshkor etmasligi lozim. Ushbu qaysi talabni xarakterlaydi?
-======
-#Mijoz axborotining maxfiyligi
-======
-Auditorning kasbiy mahorati
-======
-Auditorning mustaqilligi
-======
-Auditorning e’tiborliligi
-++++++
-Buzib ko‘rsatishlar yuzaga kelishi mumkin
-======
-#Moliyaviy hisobotlarni tayyorlash uchun asos bo‘lgan ma’lumotlarni yig‘ish yoki ularga ishlov berishdagi xatoliklar natijasida
-======
-Buxgalter tomonidan moliyaviy hisobotni tuzish natijasida
-======
-Boshlang‘ich hujjatlarni tayyorlash natijasida
-======
-Hisob registrlarini tayyorlash natijasida
-++++++
-Audit jarayonida qaysi moliyaviy hisobot shakli korxona faoliyatining foyda yoki zararini tavsiflaydi?
-======
-#moliyaviy natijalar to‘g‘risidagi hisobot
-======
-xususiy kapital to‘g‘risidagi hisobot
-======
-tushuntirish xati
-======
-buxgalteriya balansiga ilova
-++++++
-Ichki audit xizmati kimning qaroriga asosan tashkil etiladi
-======
-#Kuzatuv kengashi
-======
-Aktsiyadorlar umumiy yig‘ilishi
-======
-Direktor
-======
-Taftish komissiyasi
-++++++
-Auditorlar va auditorlik tashkiloti xodimlari auditorlik xizmatlari ko‘rsatish jarayonida o‘zlariga ma’lum bo‘lib qolgan ma’lumotlarni o‘ziga auditorlik xizmatlari ko‘rsatilgan shaxslarning yozma roziligisiz oshkor etmasligi
-======
-#Axborotning maxfiyligi prinsipi
-======
-Musatqillik prinsipi
-======
-Professional kompitentlik prinsipi
-======
-Xolislik prinsipi
-++++++
-Kompaniyaning moliyaviy hisoboti ishonchli va haqqoniy taqdim etilganligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?
-======
-#moliyaviy hisobot auditi
-======
-operatsion audit
-======
-mos keluvchanlik auditi
-======
-ichki audit
-++++++
-Korxona iqtisodiga ta’sir qiladigan ichki omillarga quyidagilardan qaysi biri kiradi?
-======
-#korxonaning uchinchi shaxslar bilan o‘zaro munosabatlari
-======
-tarmoq holati
-======
-mamlakat soliq siyosati
-======
-mamlakatdagi mavjud inflyatsion holat
-++++++
-Korxona xodimlari tomonidan bajariladigan maxsus tekshiruvlar nima deb ataladi?
-======
-#nazorat amallari
-======
-nazorat muhiti
-======
-korxonadagi buxgalterlik hisobi tizimi
-======
-ichki nazorat tizimi
-++++++
-Korxonaning soliq deklaratsiyasi soliq inspektsiyasi talablariga muvofiq emasligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?
-======
-#mos keluvchanlik auditi
-======
-operatsion audit
-======
-moliyaviy hisobotlar auditi
-======
-majburiy audit
-++++++
-Auditorlik tekshiruvi obyekti hisoblangan umumiy maqsadli asosga muvofiq tayyorlangan moliyaviy hisobotlarda nima aks etmaydi?
-======
-#Ishsizlik darajasi
+Xarajatlar va zarar
 ======
 Moliyaviy holat
-======
-Moliyaviy natijalar
-======
-Pul oqimlari
 ++++++
-Majburiy auditorlik tekshiruvining o‘tkazish muddati qanday?
+Korxonaning hisobot davridagi daromadlari va xarajatlari to‘g‘risidagi axborotlar qaysi hisobot shaklidan olinadi?
 ======
-#hisobot yilidan keyingi yilning 15 iyuniga qadar
+#Moliyaviy natijalar to‘g‘risidagi hisobot
 ======
-hisobot yilidan keyingi yilning 1 fevraligacha
+Pul oqimlari to‘g‘risidagi hisobot
 ======
-hisobot yilidan keyingi yilning 1 apreligacha
+Xususiy capital haqidagi hisobot
 ======
-hisobot yilidan keyingi yilning 1 martigacha
+Buxgalteriya balansi
 ++++++
-Auditor auditorlik faoliyati davrida boshqa tadbirkorlik faoliyati bilan shug‘ullanmasligi lozim. Qaysi talabga mos tushadi?
+Moliyaviy natijalar to‘g‘risidagi hisobot shaklining asosiy ko’rsatkichlariga qaysilar kiritiladi?
 ======
-#Professional xizmatga aloqador bo‘lmagan sohada auditorning harakati
+#Mahsulot sotishdan yalpi foyda (zarar), davr xarajatlari jami, asosiy faoliyatning foyda (zarar)si, moliyaviy faoliyat bo’yicha daromad (xarajat)lari, umumxo‘jalik faoliyatining foyda (zarar)si, favqulodda foyda (zarar)lar, daromad (foyda) solig‘i
 ======
-Xodimlarning auditorlik tashkilotlari bilan munosabati
+Moliyaviy faoliyat bo’yicha daromad (xarajat)lari, umumxo‘jalik faoliyatining foyda (zarar)si, favqulodda foyda (zarar)lar, taqsimlanmagan foyda, daromad (foyda) solig‘ini  to‘langunga qadar foyda (zarar)si.
 ======
-Nashr qilinadigan axborot va reklama
+Boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan boshqa xarajatlar, maqsadli tushumlar
 ======
-Auditorning kasbiy mahorati
+Aktivlar qiymati, taqsimlanmagan foyda, favqulodda foyda, sof foyda
 ++++++
-Korxonalarda ishlab chiqarish xarajatlarini tartibga soluvchi asosiy hujjat – bu ?
+Davr xarajatlari qatoriga kirmaydigan xarajatlarni ko’rsating.
 ======
-#“Mahsulot(ish,xizmat)larni ishlab chiqarish va realizatsiya xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi to‘g‘risida”gi Nizom
+#Moliyaviy faoliyat bo’yicha xarajatlar
 ======
-Auditorlik dalillar
+Ma’muriy xarajatlar
 ======
-Moliyaviy Hisobotning Xalqaro Standartlari
+Sotish xarajatlari
 ======
-Auditning Xalqaro Standartlari
+Boshqa operatsion xarajatlar
 ++++++
-Tannarx soliqqa tortish maqsadlarida hisob elementi sifatida esa soliqqa tortiladigan bazani … miqdor bo‘lib hisoblanadi.
+Moliyaviy natijalarning shakllanish qatorlariga qaysilar kiritiladi?
 ======
-#kamaytiradigan
+#Sotishdan yalpi moliyaviy natija, Asosiy faoliyatdan moliyaviy natija, Umumxo’jalik faoliyatdan natija, Soliq to’langunga qadar moliyaviy natija
 ======
-ko‘paytiradigan
+Moliyaviy faoliyatdan natija, Favqulodda kutilmagan holatlardan natija
 ======
-oshiradigan
+Sotish xarajatlari, Moliyaviy faoliyat bo’yicha xarajatlar
 ======
-to‘g‘ri javob yo‘q
+Favqulodda foyda, sof foyda
 ++++++
-To‘langan ijara haqi keyinga yil davomida umumiy summaning … qismi miqdorida har oyda xarajatga hisobdan o‘chirishi lozim.
+Sotish xarajatiga kiradigan xarajat turini tanlang.
 ======
-#1/12
+#mahsulotlarni xaridorga yetkazib berish xarajatlari
 ======
-3/12
+asosiy vositalarni chiqimi bilan bog‘liq zararlar
 ======
-6/12
+olingan kredit va qarzlar uchun foizlar
 ======
-butun
+Ishlab chiqarishdagi ishchilarga hisoblangan ish haqi
 ++++++
-Mahsulotlarning ishlab chiqarish tannarxiga kiritilmaydigan xarajatlarni toping.
+Mahsulot sotishdan olingan foyda o‘zgarishiga qaysi omillar bevosita ta’sir etishi mumkin?
 ======
-#foizlar bo‘yicha sarflar
+#Sotilgan mahsulot hajmi, bahosi va tannarx
 ======
-bevosita va bilvosita moddiy xarajatlar
+Sotilgan mahsulot hajmi, kreditlar foizi va tannarx
 ======
-bevosita va bilvosita mehnat xarajatlari
+Sotib olingan tovarlar hajmi, narxi va valyuta kursi
 ======
-boshqa bevosita va bilvosita xarajatlar,shu jumladan ishlab chiqarish xususiyatiga ega bo‘lgan ustama xarajatlar
+Ishlab chiqarish hajmi, tannarx va inflatsiya
 ++++++
-Xo‘jalik yurituvchi sub’ektlarning umumxo‘jalik faoliyatidan olingan foyda yoki ko‘rilgan zararlarni hisoblab chiqarishda hisobga olinadigan, uning moliyaviy faoliyatiga doir xarajatlar guruhiga kirmaydigan xarajatlarni toping.
+Moliyaviy xarajatalar tarkibiga quyidagilardan qaysi biri kiradi?
 ======
-#sotish xarajatlari
+#valyuta kurs farqidan zarar
 ======
-foizlar bo‘yicha sarflar
+boshqa umumxo‘jalik xarajatlari
 ======
-xorijiy valyuta muomalalari bo‘yicha salbiy kurs tafovutlari
+ma’muriy xarajatlar
 ======
-moliyaviy faoliyatga doir boshqa xarajatlar
+favqulodda zarar
 ++++++
-Quyidagilardan qaysi biri auditor tomonidan korxona faoliyatini o‘rganish uchun maqsad hisoblanmaydi?
+Soliq to’loviga qadar foydaga ta’sir qilmaydigan omil qaysi qatorda berilgan?
 ======
-#xato-kamchiliklar bo‘yicha tegishli organlarga zudlik bilan murojaat qilish
+#Foyda solig’i va uning stavkasi
 ======
-audit o‘tkazishni osonlashtirish
+Mahsulot sotishdan olingan yalpi foyda
 ======
-audit o‘tkazishni sifatini oshirish
+Moliyaviy faoliyatdan foyda va zararlar
 ======
-tekshiriladigan korxona iqtisodini yaxshilashga qaratilgan amaliy maslahat yordami ko‘rsatish
+Asosiy faoliyatning boshqa jarayonlaridan daromad va yo‘qotishlar, mahsulot sotishdan olingan yalpi foyda
 ++++++
-Ishlab chiqarishga berilgan materiallarni hisobdan o‘chirish yuzasidan mamlakatimizda qo‘llanilmaydigan usulni aniqlang.
+Moliyaviy natijalar tahlilining maqsadi....
 ======
-#LIFO
+#Korxonaning yil yakunlari bo’yicha olingan natijalarini har bir faoliyat bo’yicha aniqlash va ularning o‘zgarishiga ta’sir etuvchi omillarni aniqlashdan iborat
 ======
-har bir birligining tannarxi bo‘yicha
+Korxonalarda ishlab chiqarilayotgan mahsulotning tannarxini minimal darajada kamaytirish yo‘llarini aniqlash va ularga ta’sir etuvchi  omillarni o‘rganishdan iborat
 ======
-AVECO
+Korxona moliyaviy holati va uning o’zgarishiga baho berish
 ======
-FIFO
+Moliyaviy faoliyat samaradorligiga baho berish va uni yaxshilash
 ++++++
-Auditor qaytarib olinadigan chiqindilar qiymati va idish hamda o‘rash materiallari qiymati ularni sotish,foydalanish yoki omborga kirim qilish mumkin bo‘lgan narxda baholanib,mahsulot tannarxiga kiritiladigan moddiy resurslar xarajatlaridan … aniqlashi zarur.
+Moliyaviy holatni ifodalovchi ko’rsatkichni aniqlang.
 ======
-#chegirib tashlanganligini
+#Moliyaviy mustaqillik koeffitsiyenti
 ======
-chegirib tashlanmaganligini
+Aktivlar rentabelligi
 ======
-oshirib ko‘rsatilganligini
+Bir aksiyaga daromad
 ======
-to‘g‘ri javob yo‘q
+Mehnat unumdorligi
 ++++++
-Kasbiy layoqatlilik darajasiga erishish va kasbiy layoqatlilikni tegishli darajada saqlab turish. Ushbu fikr nimaga urg‘u beradi?
+Quyidagilardan qaysi biri buxgalteriya balansining aktiv qismiga taalluqli emas?
 ======
-#Kasbiy mahoratga
+#Kelgusi to’lovlar va xarajatlar uchun rezerv
 ======
-Auditorning xizmatiga
+Kelgusi davr xarajatlari
 ======
-Auditorning mustaqilligiga
+Kechiktirilgan xarajatlar
 ======
-Etik normalarga
+Tugallanmagan ishlab chiqarish
 ++++++
-Auditorlik hisoboti shu tekshiruvni o‘tkazgan auditor(lar) tomonidan qanday imzolanishi lozim?
+Korxona mablag‘larni to‘ldirish manbalari nimalardan iborat?
 ======
-#betma-bet
+#O‘z mablag‘lari va majburiyatlar
 ======
-faqatgina birinchi beti
+Majburiyatlar, maqsadli tushum va aktivlar
 ======
-faqatgina oxirgi beti
+Debitorlar
 ======
-faqatgina birincha va oxirgi betlari
+Kredit va qarzlar
 ++++++
-Quyidagilardan qaysi biri auditorlik hisobotining tahliliy qismida bo‘lmaydi?
+To‘lov qobiliyati deyilganda....
 ======
-#audit shartnomasi summasi
+#Xo‘jalikning muddati kelgan to’lov majburiyatlarni bajarish uchun zurur bo‘lgan mablag‘larni yetarli yoki kamchiligini aniqlash tushuniladi
 ======
-xo‘jalik yurituvchi sub’ektda ichki nazoratning ahvolini tekshirish natijalari (batafsil bayoni)
+Asosiy va aylanma mablag‘larning holatini bajarish uchun zurur bo‘lgan mablag‘larni yetarli yoki kamchiligini aniqlash tushuniladi
 ======
-xarajatlarni bo‘limlar o‘rtasida to‘g‘ri taqsimlanishini amalga oshirish chog‘ida qonunchilikka rioya qilinishini tekshirish natijalari
+Majburiyatlarni qoplash uchun o’zlik mablag’larining mavjudligi tushuniladi
 ======
-xom ashyo va tayyor mahsulotlarning shaklanishini tekshirish natijalari
+Aylanma mablag‘larga o’zlik mablag’larining mavjudligi
 ++++++
-O‘zbekiston Respublikasi Fuqarolik Kodeksi va shartnoma qonunchiligiga ataylab rioya qilinmasdan tuzilgan shartnomalar va ular asosida amalga oshirilgan muomalalar … deb topiladi.
+To‘lov mablag‘lariga qaysilar kiradi?
 ======
-#haqiqiy emas
+#Pul mablag‘lari, jo’natilgan tovar va mahsulotlar qiymati (hali pul kelib tushmagan), tovar-moddiy zaxiralar va boshqalar kiradi
 ======
-haqiqiy
+O‘zlik mablag‘larning manbalari, jo’natilgan tovar va mahsulotlar qiymati va boshqalar kiradi
 ======
-shartli ravishda haqiqiy
+Jo’natilgan tovar va mahsulotlar qiymati, pul mablag‘lari va boshqalar kiradi
 ======
-shartli ravishda haqiqiy emas
+Kreditorlik qarzlari va kechiktirilgan daromadlar
 ++++++
-Quyidagilardan qaysi biri auditorlik tekshiruvida ta’minot jarayoniga xos bo‘lgan ichki nazorat vositalarining samaradorligini baholash bosqichi hisoblanmaydi?
+To‘lov majburiyatlariga qaysilar kiradi?
 ======
-#moliyaviy natijalarni tekshirish
+#Mol yetkazib beruvchi va pudratchilarga, byudjet va sug‘urtaga, mehnat haqi, turli xil kreditorlarga bo‘lgan va boshqa turdagi qarzlar kiradi
 ======
-ichki nazorat vositalarini dastlabki o‘rganish
+Pul mablag‘lari, jo’natilgan tovar va mahsulotlar qiymati (xali pul kelib tushmagan), debitor sotishdagi tushum va boshqalar kiradi
 ======
-ichki nazorat vositalarini testdan o‘tkazishni amalga oshirish imkoniyatini aniqlash uchun ulardan har birining ishonchliligini dastlabki baholash
+O‘zlik mablag‘larning manbalari, jo`natilgan tovar va mahsulotlar qiymati va boshqalar
 ======
-testdan o‘tkazish natijalari asosida ichki nazorat vositalarining ishonchliligini yakuniy baholash
+Jo’natilgan tovar va mahsulotlar qiymati, Pul mablag‘lari va boshqalar kiradi
 ++++++
-Muhimlik darajasi auditorlik tekshiruvining qaysi bosqichda belgilab olinadi?
+Korxonaning to‘lov qobiliyatining tahlilida qo’llaniladigan to‘lash uchun mablag‘lar guruhiga qaysilar kiradi?
 ======
-#Rejalashtirish bosqichida
+#Pul mablag‘lari, valyuta mablag‘lari, qisqa muddatli moliyaviy qo`yilmalar, debitorlik qarzlari, tayyor mahsulot
 ======
-Tekshiruv o‘tkazish chog‘ida
+Pul mablag‘lari, jo`natilgan tovar va mahsulotlar qiymati, kreditorlar, tayyor mahsulot
 ======
-Yakuniy bosqichida
+Pul mablag‘lari, valyuta mablag‘lari, jo’natilgan tovar va mahsulotlar qiymati
 ======
-Tugatish va qayta ko‘rib chiqish bosqichida
+Pul mablag’lari, ustav kapitali, debitorlik qarzlari
 ++++++
-Rahbariyat va xodimlar malakaviy darajalarining pastligi qaysi riskka ta’sir ko‘rsatuvchi omil hisoblanadi?
+Korxonaning to‘lov qobiliyatining muddat bo’yicha qaysi turlari o‘rganiladi?
 ======
-#Ichki xo‘jalik riski
+#Joriy to‘lov qobiliyati va umumiy (uzoq muddatli) to‘lov qobiliyati
 ======
-Nazorat riski
+Aktiv va passiv to‘lov qobiliyati
 ======
-Aniqlanmaslik riski
+Joriy to‘lov qobiliyati, aktiv to‘lov qobiliyati
 ======
-Firibgarlik riski
+Joriy likvidlik koeffitsiyenti
 ++++++
-Mol yetkazib beruvchilar va pudratchilarga to‘lanadigan schyotlarning joriy qismi qaysi schyotda olib boriladi?
+Mutloq likvidlik koeffitsiyenti qanday aniqlanadi?
 ======
-#6010
+#Pul mablag’lari+qisqa muddatli investitsiyalar/joriy majburiyatlar
 ======
-7010
+Pul mablag’lari+qisqa muddatli investitsiyalar+TMZ/joriy majburiyatlar
 ======
-6110
+Pul mablag’lari+qisqa muddatli investitsiyalar+debitorlik qarzlari/joriy majburiyatlar
 ======
-7110
+Joriy aktivlar/joriy majburiyatlar
 ++++++
-Hisob va hisobot ma’lumotlarining o‘zaro tengligi aniqlaganidan so‘ng, auditor mol etkazib beruvchilar va pudratchilar bilan hisob-kitoblar qoldig‘ining haqqoniyligini baholashi kerak. Shu maqsadda u quyidagilardan qaysi birini tekshirmaydi?
+Oraliqni qoplash (tez) likvidlik koeffitsiyenti qanday aniqlanadi?
 ======
-#moliyaviy natijalarni tekshirish
+#Pul mablag’lari+qisqa muddatli investitsiyalar+debitorlik qarzlari/joriy majburiyatlar
 ======
-analitik hisob registrlarida dastlabki hujjatlar va shartnomalarning raqamlari hamda tuzilgan sanalari to‘g‘risidagi ma’lumotlar mavjudligi
+Pul mablag’lari+qisqa muddatli investitsiyalar+TMZ/joriy majburiyatlar
 ======
-analitik hisob registrlarida ko‘rsatilgan shartnomalar va dastlabki hujjatlarning haqiqatda mavjudligi (tanlab tekshiriladi)
+Pul mablag’lari+qisqa muddatli investitsiyalar/joriy kreditorlik qarzlari
 ======
-dastlabki hujjatlar va hisob registrlaridagi ma’lumotlarning mosligi (tanlab tekshiriladi)
+Joriy aktivlar/ joriy kreditorlik qarzlari
 ++++++
-Majburiyat summalarining hujjat bilan tasdiqlanmaganlari shubhali qarzdorliklar qatoriga qo‘shiladi. Bunday qarzlarning haqqoniyligi hisob-kitoblarni … yo‘li bilan tasdiqlanadi.
+Pul shakliga aylanish tezligiga qarab, korxona aktivlari qaysi guruhlarga ajratiladi?
 ======
-#inventarizatsiya qilish (solishtirish dalolatnomasi tuzish)
+#Doimiy harakatdagi aktivlar; tez sotiluvchi aktivlar; sekin sotiluvchi aktivlar; qiyin sotiluvchi aktivlar
 ======
-chamalab tekshirish
+Doimiy harakatdagi aktivlar, muddati kelgan to’lov majburiyatlar; tez sotiluvchi aktivlar, qisqa muddatli passivlar; sekin sotiluvchi aktivlar, o‘rta va uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar
 ======
-eng yuqori (TOP) 3ta summani tekshirish
+Yuqori, o’rta va quyi likvidlik aktivlar
 ======
-eng yuqori (TOP) 10ta summani tekshirish
+Doimiy harakatdagi aktivlar; tez sotiluvchi aktivlar; sekin sotiluvchi aktivlar, doimiy passivlar
 ++++++
-Axloq kodeksi talablariga muvofiq ichki auditor qaysi talabni bajarishi shart?
+Qaysi shartlarga amal qilinsa, korxona mablag‘i harakatchan deb baholanadi?
 ======
-#Jamiyat manfaatlarini inobatga olishi shart
+#Doimiy harakatdagi aktivlar >  muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar >qisqa muddatli passivlar; sekin sotiluvchi aktivlar > uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar < doimiy passivlar
 ======
-O‘zining shaxsiy manfaatini inobatga olishi shart
+Doimiy harakatdagi aktivlar >  muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar >qisqa muddatli passivlar; sekin sotiluvchi aktivlar > uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar > doimiy passivlar
 ======
-Tekshirilayotgan xo‘jalik yurituvchi sub’ektning manfaatini inobatga olishi shart
+Doimiy harakatdagi aktivlar < muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar <qisqa muddatli passivlar; sekin sotiluvchi aktivlar > uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar < doimiy passivlar
 ======
-Uchinchi shaxslarning manfaatini inoabtga olishi shart
+Doimiy harakatdagi aktivlar <  muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar <qisqa muddatli passivlar; sekin sotiluvchi aktivlar < uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar < doimiy passivlar
 ++++++
-Aktivlarni noqonuniy egallash holati nimaga misol bo‘ladi?
+Mahsulot sotishdan tushgan summaning aylanma mablag‘larning o‘rtacha qoldiqlar summasiga nisbati bu –
 ======
-#Firibgarlikka
+#aylanma mablag‘larning aylanuvchanlik koeffitsienti.
 ======
-Xatoga
+aylanma mablag‘larning bir aylanma davomiyligi.
 ======
-Anglashilmovchillikka
+aylanma mablag‘lar rentabelligi koeffitsienti.
 ======
-Beparvolikka
+aylanma uzunligi.
 ++++++
-Auditor mijozga xizmat ko‘rsatish davrida u bilan aloqaning davom etayotganligi yoki to‘xtatilganidan qat’iy nazar, uning maxfiy axborotlarini sir saqlashi lozim. Ushbu jumla qaysi talabni ochib beradi?
+Korxonaning faoliyatini amalga oshirish natijasida olinadigan daromadlari tarkibi to‘liq ko’rsatilgan qatorni aniqlang.
 ======
-#Mijoz axborotining maxfiyligi
+#sotishdan olinadigan sof tushum, asosiy faoliyatidan olingan boshqa daromadlar, moliyaviy faoliyatidan olingan daromad, favqulodda daromadlar.
 ======
-Auditorning obyektivligi
+asosiy faoliyatdan, investitsion faoliyatdan, favqulodda daromad, asosiy vositalarni sotishdan daromad.
 ======
-Auditorning mustaqilligi
+mahsulot sotishdan tushgan daromad, moliyaviy faoliyatdan tushgan daromad.
 ======
-Auditorning e’tiborliligi
+moliyaviy faoliyatdan tushgan daromad va favqulodda daromad.
 ++++++
-Omborxona kirim hujjatlarini mol etkazib beruvchilarning kuzatib boruvchi hujjatlari yoki materiallarni chakana savdoda naqd pulga sotib olish hujjatlari bilan solishtirish omborxonada sodir bo‘lgan kirim muomalalarini tekshirishning … usuli hisoblanadi.
+Ishlab chiqarish xarajatlarining ishlab chiqarish hajmiga bog’liqligiga ko’ra turlari qaysi javobda to‘g‘ri ko’rsatilgan?
 ======
-#son (qiymat) miqdor
+#doimiy va o‘zgaruvchan.
 ======
-tahliliy
+doimiy va kvartallik.
 ======
-maxsus
+aniq xarajatlar va o‘zgaruvchan xarajatlar.
 ======
-farqli
+doimiy xarajatlar va tashqi xarajatlar.
 ++++++
-Ustav kapitaliga ulush sifatida yoki obuna bo‘lingan aktsiya qiymatini to‘lash hisobiga olingan nomoddiy aktiv kirim qilindi. To‘g‘ri provodkani ko‘rsating.
+Ishlab chiqarish va mahsulot hajmiga bevosita bog‘liq bo‘lgan xarajatlar qanday nomlanadi?
 ======
-#Debet 0410-0490, Kredit 4610
+#o‘zgaruvchan
 ======
-Debet 0110-0190, Kredit 4610
+aniq xarajatlar
 ======
-Debet 0210-0290, Kredit 4610
+doimiy
 ======
-Debet 0510-0590, Kredit 4610
+tashqi
 ++++++
-Buxgalteriya hisobining umumiy prinsiplariga ko‘ra har qanday nomoddiy aktiv kirimi … asosida rasmiylashtiriladi.
+“Doimiy xarajatlar” deb qanday xarajatlarga aytiladi?
 ======
-#tegishli dastlabki hujjatlar
+#ishlab chiqarish hajmidagi o‘zgarishlarga bog‘liq bo‘lmagan xarajatlarga.
 ======
-rahbarning og‘zaki ko‘rsatmasi
+moddiy xarajatlarga.
 ======
-buxgalterning xohishi
+ishlab chiqarish hajmidagi o‘zgarishlarga bog‘liq bo‘lgan xarajatlarga.
 ======
-Hisobdan chiqarish dalolatnomalari asosida
+mehnatga haq to‘lash xarajatlariga.
 ++++++
-Korxonaga tegishli bo‘lmagan, ammo uning ixtiyorida saqlanayotgan yoki ishlatilayotgan tovar-moddiy zahiralar shartnomalar shartlariga muvofiq, shartnomada ko‘rsatilgan bahoda … aks ettiriladi.
+“O‘zgaruvchan xarajatlar” deb qanday xarajatlarga aytiladi?
 ======
-#balansdan tashqari schyotlarda
+#ishlab chiqarish hajmiga bog‘liq o‘zgaradigan xarajatlarga.
 ======
-balans schyotlarida
+mehnatga haq to‘lash va soliqlarni to‘lash bilan bog‘liq xarajatlarga.
 ======
-sho‘ba korxona balans schyotlarida
+ishlab chiqarish hajmiga bog‘liq bo‘lmay o‘zgaradigan xarajatlarga.
 ======
-sho‘ba korxona balansdan tashqari schyotlarida
+kredit foizlarini to‘lash bilan bog‘liq xarajatlarga.
 ++++++
-Auditor moliyaviy hisobotlar barcha muhim jihatlari bo‘yicha moliyaviy hisobotni taqdim qilish uchun qo‘laniladigan asosga muvofiq tayyorlangan degan xulosaga kelganida bildiriladigan fikr nima deb nomlanadi?
+Hisobot yilida reja bo‘yicha mahsulot ishlab chiqarish hajmi oldingi yilga nisbatan 30% ga oshirilishi lozim edi. Ammo reja 90%ga bajarildi. O‘tgan yilga nisbatan mahsulot ishlab chiqarish hajmi necha foizga o‘sgan?
 ======
-#Modifikatsiyalanmagan fikr
+#17 %ga.
 ======
-Modifikatsiyalangan fikr
+40 %ga.
 ======
-Salbiy fikr
+120 %ga.
 ======
-Stratifikatsiyalangan fikr
+135 %ga.
 ++++++
-Moliyaviy hisobotlar ularni haqqoniy taqdim etish asosiga muvofiq tayyorlangan, biroq moliyaviy hisobotlarni taqdim etishning qo‘llaniladigan asosiga muvofiq haqqoniy taqdim etilmaganida qaysi xulosa tuziladi?
+Soliqlar to‘langunga qadar korxona daromadi va xarajatlarining ayirmasi – bu
 ======
-#Salbiy fikr bildirilgan auditorlik xulosasi
+#soliq to’langunga qadar foyda
 ======
-Izohlar bilan bildirilgan auditorlik xulosasi
+sof foyda
 ======
-Ijobiy fikr bildirilgan auditorlik xulosasi
+qo‘shimcha foyda
 ======
-Xulosa berishdan bosh tortish
+balans foydasi
 ++++++
-710-son AXSga binoan qiyosiy axborot deganda nima tushuniladi?
+Soliq to’langunga qadar foydadan qonunlar bilan belgilangan soliqlar va foydadan ajratmalar to‘langandan keyingi qoldiq – bu
 ======
-#Moliyaviy hisobotni taqdim etish uchun qo‘llaniladigan asosga muvofiq bir yoki undan ortiq o‘tgan davrlar uchun moliyaviy hisobotlarga kiritilgan summalar va ochib beriladigan ma’lumotlar
+#sof foyda.
 ======
-Oldingi davr summalari va boshqa  ochib beriladigan ma’lumotlari joriy davr moliyaviy hisobotining ajralmas qismi sifatida kiritilgan hamda joriy davr summalari va boshqa ochib beriladigan ma’lumotlari bilan birgalikda ko‘rib chiqish maqsadida keltirilgan qiyosiy ma’lumotlar
+yalpi foyda.
 ======
-O‘tgan davr uchun summalar va boshqa  ochib beriladigan ma’lumotlar joriy davr moliyaviy hisobotlari bilan solishtirish maqsadida keltiriladigan,  audit tekshiruvidan o‘tkazilgan bo‘lsa, auditorlik fikrida aytib o‘tiladigan qiyosiy axborot
+foyda.
 ======
-O‘tgan davr uchun summalar va boshqa  ochib beriladigan ma’lumotlar joriy davr moliyaviy hisobotlari bilan solishtirish maqsadida keltiriladigan qiyosiy axborot
+balans foydasi.
 ++++++
-Auditorlik tashkiloti tomonidan auditorlik tekshiruvlar vaqtida to‘plangan va auditorlik xulosasini asoslovchi axborot nima deyiladi?
+Buxgalteriya balansida aks ettiriladigan foyda ko’rsatkichini ko’rsating
 ======
-#dalil
+#taqsimlanmagan foyda.
 ======
-ishchi hujjatlar
+yalpi foyda.
 ======
-tahliliy amallar
+umumxo’jalik faoliyat foydasi.
 ======
-ma’lumot
+asosiy faoliyat foydasi.
 ++++++
-………………..bu tashkilotning bo‘lib o‘tgan hodisalardan yuzaga keladigan mavjud javobgarligi bo‘lib, uning so‘ndirilishi natijasida tashkilotdan o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi kutiladi. Fikr nima haqida ketmoqda?
+Ishlab chiqarish rentabelligi qanday aniqlanadi?
 ======
-#majburiyat
+#foydani ishlab chiqarish xarajatlariga nisbati orqali.
 ======
-xarajat
+ishlab chiqarish hajmini xarajatga taqqoslash natijasida.
 ======
-zarar
+foydani asosiy ishlab chiqarish va aylanma fondlariga nisbati natijasida.
 ======
-aktiv
+ishlab chiqarish smetasi hajmini foydaga taqqoslash natijasida.
 ++++++
-Noaniq bajarish muddatiga yoki noaniq qiymatga ega bo‘lgan majburiyat nima deb yuritiladi?
+Buxgalteriya balansi nima?
 ======
-#baholangan majburiyat
+#korxona moliyaviy holati to‘g‘risida qiymat ko‘rinishida axborot beruvchi hujjat.
 ======
-shartli majburiyat
+Hisobot davridagi pul mablag‘lari harakati to‘g‘risidagi hujjat.
 ======
-shartli aktiv
+Mehnat ko’rsatkichlari to‘g‘risidagi hisobot.
 ======
-javobgarlik
+Moliyaviy natijalar to‘g‘risidagi hujjat.
 ++++++
-Oldingi shakllangan tajriba, e’lon qilingan siyosat yoki yetarlicha aniq bo‘lgan joriy bayonot asosida, tashkilot boshqa tomonlarga ma’lum javobgarliklarni o‘z zimmasiga olishini ko‘rsatganligi nima deb xarakterlanadi?
+Korxonaning daromadliligi qanday aniqlanadi?
 ======
-#Konstruktiv javobgarlik
+#korxona jami daromadlarini uning jami xarajatlariga nisbati orqali.
 ======
-Yuridik javobgarlik
+korxona yalpi tushumining uning kapitaliga nisbati sifatida.
 ======
-shartli aktiv
+tovar realizatsiya bahosi bilan o‘zgaruvchan xarajatlar o‘rtasidagi farqni aniqlash yo‘li bilan.
 ======
-javobgarlik
+yillik pul tushumlari summasini aniqlash yo‘li bilan.
 ++++++
-Tashkilotning haqiqiy moliyaviy holatini aniqlashga berilgan ta’rifni toping?
+Moliyaviy natijalar to‘g‘risidagi hisobot asosida tahlil qilinganda korxonaning jami daromadlarining jami xarajatlariga nisbati 1 dan katta chiqsa, u holda quyidagilardan qaysi biri hamisha o‘rinli.
 ======
-#Balansni ko‘rish uchun tashkilot moliyaviy holatiga to‘g‘ri va adolatli nuqtai nazarni yoritib beradi. Kutilayotgan barcha zararlar va xarajatlar uchun mablag‘ ajratilishi zarur
+#korxona sof foydaga ega.
 ======
-bu tashkilotning bo‘lib o‘tgan hodisalardan yuzaga keladigan mavjud javobgarligi bo‘lib, uning so‘ndirilishi natijasida tashkilotdan o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi kutiladi
+korxona hisobot davrida zarar ko’rgan.
 ======
-baholangan majburiyatning qiymati javobgarlikni bajarish uchun talab etilishi kutilayotgan sarflarning joriy qiymatiga teng bo‘lishi lozim.
+korxona moliyaviy faoliyatdan foyda ko‘rgan.
 ======
-noaniq bajarish muddatiga yoki noaniq qiymatga ega bo‘lgan majburiyat, o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi mavjud bo‘ladi
+korxona past rentabelli.
 ++++++
-Ushbu tushuncha aksiyalarni nominal qiymatidan baland narxlarda dastlabki sotishdan olinadigan emissiya daromadini, shuningdek ekvivalenti chet el valyutasida ifodalangan ustav fondini (ustav kapitalini) shakllantirish jarayonida yuzaga keladigan kurs farqini aks ettiradi?
+Qisqa muddatli debitorlik qarzi – bu
 ======
-#qo‘shilgan kapital
+#to‘lov muddati bir yildan oshmaydigan korxonaning olishi lozim bo’lgan qarzlar.
 ======
-ustav kapitali
+to‘lov muddati bir yil davomida keladigan korxona majburiyatlari.
 ======
-zaxira kapitali
+to‘lov muddati bir yildan keyin keladigan korxona majburiyatlari.
 ======
-taqsimlanmagan foyda
+balans tuzish paytigacha sotib olingan, hali sotilmagan tovarlar.
 ++++++
-Uzoq muddatli aktivlarni qayta baholashda hosil bo‘ladigan inflyatsiya zaxiralarini, qonunchilikda va ta’sis hujjatlarida nazarda tutilgan miqdorlarda sof foydadan ajratmalarni, shuningdek tekinga olingan mol-mulkning qiymatini aks ettiradi. Ushbu ta’rif qaysi tushunchaga tegishli?
+Korxonaning balansida aks ettiriluvchi faoliyatning barcha turlaridan olinuvchi umumiy foyda miqdori – bu
 ======
-#zaxira kapitali
+#taqsimlanmagan foyda.
+======
+sof foyda.
+======
+natural foyda.
+======
+asosiy faoliyatdan foyda.
+++++++
+Korxonada hisobot davrida jami daromadlar va xarajatlari o‘rtasidagi ijobiy farq – bu
+======
+#foyda.
+======
+daromad.
+======
+doimiy xarajatlar.
+======
+yalpi pul tushum.
+++++++
+Balansning aktiv tomoniga kiritiluvchi elementlarni aniqlang?
+======
+#Asosiy vosita va nomoddiy aktivlar.
+======
+Investitsiyalar va ish haqi.
+======
+Kapital va materiallar.
+======
+Soliqlar va pul mablag‘lari.
+++++++
+Majburiyatlar bu:
+======
+#korxonaning qarzlari
+======
+korxonaning xususiy kapitali
+======
+korxonaning qo‘shilgan kapitali
+======
+korxonaning foydasi
+++++++
+Asosiy vosita tarkibiga kirmaydigan elementni aniqlang.
+======
+#Gudvill
+======
+Binolar
+======
+Kompyuter
+======
+Ish hayvonlari
+++++++
+Korxona foydasining o‘zgarishiga ta’sir etuvchi tashqi omilni aniqlang.
+======
+#iste’molchilar daromadining oshishi;
+======
+ishlab chiqarilgan mahsulot hajmi;
+======
+mahsulotga ketgan o‘zgaruvchan xarajatlar qimyati;
+======
+Ishlab chiqarishdagi me’yordan ortiq yaroqsizlik;
+++++++
+Dividend – bu:
+======
+#Aksiyadan olinadigan daromad
+======
+Bir shaxs tomonidan ikkinchisiga yozib berilgan qarz majburiyatini ifodalovchi qimmatli qog‘ozning bir turi
+======
+Emitentning qarzdorligi va bu qarz uchun foiz to‘lash zarurligi xaqida guvohlik beruvchi qimmatli  qog‘oz
+======
+Obligatsiyalardan olinadigan daromad
+++++++
+Mahsulotlarni qarzga sotish natijasida yuzaga keladigan va korxonaning pul mablag‘larini ko‘paytiruvchi qarz qanday ataladi?
+======
+#debitorlik qarz
+======
+pul mablaglari
+======
+uzoq muddatli majburiyatlar
+======
+kreditorlik qarz
+++++++
+Korxonaning o‘z majburiyatlari bo‘yicha qarzlarni to‘lov muddati kelishining aniq vaqtida bajarish qobiliyati –
+======
+#korxonaning likvidligi
+======
+korxonaning xarid qobiliyati
+======
+korxonaning majburiyati
+======
+korxona daromadi
+++++++
+Davr xarajatlari deganda...
+======
+#Bevosita ishlab chiqarish jarayoni bilan bog‘liq bo‘lmagan xarajatlar va sarflar tushuniladi, ya’ni mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan xarajatlardir
+======
+Tovarlarni temir yo‘l, havo, avtomobil, dengiz, daryo transportida va ot-ulovda tashish xarajatlari tushuniladi
+======
+Mahsulot ishlab chiqarish tannarxiga qo’shiladigan xarajatlar
+======
+Moliyaviy faoliyatga oid xarajatlar
+++++++
+Sotish xarajatlari deganda...
+======
+#Tovarlarni temir yo‘l, havo, avtomobil, dengiz, daryo transportida va ot-ulovda tashish xarajatlari tushuniladi
+======
+Bevosita ishlab chiqarish jarayoni bilan bog‘liq bo‘lmagan xarajatlar va sarflar tushuniladi,  ya’ni mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan xarajatlardir
+======
+Boshqaruv xarajatlariga tegishli bo‘lgan mehnatga haq to‘lash xarajatlari; 
+===
+Xomashyo va materiallarning sarflanishi
+++++++
+Ma’muriy xarajatlarga qaysilar kiradi?
+======
+#Boshqaruv xarajatlariga tegishli bo‘lgan mehnatga haq to‘lash xarajatlari;  boshqaruv  xarajatlariga tegishli bo‘lgan ijtimoiy sug‘urta ajratmalari; xizmat yengil avtotransporti va xizmat mikroavtobusini saqlash, yollash va ijaraga olish xarajatlari
+======
+Mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan xarajatlar
+======
+Tovarlarni temir yo‘l, havo, avtomobil, dengiz, daryo transportida va ot-ulovda tashish xarajatlari tushuniladi
+======
+Valyuta kurs farqidan zararlar
+++++++
+Moliyaviy faoliyat bo‘yicha xarajatlar to’g’ri ko’rsatilgan qatorni toping.
+======
+#Foiz ko’rinishidagi xarajatlar, valyuta kurs farqidan zararlar
+======
+Ma’muriy xarajatlar
+======
+Ijtimoiy soliq xarajatlari
+======
+Energiya xarajatlari
+++++++
+Favqulodda zararlar –
+======
+#Xo‘jalik yurituvchi sub’ektlarning odatdagi faoliyatidan chetga chiquvchi hodisalar yoki operatsiyalar natijasida vujudga keladigan va ro‘y berishi kutilmagan odatdan tashqari xarajat moddalaridir
+======
+Tarkibida banklar va boshqa moliya-kredit tashkilotlari bo‘yicha foizlar (investitsiya davrida kapital qo‘yilmalar tarkibiga kiruvchi investitsiyalarga olingan bank va boshqa moliya-kredit tashkilotlari kreditlari bo‘yicha foizlardan tashqari), shu jumladan, muddati o‘tgan va uzaytirilgan ssudalar bo‘yicha foizlar hisobga olinadi
+======
+Korxona rahbarining qarorlariga bog’liq holda nazorat qilinadigan xarajatlar kiradi
+======
+Korxona rahbarining qarorlariga bog’liq holda nazorat qilinmaydigan xarajatlar
+++++++
+Asosiy faoliyatdan olingan boshqa daromadlarga qaysilar kiradi?
+======
+#Undirilgan yoki qarzdor tomonidan etirof etilgan jarimalar, penyalar, vaqtida to‘lanmagan qarzlar va xo‘jalik shartnomalari shartini buzganlik uchun boshqa xil jazo jarimalari, shuningdek, yetkaziladigan zararlarni undirish bo‘yicha daromadlar
+======
+Mahsulot (ishlar, xizmatlar)ni sotishdan olingan tushum
+======
+Ko‘zda tutilmagan, tasodifiy tusga ega bo‘lgan, hodisa yoki xo‘jalik yurituvchi sub’ektning   odatdagi  faoliyati doirasidan chetga chiqadigan tusdagi operatsiyalar natijasida paydo bo‘ladigan va olinishi kutilmagan daromadlar
+======
+Moliyaviy faoliyatdan olinadigan dividend va foiz shaklidagi daromadlar
+++++++
+Favqulodda foyda moddalari –
+======
+#Bu ko‘zda tutilmagan, tasodifiy tusga ega bo‘lgan, hodisa yoki xo‘jalik yurituvchi sub’ektning odatdagi  faoliyati doirasidan chetga chiqadigan tusdagi operatsiyalar natijasida paydo bo‘ladigan va olinishi kutilmagan foydadir
+======
+Mahsulot (ishlar, xizmatlar)ni sotishdan olingan, undan qo‘shilgan qiymat, aksiz solig‘i va   eksport bank poshlinasi chegirilgan tushum sifatida aniqlanadi
+======
+Undirilgan  yoki qarzdor tomonidan etirof etilgan jarimalar, peniyalar, vaqtida to‘lanmagan qarzlar va xo‘jalik shartnomalari shartini buzganlik uchun boshqa xil jazo jarimalari, shuningdek, yetkaziladigan zararlarni undirish bo‘yicha daromadlar
+======
+Bu ko‘zda tutilgan, tasodifiy tusga ega bo‘lmagan, hodisa yoki xo‘jalik yurituvchi sub’ektning odatdagi  faoliyati doirasidan chetga chiqmaydigan tusdagi operatsiyalar natijasida olinadigan foydadir
+++++++
+Marjinal foyda -
+======
+#Sotilgan mahsulot bo‘yicha tushum va o’zgaruvchan ishlab chiqarish xarajatlari orasidagi farq
+======
+Marjinal foyda va hisobot yilidagi doimiy (boshqaruv va tijorat) xarajatlar miqdorlari orasidagi farq
+======
+Mahsulot, ish va xizmatlarni sotishdan olinadigan moliyaviy natijalar, investitsiyaviy va moliyaviy faoliyatdan olinadigan daromad va xarajatlar, sotishdan tashqari va favqulodda daromad yig‘indisidan iborat
+======
+Soliqqa tortilganga qadar umumiy moliyaviy  natijadan daromad (foyda) solig‘i va boshqa majburiy to‘lovlar to‘langandan so‘nggi foydadir;
+++++++
+Taqsimlanmagan foydadan ta’sischilar qarori bilan kelgusi zararlarni qoplash uchun qilingan ajratma qanday nomlanadi?
+======
+#rezerv kapitali
+======
+maqsadli tushum
 ======
 ustav kapitali
 ======
 qo‘shilgan kapital
-======
-taqsimlanmagan foyda
 ++++++
-Auditorlik kompaniyasi tomonidan mijoz korxonaga jo‘natiladigan rasmiy taklif nima deyiladi?
+Ustav kapitalini shakllantirish jarayonida yuzaga kelgan valyuta kurs farqidan daromad qaysi element tarkibiga kiradi?
 ======
-#Oferta
+#qo‘shilgan kapital
 ======
-Shartnoma
+maqsadli tushum
 ======
-Rezolyutsiya
+ustav kapitali
 ======
-Bitim
+rezerv kapitali
 ++++++
-Solishtirish usuli ?
+Korxonalar moliyaviy natijalari asosida quyidagilardan qaysi biri aniqlanadi?
 ======
-#Iqtisodiy hodisalar, ko‘rsatkichlarni o‘zaro va biznes-reja bilan solishtirish
+#rentabellik darajasi
 ======
-Audit obyekti bo‘lgan ma’lum ko‘rsatkich omillar asosida o‘rganiladi, mavjud ichki imkoniyatlar aniqlanadi.
+likvidlilik darajasi
 ======
-Hodisalarning sodir bo‘lishi, natijalari turli shart-sharoitlarni e’tiborga olgan holda o‘rganiladi. Bunday usul ko‘pincha “yashirin iqtisodiyot” natijalarini aniqlashda keng foydalaniladi.
+moliyaviy barqarorlik darajasi
 ======
-Korxonaning faoliyatiga to‘liq baho berish uchun barcha operatsiyalar tasdiqlovchi nazoratidan o‘tkaziladi.
+fond qaytimi
 ++++++
-Auditorlik xulosasi nima uchun kerak?
+Korxonalar foydasiga teskari ta’sir etuvchi omilni ko’rsating.
 ======
-#auditorlik xulosasi buxgalteriya (moliyaviy) hisobotining tarkibiy qismi bo’lib, undan foydalanuvchilar uchun ushbu hisobot ishonchliligi axborot manbasi bo’lib xizmat qiladi
+#Sotilgan mahsulot tannarxi
 ======
-auditorlik xulosasi buxgalteriya (moliyaviy) hisobotining kirish qismi bo’lib, undan foydalanuvchilar uchun ushbu hisobot ishonchliligi axborot manbasi bo’lib xizmat qiladi
+Sof tushum
 ======
-auditorlik xulosasi buxgalteriya (moliyaviy) hisobotining yakuniy qismi bo’lib, undan foydalanuvchilar uchun ushbu hisobot ishonchliligi axborot manbasi bo’lib xizmat qiladi
+Moliyaviy faoliyatga oid daromadlar
 ======
-to’gri javob ko’rsatilmagan
+Operativ ijaradan olingan summalar
 ++++++
-Auditorlik xulosasi kirish qismi nimalar yoritilgan bo’lishi lozim?
+Sof foyda qaysi hujjatga asosan taqsimlanadi?
 ======
-#auditorlik tashkilotining yuridik manzili va telefonlar, auditorlik tashkilotining hisob-kitob schyoti; tekshiruvda ishtirok etgan barcha auditorlar hamda auditorlik tashkiloti rahbarining nasabi, ismi-sharifi, auditorlik tekshiruvi o’tkazish uchun asos va xo’jalik yurituvchi sub’ektning umumiy tavsifi
+#Ta’sischilar umumiy yig’ilishi bayonnomasi
 ======
-moliyaviy hisobot va boshqa moliyaviy axborotlarning ishonchliligini va qonunchilikka, hamda xo’jalik yurituvchi sub’ekt moliya-xo’jalik faoliyatining haqiqiy ahvoliga muvofiqligini baholashini ko’rsatishi lozim. Shuningdek, ta’kidlovchi qismda o’tkazilgan auditorlik tekshiruvi fikr bildirish uchun etarli asos berishi to’g’risida auditorlik tashkilotining tasdig’i aks ettirilishi lozim
+Reja
 ======
-xo’jalik yurituvchi sub’ektning buxgalterlik (moliyaviy) hisoboti ishonchliligi va qonunchilikka muvofiqligini tasdiqlash to’g’risida yozuv yoziladi.
+Shtatlar jadvali
 ======
-to’gri javob ko’rsatilmagan
+Hisobot ilovasi
 ++++++
-Auditor auditni rejalashtirish davrida ajratib bo’lmaydigan tavakkalchiligini 70%, ichki nazorat tavakkalchiligini 40%, aniqlanmaslik tavakkalchiligini 12% qilib belgiladi. Shunda auditorlik tavakkalchiligi necha foizga teng bo’ladi?
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq iqtisodiy holatiga qarab korxonalar qaysi guruhlarga ajratiladi?
 ======
-#3,36%
+#Iqtisodiy barqaror, iqtisodiy tavakkalchilik, iqtisodiy nochor
 ======
-3,16%
+Baquvvat korxonalar; «xavf-xatar» guruhidagi korxonalar
 ======
-3,46%
+«Tang» guruhdagi korxonalar; to‘lovga noqobil korxonalar
 ======
-2,15%
+«Bo‘lajak korxonalar» (iqtisodiy nochorlar) guruhidagi korxonalar
 ++++++
-Auditor korxonaning faoliyat turlari xususidagi ma’lumotni qaysi hujjatdan oladi?
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq o‘z aylanma mablag‘lari bilan ta’minlanganlik koeffitsiyentining eng kam qiymati qanday belgilangan?
 ======
-#ta’sis hujjatlaridan
+#0,2
 ======
-13-jurnal-orderdan
+0,3
 ======
-uchinchi shaxslar bilan tuzilgan shartnomalardan
+0,25
 ======
-hisob siyosatidan
+0,4
 ++++++
-Auditor tomonidan bir tomonlama aniqlanadigan u qo’llayotgan auditning taomillari buxgalteriya hisobi hamda moliyaviy hisobotda haqiqiy, alohida yoki birgalikda muhim xarakterga ega bo’lgan xatolar va buzib ko’rsatishlarni aniqlashga ruxsat bermasligining ehtimolini bildiradigan auditorlik tavakkalchiligi nima deb nomlanadi?
+Aktivlar rentabelligi necha foizdan past bo’lsa korxona past rentabelli deb e’tirof etiladi?
 ======
-#aniqlanmaslik tavakkalchiligi
+#5
 ======
-nazorat tavakkalchiligi
+10
 ======
-ajratib bo’lmaydigan tavakkalchilik
+Inflatsiya darajasidan
 ======
-auditorlik tavakkalchiligi
+Asosiy foiz stavkasidan
 ++++++
-Auditorlik kompaniyasi, Professional buxgalterlar odob kodeksini buzmasdan, unga o’z mijozini yuborgani uchun boshqa auditorlik tashkilotidan haq (vositachilik haqi) olishi mumkinmi?
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq to‘lov qobiliyati koeffitisiyenti qanday aniqlanadi?
 ======
-#hech qanday holatda mumkin emas
+#joriy aktivlarning joriy majburiyatlarga nisbati orqali
 ======
-mumkin, haq olish to’g’risida bunday bitim tuzilgani haqida mijozni xabardor qilgan holda
+joriy aktivlarning uzoq muddatli majburiyatlarga nisbati orqali
 ======
-mumkin, chunki professional buxgalterlar odob kodeksi qoidalari auditorlar uchun majburiy emas
+joriy bo‘lmagan aktivlarning joriy majburiyatlarga nisbati orqali
 ======
-mumkin, agar ushbu mijozning moliyaviy hisoboti auditini 3 yil mobaynida o’tkazgan bo’lsa
+joriy aktivlarning jami majburiyatlarga nisbati orqali
 ++++++
-Auditor mijozga kerak bo’lgan auditorlik xizmatining yetarli professional darajasini ta’minlashi lozim. Auditor ma’suliyatni o’z zimmasiga olishda ma’lum sohada o’zining mahorati borligiga ishonishi lozim. Auditor o’zining kasbiy mahoratiga to’g’ri kelmaydigan professional xizmatdan voz kechishi mumkin. Ushbu jumla qaysi talabga mos keladi?
+Korxona moliya-xo‘jalik faoliyatining tahlilida o’rganiladigan elementlar to’g’ri ko’rsatilgan qatorni toping.
 ======
-#Auditorning kasbiy mahorati
+#Barcha javoblar to’g’ri
 ======
-Auditorning mustaqilligi
+Moliyaviy holat; moliyaviy barqarorlik; to‘lovga qobilllik;
 ======
-Auditorning e’tiborliligi
+Balansning likvidligi; moliyaviy koeffitsentlar;
 ======
-Auditorning obyektivligi
+Moliyaviy natijalar.
 ++++++
-Professional skeptitsizm deganda nima tushuniladi
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq to‘lov qobiliyati koeffitisiyenti qaysi qiymatdan past bo‘lsa, shu ko’rsatkich bo‘yicha korxona to‘lovga qodir emas, deb hisoblanadi?
 ======
-#Xato yoki firibgarlik tufayli yuzaga kelishi mumkin bo’lgan buzib ko’rsatishdan dalolat beruvchi shart-sharoitlar mavjud bo’lishi mumkinligini anglashni, shubha ko’zi bilan qarashni va dalillarni tanqidiy baholashni nazarda tutadigan yondashuv
+#1,25
 ======
-O’z kasbiga professional yondashuv
+1,5
 ======
-Xato tufayli yuzaga kelishi mumkin bo’lgan buzib ko’rsatishdan dalolat beruvchi shart-sharoitlar mavjud bo’lishi mumkinligini anglashni, shubha ko’zi bilan qarashni va dalillarni tanqidiy baholashni nazarda tutadigan yondashuv
+1
 ======
-Xato yoki firibgarlik tufayli yuzaga kelishi mumkin bo’lgan buzib ko’rsatishdan dalolat beruvchi shart-sharoitlar mavjud bo’lishi mumkinligini anglash
+2
 ++++++
-Auditorlik tekshiruvi natijasida ishlab chiqarish xodimlarini va ishlab chiqarish aktivlarini majburiy va ixtiyoriy sug’urta qilish xarajatlari boshqa operatsion xarajatlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi xarajat qaysi qatorga qo’shilishi kerak?
+Moliyaviy tahlili uchun qaysilar axborot manba hisoblanmaydi?
 ======
-#ishlab chiqarish tusidagi boshqa xarajatlar
+#Materiallar harakati to‘g‘risida hisobot
 ======
-ishlab chiqarish xususiyatiga ega bo’lgan mehnatga haq to’lash xarajatlari;
+Buxgalteriya balansi, moliyaviy natijalar to‘g‘risidagi hisobot
 ======
-ishlab chiqarish bilan bog’liq moddiy xarajatlar
+Pul oqimlari to‘g‘risidagi hisobot
 ======
-sotish xarajatlari
+O‘z sarmoyasi to‘g‘risidagi hisobot
 ++++++
-Auditorlik tekshiruvlari jarayonida buxgalteriya hisobi va ichki nazorat tizimini baholash to’g’risida qaysi AXSda keltirilgan?
+Korxonalar iqtisodiy ahvoliga ko‘ra qaysi guruhlarga ajratiladi?
 ======
-#315-AXS
+#Barcha javoblar to’g’ri
 ======
-300-AХS
+Iqtisodiy barqaror
 ======
-450-AХS
+Iqtisodiy tavakkalchilik
 ======
-650-AХS
+Iqtisodiy nochor
 ++++++
-Bekor qilingan ishlab chiqarish buyurtmalari bo’yicha yo’qotishlar qaysi turdagi xarajatlarga kiritiladi?
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq iqtisodiy ahvolini baholash uchun asosiy ko’rsatkichlar tarkibiga quyidagilardan qaysi biri kiradi?
 ======
-#boshqa operatsion xarajatlar
+#to‘lov qobiliyati koeffitsiyenti
 ======
-ma’muriy xarajatlari
+asosiy vositalar eskirish koeffitsiyenti
 ======
-sotish xarajatlari
+moliyaviy qaramlik koeffitsiyenti
 ======
-moliyaviy xarajatlar
+xususiy kapital rentabelligi koeffitsiyenti
 ++++++
-Nazorat qiluvchi va xuquqni muhofaza qiluvchi organlar tashabbusiga ko’ra o’tkazilgan auditorlik xizmatining haqi kim tomonidan to’lanadi?
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq aktivlar rentabelligi aniqlanishi to’g’ri ko’rsatilgan qatorni ko’rsating.
 ======
-#auditorlik tekshiruvini belgilagan organ
+#Soliq to‘langunga qadar foydani aktivlarning o’rtacha yillik qiymatiga bo’lish orqali
 ======
-tekshiriluvchi sub’ekt
+Sof foydani uzoq muddatli aktivlarning o’rtacha yillik qiymatiga bo’lish orqali
 ======
-mahalliy xokimiyat
+Soliq to‘langunga qadar foydani joriy aktivlarning o’rtacha yillik qiymatiga bo’lish orqali
 ======
-davlat byudjeti
+Sof foydani majburiyatlarning o’rtacha yillik qiymatiga bo’lish orqali
 ++++++
-Pul mablag’larini auditorlik tekshiruvidan o’tkazishning asosiy maqsadi nima hisoblanadi?
+Quyida berilgan ko’rsatkichlardan qaysilari korxonaning moliyaviy barqarorlik darajasini ifodalaydi?
 ======
-#pul mablag’lari bo’limi bo’yicha ma’lumotlarning ishonchliligini tekshirish
+#Qarzga olingan va o‘z mablag‘lari nisbati;
 ======
-bankdagi hisob-kitob schyoti mablag’larini tekshirishdir
+Debitorlik qarzlarini aylanishi;
 ======
-kassadagi milliy va xorijiy valyutadagi naqd pul mablag’larini tekshirishdir
+Joriy aktivlarni aylanishi;
 ======
-pul mablag’larini samaradorligi hamda qonuniyligini taminlash
+Operatsion davr;
 ++++++
-Moliyaviy hisobotlar kompaniyaning moliyaviy holatini, ko’rsatilgan sanada tugagan yil mobaynida uning moliyaviy natijalarini va pul oqimlarini barcha muhim jihatlarda Moliyaviy hisobotning xalqaro standartlariga muvofiq haqqoniy aks ettirmaydi, degan fikrga kelsa qaysi xulosa turi tanlanadi?
+Buxgalteriya balansi quyidagi elementlardan qaysilari aks etmaydi?
 ======
-#Salbiy fikr bildirilgan auditorlik xulosasi
+#Daromadlar, xarajatlar, moliyaviy natija.
 ======
-Modifikatsiyalanmagan auditorlik xulosasi
+Aktivlar va majburiyatlar;
 ======
-Stratifikatsiyalangan auditorlik xulosasi
+Uzoq muddatli aktivlar va o‘z kapitali;
 ======
-Xulosa berishdan bosh tortish
+Joriy aktivlar va majburiyatlar;
 ++++++
-Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish bu
+Moliyaviy natijalar to’g’risidagi hisobotda nechta foyda ko’rsatkichi keltirilgan?
 ======
-#renking
+#5
 ======
-reyting
+4
 ======
-ro’yxat
+3
 ======
-reyestr
+7
 ++++++
-Ma`lumot yetarli bo`lmagani uchun haqiqiy holatni aniqlay olmadik, degan fikrga kelinsa qaysi xulosa turi tanlanadi?
+Moliyaviy barqarorlik koeffitsiyenti qanday oraliqda bo’lishi tavsiya etiladi?
 ======
-#Xulosa berishdan bosh tortish
+#0,6-1
 ======
-Modifikatsiyalanmagan auditorlik xulosasi
+0,4-0,6
 ======
-Stratifikatsiyalangan auditorlik xulosasi
+0,5-1,5
 ======
-Izohlar bilan bildirilgan auditorlik xulosasi
+0,6-1,5.
 ++++++
-Quyidagilardan qaysi biri auditorlik tashkilotlarining professional xizmatlariga kirmaydi?
+Daromadlar va xarajatlar nisbati koeffitsiyentining 1 dan past bo’lishi nimani anglatadi?
 ======
-#mulkni baholash
+#Hisobot davri zarar bilan yakunlanganligini
 ======
-buxgalteriya hisobini yo’lga qo’yish
+Hisobot davri foyda bilan yakunlanganligini
 ======
-moliyaviy hisobotni tuzish
+Hisobot davrida kritik nuqtaga erishilganligini
 ======
-milliy moliyaviy hisobotni buxgalteriya hisobi xalqaro standartlariga o’tkazish
+Hisobot davrida moliyaviy holat yaxshilanganligini
 ++++++
-Quyidagilarning qaysi biri qo’shilgan kapital tarkibiga kiritilganida auditor qo’shilgan kapital tarkibini to’g’ri shakllangan deb hisoblaydi?
+Qonunchilik hujjatlariga muvofiq davlat organlariga buxgalteriya hisobining milliy standartlari asosida tuzilgan yillik moliyaviy hisobotlarni topshirish muddati to‘g‘ri ko’rsatilgan qatorni aniqlang.
 ======
-#aktsiyalarni nominal qiymatidan yuqori bahoda dastlabki sotishdan olingan emission daromadlar
+#hisobot yilidan keying yilning 1-martidan kechiktirmay
 ======
-tekinga olingan mol mulk
+hisobot yilidan keying yilning 1-mayidan kechiktirmay
 ======
-tekinga berilgan mol mulk
+hisobot yilidan keying yilning 15-fevralidan kechiktirmay
 ======
-aktsiyalarni real qiymatida bahoda sotishdan olingan daromadlar
+hisobot yilidan keying yilning 15-yanvaridan kechiktirmay
 ++++++
-Tegishli xo’jalik muomalalarini yozishga taalluqli hisob siyosati va amallar nima deb ataladi?
+Qonunchilik hujjatlariga muvofiq davlat organlariga moliyaviy hisobotning xalqaro standartlari asosida tuzilgan yillik moliyaviy hisobotlarni topshirish muddati to‘g‘ri ko’rsatilgan qatorni aniqlang.
 ======
-#korxonadagi buxgalterlik hisobi tizimi
+#hisobot yilidan keying yilning 1-mayidan kechiktirmay
 ======
-nazorat muhiti
+hisobot yilidan keying yilning 1-martidan kechiktirmay
 ======
-nazorat amallari
+hisobot yilidan keying yilning 15-fevralidan kechiktirmay
 ======
-ichki nazorat tizimi
+hisobot yilidan keying yilning 15-yanvaridan kechiktirmay
 ++++++
-Tekshiruv jarayonida balans qiymati 200000 so’m, eskirish qiymati 150000 so’m bo’lgan nomoddiy aktivning sotilganligi aniqlandi. Nomoddiy aktivning sotish qiymati 40000 so’mni tashkil qilgan. Ushbu holatda qancha zarar ko’rilgan?
+Qaysi ko’rsatkich joriy to’lov qobiliyatini ifodalaydi?
 ======
-#10000
+#joriy aktivlar /joriy majburiyatlar
 ======
-12000
+pul mablag’lari va boshqa aktivlar / qisqa muddatli aktivlar
 ======
-14000
+(pul mablag’lari + qimmatli qog’ozlar) /qisqa muddatli to’lov majburiyatlari
 ======
-16000
+pul mablag’lari / qisqa muddatli to’lov majburiyatlari
 ++++++
-Tekshiruv jarayonida boshlang’ich qiymati 70000 so’m bo’lgan stanok boshqa korxonaga bepul berilganligi va uning eskirish summasi - 30000 so’mga teng ekanligi aniqlandi. Asosiy vositani bepul berishdan ko’rilgan zarar summasi qanchaga teng bo’ladi?
+Aylanma mablag’larning aylanish koeffitsienti qanday aniqlanadi?
 ======
-#40000
+#Mahsulotni sotishdan tushgan tushum / aylanma mablag’larning yillik o’rtacha qiymati
 ======
-28000
+(Mahsulotni sotishdan tushgan tushum + tayyor mahsulot) / aylanma mablag’larning yillik o’rtacha qiymati
 ======
-30000
+Sotilgan mahsulotning tannarxi / aylanma mablag’larning yillik o’rtacha qiymati
 ======
-24000
+Mahsulotni sotishdan tushgan tushum / aylanma aktivlar
 ++++++
-Xo’jalik yurituvchi sub’ekt faoliyatining umumiy tavsifi auditorlik hisobotining qaysi qismida ko’rsatiladi?
+Doimiy harakatdagi aktivlarga nimalar kiradi?
 ======
-#kirish
+#Pul mablag’lari
 ======
-adresat
+Nomoddiy aktivlar
 ======
-tahlil
+Tayyor mahsulot
 ======
-yakuniy
+Asosiy vositalar
 ++++++
-Xo’jalik yurituvchi sub’ekt tomonidan moliya-xo’jalik faoliyatini amalga oshirish chog’ida qonunchilikka rioya qilinishini tekshirish natijalari to’g’risidagi axborotlar auditorlik hisobotining qaysi qismida ko’rsatiladi?
+Balans aktiv qismining 1-bo’limida aks ettiriladigan moddani toping.
 ======
-#tahlil
+#Uzoq muddatli investitsiyalar
 ======
-adresat
+Tayyor mahsulot
 ======
-kirish
+Pul mablag’lari
 ======
-yakuniy
+Qisqa muddatli moliyaviy qo’yilmalar
 ++++++
-Аuditorlik riski va muhimlik darajasi bir-biriga qanday bogliq
+Zaxira va xarajatlarni qoplashga tegishli o’zlik manbalari qanday aniqlanadi?
 ======
-#teskari bogliklikda
+#O’zlik mablag’larning manbalari minus uzoq muddatli aktivlar
 ======
-bib-biriga bogliq emas
+O’zlik mablag’larning manbalari minus kreditorlik qarzlari
 ======
-qisman bogliklikda
+O’zlik mablag’larning manbalari minus uzoq muddatli kredit va qarzlar
 ======
-bunday kursatkich mavjud emas
+O’zlik mablag’larning manbalari minus qisqa muddatli kredit va qarzlar
 ++++++
-Kim o‘z vakolatlari doirasida auditorlik faoliyatini tartibga soluvchi normativ-huquqiy hujjatlarni ishlab chiqadi, tasdiqlaydi va amalga oshiradi?
+Moliyaviy mustaqillik koeffitsienti qanday aniqlanadi?
 ======
-#Vazirlar Mahkamasi
+#Korxona jami o’zlik mablag’lari manbalarini jami balans summasiga nisbati bilan
 ======
-Iqtisodiyot va moliya vazirligi
+Korxona balansi passivining jamini majburiyatlar jamiga nisbati bilan
 ======
-Hisob palatasi
+Korxonaning jami majburiyatlarini jami o’zlik mablag’larining manbalariga nisbati bilan
 ======
-O’zbekiston Auditorlar Palatasi (O’AP)
+Korxonaning jami o’zlik mablag’larining manbalarini majburiyatlar jamiga nisbati bilan
 ++++++
-Auditorning malaka sertifikatiga ega bo‘lmagan, auditorlik tashkilotida ishlovchi hamda auditorning topshirig‘iga ko‘ra auditorlik xulosasiga va auditorlik tekshiruvini o‘tkazish bilan bog‘liq boshqa hujjatga imzo qo‘yish huquqisiz auditorlik tekshiruvida ishtirok etadigan jismoniy shaxs – bu ?
+Quyidagilardan qaysi biri buxgalteriya balansi aktiv qismining 2-bo’limida aks ettiriladi?
 ======
-#Auditor yordamchisi
+#Tovar-moddiy zaxiralar
 ======
-Auditorlik tashkiloti ishtirokchisi
+Daromad va xarajatlar
 ======
-Auditor
+Asosiy vositalar
 ======
-Auditorlik tashkiloti rahbari
+Nomoddiy aktivlar
 ++++++
-Agar auditor «A» davlatda xizmatlar ko’rsatsa va ushbu davlatning axloqiy talablari «V» davlatda qabul qilingan talablardan farqlansa, qanday qoida qo’llaniladi:
+Balans likvidligining mazmuni noto‘g‘ri ifodalangan qatorni toping.
 ======
-#xizmat taqdim etilayotgan «A» davlatning axloqiy talablari «V» davlat auditorlarining axloq kodeksida ko’zda tutilganlaridan ko’ra yengilroq bo’lsa, bu holda «V» davlat auditorlarining axloq kodeksi qo’llanilishi lozim
+#korxonaning moliyaviy natijalari va rentabellik ko’rsatkichlarini ko’rsatadi
 ======
-Professional xizmatga aloqador bo’lmagan sohada auditorning harakati cheklanadi
+korxonalarning olingan qarzlarini qaytarib berishga qodirlik darajasini ko’rsatadi
 ======
-Xalqaro faoliyat bo’yicha talablarni auditorning o’zi belgilaydi
+korxona aktivlari, aylanma mablag’lari bilan korxonaning umumiy majburiyatlari, qisqa muddatga olingan qarzlar o’rtasidagi nisbat asosida aniqlanadi
 ======
-Auditorning kasbiy mahoratiga bog’liq
+ko’rsatkichlari korxonaning mablag’ elementlarini naqd pulga aylanish jarayonini ko’rsatadi
 ++++++
-Amerika Qoshma Shtatlarida birinchi marta Professional buxgalteriya etikasi qoidalari qachon ishlab chiqildi.
+Aylanma mablag’lar aylanish davrini aniqlash formulasi qaysi qatorda to’g’ri ko’rsatilgan?
 ======
-#1987
+#Tovar-moddiy zaxiralar * hisobot davri (kun) / sotishdan sof tushum
 ======
-1962
+Zaxira va xarajatlar / jami mulk
 ======
-1967
+Pul mablag’lari* hisobot davri (kun) / sotishdan sof tushum
 ======
-1937
+Aylanma aktivlar / jami mulk
 ++++++
-Xolislik va halollik prinsipi bu…
+Pul ekvivalentlari harakatdagi aktivlarning qaysi qatoriga kiradi?
 ======
-#Auditor jamiyat manfaatlari ustuvorligiga rioya etishi, beg‘araz bo‘lishi va taxminlarga asoslanishi, manfaatlar to‘qnashuvi yoki boshqa shaxslarning bosimlari sababli o‘zining kasbga oid fikr-mulohazasida tavakkalchilik qilmasligi, auditorlik tashkilotining obro‘siga salbiy ta’sir ko‘rsatadigan holatlarga yo‘l qo‘ymasligi kerak.
+#Doimiy harakatdagi aktivlarga
 ======
-O‘zining professional faoliyati davomida hamma auditorlar rioya qilishi lozim bo‘lgan yagona asos tamoyillardir.
+Qiyin sotiluvchi aktivlarga
 ======
-Kasbiy tahlim va amaliy faoliyat bilan yuzaga keladi hamda umuminsoniy, milliy, va shaxsiy qadriyatlar kabi tashkilotlar va guruhlarning qadriyatlarini aks ettiradi.
+Tez sotiluvchi aktivlarga
 ======
-Shaxsning ichki holati, tuzilishi bo’lib, u o’zining mustaqil hoxish irodasi va o’z vijdonidan kelib chiqib harakat qilishini bildiradi.
+Sekin sotiluvchi aktivlarga
 ++++++
-Auditorlik faoliyati to‘g‘risida qonunning “Auditorlik tashkilotining huquqlari” nechinchi moddasida keltirilgan
+Qisqa muddatli passivlar deganda nimani tushunasiz?
 ======
-#28-moddasida
+#Qisqa muddatli kredit va qarzlar
 ======
-33- moddasida
+Kelgusi davr sarflari
 ======
-3- moddasida.
+Kreditor qarzlar
 ======
-15- moddasida
+Maqsadli tushumlar
 ++++++
-Kasb bilan bog’liq ahloqiy normalar bu —
+Qiyin sotiluvchi aktivlar guruhiga kiradigan moddani belgilang.	
+===
+ Uzoq muddatli aktivlar
 ======
-#Etik ideallar asosida shaxsiy jihatlarni ichki tartibga solish tartibi, namunasi, qoidalari hisoblanadi
+#Uzoq muddatli qarzlar
 ======
-Ishbilarmon kishining boshqa insonlar bilan muomala qilish jarayonidagi o’zaro yurish turishi, harakatlari qoidasi xisoblanadi.
+Aylanma aktivlar
 ======
-Kasbiy faoliyatning shunday o’ziga xos turlariki, ular insonning hayotida va jamiyatdagi faoliyatida u yoki bu usullarda bevosita insonga yo’naltirilgandir.
-======
-Tadbirkorlik faoliyati ishchilarning odob ahloqini aks ettiruvchi normalar majmuini namoyon etadi, tadbirkorning ish uslubiga rivojlangan jamiyatning talablarini ko’rsatadi, tadbirkorlik faoliyati ishtirokchilari o’rtasida munosabat va ijtimoiy yondashuv qanday bo’lishi kerakligini aks ettiradi.
+Pul mablag’lari
 ++++++
-Hisob siyosati to’g’risidagi taqdim etilgan buyruq (farmoyish) auditning qaysi amali orqali tekshiriladi?
+Quyidagilardan qaysi biri buxgalteriya balansi ma`lumotlari asosida aniqlanadi?	
+===
+ Korxonaning moliyaviy barqarorlik darajasi
 ======
-#nazorat testlash amaliga ko’ra
+#Korxona daromadlarini tuzilishi
 ======
-skanerlashga ko’ra
+Sotishdan kelgan tushum o’sishi
 ======
-inventarizatsiyaga ko’ra
-======
-kuzatishga ko’ra
+Asosiy faoliyat bo’yicha xarajatlarning dinamikasi
 ++++++
-Auditor professional xizmat ko’rsatib bo’lganidan so’ng mijozning maxfiy axborotini o’zining foydasi, 3-shaxsning foydasi yoki mijozga zarar etkazish maqsadida oshkor etmasligi lozim. Ushbu qaysi talabni xarakterlaydi?
+Doimiy harakatdagi aktivlar tarkibi to‘g‘ri ko‘rsatilgan qatorni belgilang.
 ======
-#Mijoz axborotining maxfiyligi
+#Pul mablag’lari, valyuta mablag’lari, qisqa muddatli investitsiyalar
 ======
-Auditorning kasbiy mahorati
+Debitorlik qarzlari, pul mablag’lari, valyuta mablag’lari
 ======
-Auditorning mustaqilligi
+Pul mablag’lari, debitorlik qarzlari, qisqa muddatli investitsiyalar
 ======
-Auditorning e’tiborliligi
+Valyuta mablag’lari, debitorlik qarzlari, qisqa muddatli investitsiyalar
 ++++++
-Debitorlik qarzi tovarlar haqiqatda yuklab jo`natilgan, ishlar bajarilgan, xizmatlar ko`rsatilgan boshlab qachon muddati o`tgan deb hisoblanadi?
+Hisobot davridagi korxonaning sof foydasi qanday maqsadlarga sarflanmaydi?
+======
+#Kechiktirilgan daromadlarni shakllanishiga
+======
+Ishlab chiqarish xarakteridagi qurilish ob`ektlariga
+======
+O’tgan yilga tegishli zararni qoplashga
+======
+Yangi texnikani sotib olishga
+++++++
+Balans aktivining rentabellik darajasini determinatsiyalashgan model asosida omilli tahlil qilinganda qaysi omillar natijaga teskari ta`sir etadi?
+======
+#uzoq va qisqa muddatli aktivlar
+======
+uzoq va qisqa muddatli majburiyatlar
+======
+sof foyda	
+===
+jami daromadlar
+++++++
+Moliyaviy barqarorlik koeffitsiyenti qanday aniqlanadi?
+======
+#o‘z mablag’lari manbalari+uzoq muddatli kredit va qarzlar/jami aktiv
+======
+o‘z mablag’lari manbalari+uzoq muddatli kredit va qarzlar/joriy aktiv
+======
+o‘z mablag’lari manbalari+uzoq muddatli debitorlik qarzlar/jami aktiv
+======
+o‘z mablag’lari manbalari+uzoq muddatli kreditorlik qarzlar/jami aktiv
+++++++
+Mahsulot sotishdan ko’rilgan foydaga qanday omillar ta`sir etadi?
+======
+#Mahsulot sotish hajmi, sotilgan mahsulot tannarxi, sotilgan mahsulot bahosi
+======
+Sotish hajmi, sotilgan mahsulot tannarxi, operatsion daromad
+======
+Mahsulot ishlab chiqarish hajmi, sotilgan mahsulot bahosi, davr xarajatlari
+======
+Mahsulot sotish hajmi, sotilgan mahsulot tannarxi, operatsion daromadlar
+++++++
+Sotishdan ko’rilgan foydaga qanday omillar funksional bog’liqlikda ta`sir ko’rsatadi?
+===
+ Sotilgan mahsulot hajmi, mahsulot tannarxi, sotilgan mahsulot bahosi, mahsulot tarkibidagi strukturaviy o’zgarishlar
+======
+#Sotish hajmi, bozorni tuzilishi, mahsulotni raqobatga bardoshligi, ishlab chiqarish hajmi
+===
+Mahsulot sifati, sotish hajmi, mahsulot bahosi, ishlab chiqarish hajmi
+======
+Ishlab chiqarish maromiyligi, mahsulot sifati, mahsulot rentabelligi, sotilmay qolgan mahsulot hajmi
+++++++
+Asosiy vositalarni sotishdan foyda qaysi daromadlar tarkibida aks etadi?
+======
+#asosiy faoliyatdan kelgan boshqa daromad
+======
+favqulodda kelgan daromad
+======
+mahsulotni sotishdan kelgan yalpi tushum
+======
+moliyaviy faoliyatdan kelgan daromad
+++++++
+Foiz ko‘rinishidagi daromadlar qaysi turdagi daromadlar tarkibida aks etadi?
+======
+#moliyaviy faoliyatdan kelgan daromadda
+======
+favqulodda kelgan daromadda
+======
+mahsulotni sotishdan kelgan yalpi tushumda
+======
+asosiy faoliyatdan kelgan boshqa daromadda
+++++++
+Ishlab chiqarish tannarxiga kirmaydigan xarajatlarni aniqlang.
+===
+ Ishlab chiqarishni moliyalashtirish uchun olingan kredit foizi
+======
+#Ishlab chiqarish moddiy xarajatlari
+======
+Ishlab chiqarishdagi ishchilar mehnat haqi
+======
+Ishlab chiqarish stanoklari eskirishi
+++++++
+Korxonaning asosiy faoliyatidan kelgan foyda qanday aniqlanadi?
+======
+#mahsulotni sotishdan kelgan yalpi foydadan davr xarajatlari chiqarilib, asosiy faoliyatning boshqa daromadlari qo’shiladi
+======
+mahsulotni sotishdan kelgan sof tushumdan korxonaning xarajatlari chiqariladi
+======
+mahsulotni sotishdan kelgan sof tushumdan mahsulot tannarxi chiqariladi
+======
+davr xarajatlaridan moliyaviy xarajatlar chiqariladi
+++++++
+Mahsulot sotishdan olingan yalpi foydaga qaysi omillar ta`sir etmaydi?	
+===
+ Moliyaviy faoliyatning xarajatlari
+======
+#Sotilgan mahsulot bahosining o’zgarishi	
+===
+Sotilgan mahsulot hajmining o’zgarishi
+======
+Sotilgan mahsulot tannarxining o’zgarishi
+++++++
+Umumxo’jalik faoliyatining moliyaviy natijasi qanday aniqlanadi
+======
+#Asosiy faoliyatning moliyaviy natijasiga moliyaviy faoliyatning daromadlari qo’shilib, moliyaviy faoliyat xarajatlari ayiriladi
+======
+Soliq to’langunga qadar foydadan daromad solig’i ayiriladi
+======
+Mahsulot sotishdan sof tushum summasidan sotilgan mahsulot tannarxi ayiriladi
+======
+Yalpi foydadan davr xarajatlari ayirilib, asosiy faoliyatning boshqa daromadlari qo’shiladi
+++++++
+Ishlab chiqarish fondlari bo’yicha rentabellik qanday aniqlanadi?
+======
+#(Foyda x 100) / (asosiy vositalar + aylanma mablag’lar	)
+======
+(Foyda x 100) / (jami aktivlar + joriy aktivlar)
+======
+(Foyda x 100) / (aktiv fondlar + passiv fondlar)
+======
+(Foyda x 100) / aktiv fondlar
+++++++
+Sotish rentabelligi qanday aniqlanadi?
+======
+#(Sotishdan yalpi foyda x 100) / mahsulot sotishdan tushgan sof tushum
+======
+(Sotishdan yalpi daromad x 100) / mahsulot sotishdan tushgan tushum	
+===
+(Mahsulotni sotishdan tushgan tushum x 100) / yalpi foyda
+======
+(Mahsulotni sotishdan tushgan yalpi tushum x 100) / yalpi sarflar
+++++++
+Sof rentabellik darajasi qanday aniqlanadi?
+======
+#sof foydani sof tushumga nisbati bilan
+======
+sof foydani aktivlar summasiga nisbati bilan
+======
+sof foydani xususiy kapitalga nisbati bilan
+======
+sof foydani asosiy vositalar va moddiy aylanma mablag’larga nisbati bilan
+++++++
+Sotish rentabelligi darajasining o’zgarishiga ta`sir etadi
+======
+#sotishdan olingan sof tushumning o’zgarishi 
+===
+asosiy faoliyat bo’yicha foyda (zarar)ni o’zgarishi
+======
+sof foydani o’zgarishi
+======
+korxona aktivlari summasini o’zgarishi
+++++++
+Quyida keltirilgan ko’rsatkichlarning qaysi biri rentabellik ko’rsatkichini ifodalaydi?
+===
+ sof foydani korxona aktivlariga nisbati
+======
+#qarzga olingan kapitalning o’z kapitaliga nisbati koeffitsienti	
+===
+debitor qarzlarning aylanish koeffitsienti
+======
+joriy likvidlik koeffitsienti
+++++++
+Qaysi ko’rsatkich foyda ko’rsatkichlari tarkibiga kirmaydi?
+======
+#Foizlar ko’rinishidagi daromadlar
+======
+Mahsulot sotishdan yalpi moliyaviy natija
+======
+Asosiy faoliyatning moliyaviy natijasi
+======
+Soliq to’langunga qadar foyda
+++++++
+Qaysi omil sotish rentabelligiga ta`sir ko’rsatadi?
+======
+#Yalpi foydaning o’zgarishi
+======
+Moliyaviy xarajatlarning o’zgarishi
+======
+Sof foydaning o’zgarishi
+======
+Ma`muriy xarajatlarning o’zgarishi
+++++++
+Debitorlik va kreditorlik qarzlari tahlilining axborot manbasi emas
+===
+ Xususiy kapital to’g’risida hisobot
+======
+#Buxgalteriya balansi
+======
+Muddati o’tgan debitorlik va kreditorlik qarzlari to’g’risida ma`lumotnoma
+======
+Debitorlik va kreditolik qarzlarini hisobga oluvchi schyotlar ma`lumotlari
+++++++
+Da’vo muddati o‘tib ketganligi sabab hisobdan chiqarilgan kreditorlik va deponent qarzlar qaysi modda tarkibiga kiritiladi?
+======
+#Asosiy faoliyatning boshqa daromadlari
+======
+Rezerv kapitali
+======
+Tekinga olingan mulk
+======
+Maqsadli tushum
+++++++
+Debitorlik va kreditorlik qarzlari tahlilining maqsadlaridan biri hisoblanmaydigan qatorni toping.
+======
+#hisobdan chiqarilgan kreditorlik qarzlarining yuzaga chiqish sabablarini o’rganishdan iborat
+======
+korxonaning debitorlik qarzlari holatiga baho berishdan iborat
+======
+debitorlik qarzlarining tarkibiy tuzilishi va dinamik o’zgarishlariga baho berishdan iborat
+===
+debitorlik va kreditorlik majburiyatlari aylanish davrini tezlashtirish asosida korxonaning moliyaviy holatini yaxshilash borasida chora-tadbirlar belgilashdan iborat
+++++++
+Debitorlik qarzlarining shartli aylanish kuni qanday aniqlanadi?	
+===
+ O’tgan yilgi debitorlik qarzlari summasini hisobot davridagi sotishdan sof tushum summasiga bo’linib, hisobot davridagi kunlarga ko’paytiriladi
+======
+#Hisobot davridagi sotishdan sof tushum summasi o’tgan yilgi debitorlik qarzlari summasiga bo’linadi
+======
+Hisobot davridagi sotishdan sof tushum summasi hisobot davridagi debitorlik qarzlari summasiga bo’linadi
+======
+Hisobot davridagi debitorlik qarzlari summasi hisobot davridagi sotishdan sof tushum summasiga bo’linib, hisobot davri kuniga ko’paytiriladi
+++++++
+Qaysi ko’rsatkich debitorlik qarzlari tarkibiga kirmaydi?
+======
+#Kechiktirilgan daromadlar
+======
+Xaridor va buyurtmachilarning qarzi
+======
+Olinadigan operativ ijara
+======
+Ta sischilar ustav kapitaliga ulushlari bo’yicha qarzlari
+++++++
+Qaysi ko’rsatkichlar kreditorlik qarzlari tarkibiga kirmaydi?
+======
+#Qisqa muddatli bank kreditlari
+======
+Byudjetga to’lovlar bo’yicha qarzlar
+======
+Mol yetkazib beruvchilarga qarzlar
+======
+Mehnatga haq to’lash bo’yicha qarzlar
+++++++
+Debitorlik va kreditorlik qarzlarni muddati o’tgan qarz sifatida e’tirof etish uchun qonunchilikda necha kun belgilangan?
 ======
 #90 kun
 ======
+15 kun
+======
 60 kun
 ======
-45 kun
-======
-65 kun
+30 kun
 ++++++
-Audit ish hujjatlariga quyidagilardan qaysi biri kiradi?
+Debitorlik qarzlarining muddati o’tishi korxona moliyaviy holatiga qanday ta`sir ko’rsatadi?
+===
+ Korxonada qarz mablag’lariga bo’lgan ehtiyojni oshiradi
 ======
-#hamma javoblar to’g’ri.
+#Kreditorlik qarzlarining aylanishi tezlashadi	
+===
+Aktivlarning aylanishi tezlashadi
 ======
-auditni umumiy rejalash.
-======
-analitik va sintetik registrlar.
-======
-hujjatlarga qilingan xulosalar.
+Korxona aylanmasida ortiqcha mablag’lar hosil bo’ladi
 ++++++
-Auditorlik tasdiqlash – bu
+Kreditorlik qarzlarining muddati o’tishi korxona moliyaviy holatiga qanday ta`sir ko’rsatadi?
 ======
-#Mijoz hisob-kitoblarining hujjatdagi va amaldagi holatini tekshirish
+#Korxonada qarz mablag’larini jalb etish imkoniyati pasayadi
 ======
-Yig‘ilgan axborotlar auditor tekshiruvini yakunlashning qonuniy asosi
+Korxona aylanmasida ortiqcha mablag’lar hosil bo’ladi
 ======
-Auditor tomonidan yozma majburiyat tuzilishi
+Aktivlarning aylanishi tezlashadi
 ======
-Biron-bir muhim muammoning yechimidagi o‘ta qimmatli axborot
+Kreditorlik qarzlarining aylanishi tezlashadi
 ++++++
-…………. xo’jalik muomalasi sodir bo’layotgan vaziyatda o’tkaziladi. Auditorlik tekshiruvining bu shakli xatolar va kamchilik yuz bergan vaqtda ularni tezkor ravishda to’g’rilash hamda bu vaziyatda ilg’or tajribalarni qo’llashni tatbiq etishni ta’minlaydi.
+Kreditorlik qarzlari aylanish koeffitsienti qanday aniqlanadi?
 ======
-#joriy auditorlik tekshiruvi
+#Sotilgan mahsulot tannarxi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
 ======
-yakuniy auditorlik tekshiruvi
+Kreditor qarzlarning o’rtacha qiymati joriy majburiyatlar summasiga bo’linadi
 ======
-dastlabki auditorlik tekshiruvi
-======
-haqiqiy auditorlik tekshiruvi
+Joiy majburiyatlar summasi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
+===
+Mahsulot sotishdan sof tushum summasi debitor qarzlarning o’rtacha qiymatiga bo’linadi
 ++++++
-“Auditning ko’lami” tushunchasini izohini ayting
+Kreditorlik qarzlarining o’rtacha aylanish kuni qanday aniqlanadi?
 ======
-#muayyan vaziyatlarda audit maqsadiga erishish uchun kerakli bo’lgan auditorlik amallari
+#Kreditor qarzlarning o’rtacha qiymati hisobot davri kuniga ko’paytirilib, sotilgan mahsulot tannarxiga bo’linadi
 ======
-muayyan vaziyatlarda audit maqsadiga erishish uchun kerakli bo’lgan hujjatlar
+Sotilgan mahsulot tannarxi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
 ======
-muayyan vaziyatlarda audit maqsadiga erishish uchun kerakli bo’lgan auditorlik dalillar
+Joriy majburiyatlar summasi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
 ======
-muayyan vaziyatlarda audit maqsadiga erishish uchun kerakli bo’lgan moliyaviy hisobot
+Kreditor qarzlarning o’rtacha qiymati joriy majburiyatlar summasiga bo’linib, yuzga ko’paytiriladi
 ++++++
-Moliyaviy hisobot auditining maqsadiga eng to’g’ri berilgan ta’rifni toping
+Pul oqimlari to’g’risidagi hisobot qaysi davrga tuziladi?
 ======
-#Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo’yicha moliyaviy hisobotni taqdim etishga oid belgilangan konseptual asosga muvofiq tayyorlanganligi haqida o’z fikrini bildirish uchun imkoniyat yaratishdir.
+#Yil bo’yicha
 ======
-Moliyaviy hisobotni taqdim etishga oid belgilangan kontseptual asosga muvofiq tayyorlanganligini bildirish uchun auditor xulosasini shakllantirish
+Yarim yillik
 ======
-Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo’yicha tayyorlanganligi va taqdim etilishi moliyaviy hisobotning xalqaro standart (MHXS) talablari asosida tayyorlashdir
+Choraklik, yarim yillik, 9 oylik, yillik
 ======
-Moliyaviy hisobotga nisbatan ishonchni oshirganligi bilan bir qatorda, foydalanuvchi ushbu xulosani subyekt kelajakda barqaror faoliyat ko’rsatish uchun ishonch, hamda subyekt rahbariyati tomonidan mukammal va samarali ish yuritish kafolati deb hisoblaydi.
+Yarim yillik va yillik
 ++++++
-Auditorlik tashkiloti bilan mijoz-korxona urtasida tuziladigan auditorlik shartnoma shartlari rejalashtirishning qaysi bosqichida amalga oshiriladi?
+Pul oqimlari to’g’risidagi hisobotni tuzishdan maqsad nima?
 ======
-# Auditning dastlabki rejalashtirish bosqichida
+#Barcha javoblar to’g’ri
 ======
-Audit dasturida
+Ma`lumot foydalanuvchilariga korxonaning pul mablag’larini boshqaruvidagi layoqatiga baho berish
 ======
-Umumiy rejada
+Pul mablag’lari harakatining balansini tuzish
 ======
-Tekshiruvni utkazish bosqichida
+Pul mablag’lari harakatini boshqarishda axborotlar bilan ta`minlash
 ++++++
-Majburiyatlar auditi nimadan boshlanadi?
+Pul oqimi deganda nimani tushunasiz?
 ======
-#Majburiyatlar auditini rejalashtirishdan
+#Pul mablag’larining kirimi va chiqimini
 ======
-Majburiyatlar inventarizatsiyasidan
+Pul mablag’lari kirimini
 ======
-Omborchidan tilxat olishdan
-======
-Omborni muxrlashdan
+Pul mablag’lari chiqimini	
+===
+Pul balansini
 ++++++
-Auditini rejalashtirishning asosiy qoidalarini ko’rsating?
+Valyuta mablag’lari harakati to’g’risida ma`lumot qaysi hisobot shaklida ilova qilingan?
 ======
-#Komplekslilik, uzluksizlik, maqbullik
+#Pul oqimi to’g’risidagi hisobotda
 ======
-Aniqlilik, uzluksizlik, maqbullik
+Buxgalteriya balansida
 ======
-To’liqlik, uzluksizlik, maqbullik
+Moliyaviy natijalar to’g’risidagi hisobotda
 ======
-Komplekslilik, aniqlik, maqbullik
+Xususiy kapital to’g’risida hisobotda
 ++++++
-Auditni rejalashtirish bosqichlari to‘g‘ri va tartib bilan ko‘rsatilgan qatorni aniqlang.
+Pul oqimi to’g’risidagi hisobot qaysi usullarda tuziladi?
 ======
-#1-auditni dastlabki rejalashtirish, 2-auditning umumiy rejasini tayyorlash va tuzish, 3-audit dasturini tayyorlash va tuzish.
+#To’g’ri va bilvosita usulda
 ======
-1-auditni dastlabki rejalashtirish, 2-audit dasturini tayyorlash va tuzish.
+Balans usulda
 ======
-1-audit maqsadini belgilash, 2-audit dasturini tuzish, 3-audit o‘tkazish.
+To’g’ri usulda	
+===
+To’g’ri va balans usulida
+++++++
+Qaysi qatorda valyuta balansini tuzish uchun zarur ko‘rsatkichlar keltirilgan?
 ======
-1-auditning umumiy rejasini tayyorlash, 2- audit dasturini tayyorlash, 3-bevosita audit o‘tkazish.
+#Valyuta mablag’larining yil boshidagi qoldig’i, valyuta mablag’larining jami kirimi va chiqimi, yil oxiridagi qoldiq
+======
+Valyuta mablag’larining chiqimi va yil oxiridagi qoldig‘i	
+===
+Valyuta mablag’larining kirimi	 va yil boshidagi qoldig‘i
+======
+Valyuta mablag’larini hisobot davri boshidagi qoldig’i, kirimi va chiqimi
+++++++
+Pul opqimlari to‘g‘risidagi hisobotda qaysi faoliyatlarga oid pul oqimlari keltirilgan?
+======
+#Operatsion, investitsiya va moliyaviy faoliyatlar
+======
+Operatsion, investitsiya va tashqi iqtisodiy faoliyatlar
+======
+Operatsion, investitsiya va innovatsion faoliyatlar
+======
+Operatsion va investitsiya faoliyatlari
+++++++
+Moliyaviy faoliyatdagi pul oqimini tahlil qilishda o’rganiladigan ko’rsatkichlarni belgilang.
+======
+#Olingan va to’langan foizlar, olingan va to’langan dividendlar
+======
+Mol yetkazib beruvchilarga to’langan pul mablag’lari
+======
+Mahsulotlarni sotishdan kelib tushgan pul mablag’lari
+======
+Xodimlarga va ular nomidan to’langan pul mablag’lari
+++++++
+Operatsion faoliyatidagi pul oqimini tahlil qilishda o’rganiladigan ko’rsatkichlarni belgilang.
+======
+#Mahsulotlarni sotishdan kelib tushgan pul mablag’lari, mol yetkazib beruvchilarga to’langan pul mablag’lari
+======
+Asosiy vositalarni sotib olish va sotish, nomoddiy aktivlarni sotib olish va sotish
+======
+Olingan va to’langan foizlar, olingan va to’langan dividendlar
+======
+To’langan daromad (foyda) solig’i, to’langan boshqa soliqlar
+++++++
+Investitsion faoliyatdagi pul oqimini tahlil qilishda o’rganiladigan ko’rsatkichlarni belgilang.
+======
+#Asosiy vositalarni sotib olish va sotish, nomoddiy aktivlarni sotib olish va sotish
+======
+To’langan daromad (foyda) solig’i, to’langan boshqa soliqlar
+======
+Mahsulotlarni sotishdan kelib tushgan pul mablag’lari, mol yetkazib beruvchilarga to’langan pul mablag’lari
+======
+Olingan va to’langan foizlar, olingan va to’langan dividendlar
+++++++
+Korxonada qaysi faoliyat turi bo’yicha pul oqimlari tahlili asosida qisqa muddatli kredit va qarzlarga oid pul mablag’larini aniqlash mumkin?
+======
+#Moliyaviy faoliyatdagi pul mablag’lari harakati tahlili asosida
+======
+Operatsion faoliyatidagi pul mablag’lari harakati tahlili asosida
+======
+Investitsion faoliyatdagi pul mablag’lari harakati tahlili asosida
+======
+Soliqqa tortishdagi pul mablag’lari harakati tahlili asosida
+++++++
+Sof pul oqimi qanday aniqlanadi?
+======
+#Kelib tushgan va sarflangan pul mablag’larining ayirmasi orqali
+======
+Kelib tushgan va sarflangan pul mablag’larining nisbati orqali
+======
+Yil boshidagi va yil oxiridagi pul mablag’larini qo’shib ikkiga bo’lish orqali
+======
+Pul mablag’lari o’rtacha qoldig’ini hisobot davri kuniga ko’paytirib, oborot summasiga bo’lish orqali
+++++++
+Pul mablag’larining aylanish davri qanday aniqlanadi?
+======
+#Pul mablag’lari o’rtacha qoldig’ini hisobot davri kuniga ko’paytirib, sof tushum summasiga bo’lish orqali
+======
+Kelib tushgan va sarflangan pul mablag’larining ayirmasi orqali
+======
+Kelib tushgan va sarflangan pul mablag’larining nisbati orqali
+======
+Yil boshidagi va yil oxiridagi pul mablag’larini qo’shib ikkiga bo’lish orqali
+++++++
+Quyidagilardan qaysi biri xususiy kapital tarkibiga kirmaydi?
+======
+#Dargumon qarzlar bo’yicha rezerv
+======
+Rezerv kapitali
+======
+Ustav kapitali
+======
+Taqsimlanmagan foyda
+++++++
+Rezerv kapitali nima maqsadda tashkil etiladi?
+======
+#Hisobot davrida ko’rilgan zararlarni qoplash uchun
+======
+Dargumon debitor qarzlarni qoplash uchun
+======
+Aylanma mablag’larga bo’lgan ehtiyojni qondirish uchun
+======
+Asosiy vositalar ta’mirlash uchun
+++++++
+Xususiy kapital qatoriga kiruvchi elementlar to’liq ko’rsatilgan qatorni toping.
+======
+#Ustav kapitali, qo’shilgan kapital, zaxira kapitali, taqsimlanmagan foyda, qoplanmagan zarar, maqsadli tushumlar, kelgusi to‘lovlar va xarajatlar uchun rezerv
+======
+Ustav kapitali, taqsimlanmagan foyda, maqsadli tushumlar
+======
+Zaxira kapitali, qo’shilgan kapital, taqsimlanmagan foyda, maqsadli tushumlar, inson kapitali, intellectual kapital
+======
+Zaxira kapitali, taqsimlanmagan foyda, maqsadli tushumlar
+++++++
+Xususiy kapital to’g’risidagi hisobotda aks ettiriladigan qiymat ko’rinishida ifodalanmaydigan ko’rsatkichni toping.
+======
+#Muomaladagi aktsiyalar soni
+======
+Hisoblangan dividendlar
+======
+Tekinga olingan mulk
+======
+Qimmatli qog‘ozlar emissiyasi
+++++++
+Xususiy kapital rentabelligi nimani ifodalaydi?
+======
+#har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan sof foyda qiymati
+======
+har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan daromadlar qiymati
+======
+har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan mahsulot sotishdan sof tushum qiymati
+======
+har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan mahsulot tannarxi qiymati
+++++++
+Bir aktsiya uchun foyda ko‘rsatkichi qanday aniqlanadi?
+======
+#Hisobot yilida olingan foydani chiqarilgan aktsiyalar soniga bo’lish bilan
+======
+Uzoq va qisqa muddatli qarz mablag’larini o’z mablag’lari manbaiga bo’lish bilan
+======
+Hisobot yilida olingan foydani xususiy kapital summasiga bo’lish bilan
+======
+Hisobot yilida olingan yalpi foydani chiqarilgan oddiy aktsiyalar soniga bo’lish bilan
+++++++
+Rezerv kapitalini ko’paytirish omillari noto‘g‘ri ko‘rsatilgan qatorni toping.
+======
+#Aktsiyalarni nominal qiymatidan yuqori narxda sotish
+======
+Asosiy vositalarni qayta baholash
+======
+Taqsimlanmagan foydadan rezerv kapitaliga ajratma qilish
+======
+Tekinga olingan mulk
+++++++
+Quyidagi ma’lumotlar asosida moliyaviy mustaqillik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m.
+======
+#0,44
+======
+0,56
+======
+0,5
+======
+0,06
+++++++
+Quyidagi ma’lumotlar asosida moliyaviy barqarorlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+======
+#0,6
+======
+0,44
+======
+0,5
+======
+0,16
+++++++
+Quyidagi ma’lumotlar asosida sof aktivlar miqdorini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+======
+#220 mln so‘m
+======
+280 mln so‘m
+======
+80 mln so‘m
+======
+250 mln so‘m
+++++++
+Quyidagi ma’lumotlar asosida aktivlar rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+======
+#6 foiz
+======
+5 foiz
+======
+50 foiz
+======
+10 foiz
+++++++
+Quyidagi ma’lumotlar asosida sof rentabellikni aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m.
+======
+#5 foiz
+======
+6 foiz
+======
+50 foiz
+======
+10 foiz
+++++++
+Quyidagi ma’lumotlar asosida sotish rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m.
+======
+#25 foiz
+======
+6 foiz
+======
+5 foiz
+======
+10 foiz
+++++++
+Quyidagi ma’lumotlar asosida tannarx rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
+======
+#6,67 foiz
+======
+50 foiz
+======
+5 foiz
+======
+17 foiz
+++++++
+Quyidagi ma’lumotlar asosida aylanma mablag‘lar aylanuvchanlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
+======
+#2
+======
+1,2
+======
+1,5
+======
+4
+++++++
+Quyidagi ma’lumotlar asosida aylanma mablag‘lar aylanish davrini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m. Hisobot davri 360 kundan iborat.
+======
+#180
+======
+90
+======
+270
+======
+60
+++++++
+Quyidagi ma’lumotlar asosida uzoq muddatli aktivlarning jami aktivlardagi ulushini  aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m. Hisobot davri 360 kundan iborat.
+======
+#40 %
+======
+60 %
+======
+30 %
+======
+25 %
+++++++
+Quyidagi ma’lumotlar asosida joriy likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 220 mln so‘m.
+======
+#1,36
+======
+2,27
+======
+1,07
+======
+1,26
+++++++
+Quyidagi ma’lumotlar asosida tez likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 220 mln so‘m.
+======
+#0,68
+======
+0,9
+======
+1,07
+======
+0,23
+++++++
+Quyidagi ma’lumotlar asosida mutloq likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
+======
+#0,2
+======
+0,12
+======
+0,4
+======
+0,53
+++++++
+Quyidagi ma’lumotlar asosida sotishdan yalpi foyda summasini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
+======
+#120 mln
+======
+280 mln
+======
+350 mln
+======
+200 mln
+++++++
+Quyidagi ma’lumotlar asosida asosiy faoliyat bo‘yicha moliyaviy natija miqdorini aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami majburiyatlar 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
+======
+#-50 mln
+======
+-350 mln
+======
+350 mln
+======
+200 mln
+++++++
+Quyidagi ma’lumotlar asosida umumxo‘jalik faoliyat bo‘yicha moliyaviy natija miqdorini aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m.
+======
+#110 mln
+======
+-350 mln
+======
+-50 mln
+======
+-110 mln
+++++++
+Quyidagi ma’lumotlar asosida soliq to‘langunga qadar foydani aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln.
+======
+#95 mln
+======
+-350 mln
+======
+-50 mln
+======
+110 mln
+++++++
+Quyidagi ma’lumotlar asosida TMZ aylanuvchanlik koeffitsiyentini toping. Jami aktiv 500 mln so‘m, TMZ 120 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln.
+======
+#4
+======
+3
+======
+6
+======
+3,2
+++++++
+Quyidagi ma’lumotlar asosida TMZ aylanish davrini toping. Jami aktiv 500 mln so‘m, TMZ 120 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln. Hisobot davri 90 kun.
+======
+#22,5
+======
+9
+======
+360
+======
+180
+++++++
+Quyidagi ma’lumotlar asosida debitorlik qarzlar aylanish davrini toping. Jami aktiv 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln. Hisobot davri 90 kun.
+======
+#15
+======
+18,75
+======
+75
+======
+60
+++++++
+Quyidagi ma’lumotlar asosida doimiy passivlarning uzoq muddatli aktivlarga nisbati koeffitsiyentini toping. Jami aktiv 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, joriy aktivlar 360 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, jami majburiyatlar 240 mln so‘m.
+======
+#1,86
+======
+0,48
+======
+0,72
+======
+2,08
+++++++
+Quyidagi ma’lumotlar asosida asosiy vositalarning eskirish darajasini toping. Boshlang’ich qiymati 1,2 mlrd so‘m, jamg’arilgan eskirish summasi 800 mln so‘m, qoldiq qiymat 400 mln so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m.
+======
+#66,7%
+======
+33,3 %
+======
+50 %
+======
+16,7 %
+++++++
+Quyidagi ma’lumotlar asosida asosiy vositalarning yaroqlilik darajasini toping. Boshlang’ich qiymati 1,2 mlrd so‘m, jamg’arilgan eskirish summasi 800 mln so‘m, qoldiq qiymat 400 mln so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m.
+======
+#33,3 %
+======
+66,7%
+======
+50 %
+======
+16,7 %
+++++++
+Quyidagi ma’lumotlar asosida asosiy vositalar rentabelligini aniqlang. Yil boshidagi qoldiq qiymat 400 mln so‘m, yil oxiridagi qoldiq qiymat 500 mln so‘m. Hisobot davridagi sof foyda 90 mln so‘m, sof tushum 500 mln so‘m.
+======
+#20 %
+======
+22,5 %
+======
+18 %
+======
+16,7 %
+++++++
+Quyidagi ma’lumotlar asosida yuqori likvidlik aktivlar (A1) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m.
+======
+#120 mln
+======
+360 mln
+======
+220 mln
+======
+70 mln
+++++++
+Quyidagi ma’lumotlar asosida qiyin sotiluvchi aktivlar (A4) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m.
+======
+#360 mln
+======
+440 mln
+======
+220 mln
+======
+70 mln
+++++++
+Quyidagi ma’lumotlar asosida sekin sotiluvchi aktivlar (A3) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
+======
+#230 mln
+======
+440 mln
+======
+220 mln
+======
+360 mln
+++++++
+Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlar (A2) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
+======
+#100 mln
+======
+440 mln
+======
+220 mln
+======
+360 mln
+++++++
+Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlarning (A2) jami aktivlardagi ulushini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
+======
+#12,5 %
+======
+25 %
+======
+50 %
+======
+27,5 %
+++++++
+Quyidagi ma’lumotlar asosida yuqori likvidli aktivlarning (A1) joriy aktivlardagi ulushini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
+======
+#25 %
+======
+13,6 %
+======
+11,4 %
+======
+22,7 %
+++++++
+Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 200 mln so‘m, uzoq muddatli aktivlar 160 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#Barqaror (normal)
+======
+Mutloq barqaror
+======
+Nobarqaror
+======
+Krisiz holat
+++++++
+Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 150 mln so‘m, uzoq muddatli aktivlar 160 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#Mutloq barqaror
+======
+Barqaror (normal)
+======
+Nobarqaror
+======
+Krisiz holat
+++++++
+Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 280 mln so‘m, uzoq muddatli aktivlar 160 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#Nobarqaror
+======
+Barqaror (normal)
+======
+Mutloq barqaror
+======
+Krisiz holat
+++++++
+Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 200 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#Krizis holat
+======
+Barqaror (normal)
+======
+Mutloq barqaror
+======
+Nobarqaror
+++++++
+Quyidagi ma’lumotlar asosida korxonaning o‘z oborot mablag‘lari mavjud summasini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 360 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#10 mln
+======
+60 mln
+======
+140 mln
+======
+120 mln
+++++++
+Quyidagi ma’lumotlar asosida korxonaning o‘z oborot mablag‘lari mavjud summasini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 260 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#110 mln
+======
+220 mln
+======
+30 mln
+======
+120 mln
+++++++
+Quyidagi ma’lumotlar asosida o‘z oborot mablag‘lari mavjud summasining balans jamiga nisbati koeffitsiyentini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 130 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#0,167
+======
+0,303
+======
+0,333
+======
+0,257
+++++++
+Quyidagi ma’lumotlar asosida o‘z mablag‘larining harakatchanlik (xususiy kapital manyovrlashganlik) koeffitsiyentini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+======
+#0,75
+======
+0,85
+======
+0,25
+======
+0,91
+++++++
+Quyidagi ma’lumotlar asosida xususiy kapital rentabelligini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, sof foyda 50 mln so‘m.
+======
+#25 %
+======
+29 %
+======
+22,7 %
+======
+11,3 %
+++++++
+Quyidagi ma’lumotlar asosida aktivlar aylanuvchanligini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, sof foyda 50 mln so‘m, sof tushum 924 mln so‘m.
+======
+#1,4
+======
+2,1
+======
+0,113
+======
+4,2
+++++++
+Quyidagi ma’lumotlar asosida sotishdan yalpi foyda summasini aniqlang. Mahsulot birligining sotish narxi 5000 so‘m, sotilgan mahsulot miqdori 10000 dona, mahsulot birligining tannarxi 4200 so‘m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m.
+======
+#8 mln
+======
+50 mln
+======
+42 mln
+======
+92 mln
+++++++
+Quyidagi ma’lumotlar asosida operatsion faoliyatdan sof pul oqimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 50 mln so’m, xodimlarga to‘langan ish haqi 20 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, operativ ijaraga to‘langan summa 7 mln so‘m, sotilgan mahsulotlar tannarxi 40 mln so‘m, asosiy vositalarni sotishdan kelgan tushum 10 mln so‘m.
+======
+#5 mln
+======
+15 mln
+======
+-35 mln
+======
+-20 mln
+++++++
+Quyidagi ma’lumotlar asosida investitsiya faoliyatidan jami pul kirimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 50 mln so’m, xodimlarga to‘langan ish haqi 20 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, qimmatli qog’ozlarni sotishdan olingan pul mablag‘lari 12 mln,  olingan kreditlar 40 mln so‘m, asosiy vositalarni sotishdan kelgan tushum 28 mln so‘m.
+======
+#40 mln
+======
+80 mln
+======
+130 mln
+======
+68 mln
+++++++
+Quyidagi ma’lumotlar asosida jami pul kirimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 50 mln so’m, xodimlarga to‘langan ish haqi 20 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, qimmatli qog’ozlarni sotishdan olingan pul mablag‘lari 12 mln,  olingan kreditlar 40 mln so‘m, asosiy vositalarni sotishdan kelgan tushum 28 mln so‘m.
+======
+#130 mln
+======
+80 mln
+======
+150 mln
+======
+168 mln
+++++++
+Quyidagi ma’lumotlar asosida moliyaviy faoliyatga doir jami pul chiqimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 150 mln so’m, to‘langan kreditlar 120 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, to‘langan foizlar 12 mln,  olingan kreditlar 40 mln so‘m, to‘langan dividendlar 28 mln so‘m.
+======
+#160 mln
+======
+200 mln
+======
+120 mln
+======
+138 mln
+++++++
+Quyidagi ma’lumotlar asosida moliyaviy faoliyatga doir sof pul oqimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 150 mln so’m, to‘langan kreditlar 120 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, to‘langan foizlar 12 mln,  olingan kreditlar 40 mln so‘m, olingan dividendlar 80 mln so‘m, to‘langan dividendlar 28 mln so‘m.
+======
+#-40 mln
+======
++240 mln
+======
+-22 mln
+======
++58 mln
+++++++
+Quyidagi ma’lumotlar asosida sof aktivlarning jami aktivlardagi ulushini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+======
+#44 %
+======
+60 %
+======
+15 %
+======
+25 %
+++++++
+Quyidagi ma’lumotlar asosida muddati o‘tgan debitorlik qarzlarning jami debitorlik qarzlardagi ulushini aniqlang. Jami aktiv 500 mln so‘m, jami debitorlik qarzlari 120 mln so‘m, sof foyda 30 mln so‘m, muddati o‘tgan debitorlik qarzlari 30 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+======
+#25 %
+======
+6 %
+======
+15 %
+======
+44 %
+++++++
+Quyidagi ma’lumotlar asosida yuqori likvidli aktivlar jami summasini toping. Jami aktiv 500 mln so‘m, jami debitorlik qarzlari 120 mln so‘m, hisob-kitob schyotidagi pul mablag‘lari 30 mln so‘m, valyuta schyotidagi mablag’lar 60 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, qisqa muddatli investitsiyalar 40 mln so‘m.
+======
+#130 mln
+======
+250 mln
+======
+500 mln
+======
+350 mln
+++++++
+Quyidagi ma’lumotlar asosida mutloq likvidlik koeffitsiyentini toping. Joriy majburiyatlar 100 mln so‘m, jami debitorlik qarzlari 120 mln so‘m, hisob-kitob schyotidagi pul mablag‘lari 30 mln so‘m, valyuta schyotidagi mablag’lar 60 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, qisqa muddatli investitsiyalar 40 mln so‘m.
+======
+#1,3
+======
+2,5
+======
+5,0
+======
+3,5
