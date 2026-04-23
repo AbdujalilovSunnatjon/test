@@ -1,3054 +1,1872 @@
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Rejalashtirilgan jami material xarajati necha so‘m?
+Menejment deganda nima tushuniladi?
 ======
-#550 000
+#boshqaruv, ya'ni resurslarni, odamlarni boshqarish, samarali faoliyat olib borish va foyda olishni bilish, uni ko'paytirish jarayonidir
 ======
-537 500
+faqat moliyaviy resurslarni nazorat qilish jarayoni
 ======
-440 000
-======
-430 000
+mahsulot ishlab chiqarish va sotish jarayoni
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Haqiqatdagi jami material xarajati necha so‘mni tashkil etadi?
+Boshqaruv usullari:
 ======
-#540 500
+#kishilarga ta'sir etishning umumiy vositalari va yo'llari
 ======
-440 000
+faqat buyruq va farmonlar berish usullari
 ======
-537 000
-======
-430 000
+moliyaviy rag'batlantirish vositalari
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajati rejaga nisbatan qancha summaga og‘ishgan?
+Qaror qabul qilish bu:
 ======
-#97800 oshgan
+#alternativ yechim tanlash
 ======
-97500 kamaygan
+muammoni e'tiborsiz qoldirish
 ======
-97500 oshgan
-======
-110000 kamaygan
+faqat rahbar tomonidan ko'rsatma berish
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Haqiqatdagi material sarfni rejadagi baho orqali qayta hisoblaganda material xarajati necha so‘mni tashkil etadi?
+Menejmentning asosiy tamoyillari?
 ======
-#450 000
+#demokratiyalash tamoyili, ierarxiya tamoyili, rejalashtirish tamoyili, yakkahokimlik tamoyili, ilmiylik tamoyili, qayta aloqalar tamoyili, javobgarlik tamoyili
 ======
-440 000
+faqat ierarxiya va buyruqbozlik tamoyili
 ======
-537 500
-======
-550 000
+rejalashtirish va moliyalashtirish tamoyillari
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajatining o‘zgarishiga miqdor omili ta’sirini aniqlang?
+Menejment subyekti bo'lib:
 ======
-#+120 000
+#boshqaruv organlari hisoblanadi
 ======
--110 000
+ishlab chiqarish vositalari hisoblanadi
 ======
-+ 110 000
-======
--97 500
+moliyaviy resurslar hisoblanadi
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajatining o‘zgarishiga baho omili ta’sirini aniqlang?
+Menejment fani nimani o'rgatadi?
 ======
-#+ 12500
+#boshqaruvchiga tanlovni to'g'ri amalga oshirishni va ishchan qarorni qabul qilishni o'rgatuvchi fandir
 ======
--110 000
+faqat moliyaviy hisobotlarni yuritishni o'rgatadi
 ======
-- 12 500
-======
-+10 500
+texnik muhandislik ko'nikmalarini o'rgatadi
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajati bo‘yicha reja bajarilishi foizini aniqlang.
+Menejment mohiyati quyidagilardan iborat:
 ======
-#125 %
+#qo'yilgan maqsadga erishish yo'lidagi boshqaruv harakatlari
 ======
-100 %
+foyda olish maqsadida tovarlar ishlab chiqarish
 ======
-122 %
-======
-82 %
+xodimlarni nazorat ostida ushlab turish
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Material xarajati bo‘yicha reja necha foiz ortiq bajarilgan?
+«Menejment» kursi iqtisodiy fanlar ichidagi qaysi fanlar jumlasiga kiradi:
 ======
-#25 %
+#umumiqtisodiy tarmoq
 ======
-10 %
+texnik-muhandislik tarmoq
 ======
-22 %
-======
--18 %
+gumanitar-ijtimoiy tarmoq
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material miqdorining rejaga nisbatan foizdagi o‘zgarishini toping.
+Xarajatlar deganda nima tushuniladi?
 ======
-#-25 %
+#bu mahsulotni ishlab chiqarish (xizmat ko'rsatish) va uni sotish hamda xodimlarga to'lash uchun sarflanadigan mablag'lar
 ======
-10 %
+bu korxonaning foyda ko'rsatkichi
 ======
-25 %
-======
--10 %
+bu tovarlarning bozordagi narxi
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material bahosining rejaga nisbatan foizdagi o‘zgarishini toping.
+Qayta aloqalar tamoyili nimani anglatadi?
 ======
-#+2,5 %
+#bu boshqaruv jarayonida amalga oshirilgan qaror va harakatlar natijalari to'g'risida ma'lumotlarni doimiy ravishda qabul qilish, ularni tahlil qilish va shu asosda faoliyatni takomillashtirib borishni anglatadi
 ======
-+10 %
+bu xodimlarni muntazam ravishda rag'batlantirib borishni anglatadi
 ======
--2,3 %
-======
--10 %
+bu rahbar va bo'ysunuvchilar o'rtasidagi muloqot usulini anglatadi
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material bahosining mutloq farqi necha so’m?
+Baho deganda nima tushuniladi?
 ======
-#-2500
+#bu tovar va xizmatlarning pulda ifodalangan qiymatidir
 ======
--1500
+bu mahsulotning ishlab chiqarish xarajatlari yig'indisidir
 ======
--500
-======
--1000
+bu korxona tomonidan belgilanadigan chegirma miqdoridir
 ++++++
-Mahsulot birligi uchun sarflangan material sarfi rejada 20 kg, bahosi 1 kg uchun 22000 so‘m. Haqiqatda esa 25 kg sarf, bahosi 21500 so‘m. Sarflangan material miqdorining mutloq farqini toping?
+Naf deganda nima tushuniladi?
 ======
-#+25 kg
+#bu mahsulot (xizmat)ning iste'molchilarga qanchalik ijobiy natija keltirishidir
 ======
--5 kg
+bu korxona foydasi va xarajatlar o'rtasidagi farqdir
 ======
-+25 kg
-======
-+5 kg
+bu tovar bahosining pasayishi natijasidir
 ++++++
-Quyidagi tenglikda natija ko‘rsatkichiga to‘g‘ri ta’sir etayotgan omillar soni nechta?
-SF=OD+AFBD+MFD-SMT-DX-MFX-FS
+Yakkahokimlik tamoyili nimani anglatadi?
 ======
-#2
+#boshqarishga tayinlangan shaxs tomonidan bajarilib, unga boshqariladigan obyekt, uning mol-mulki, pul mablag'lari ishonib topshiriladi
 ======
-4
+bir nechta rahbarlar birgalikda qaror qabul qilishini anglatadi
 ======
-7
-======
-3
+xodimlarning o'z xohishlaricha faoliyat yuritishini anglatadi
 ++++++
-Quyidagi tenglikda natija ko‘rsatkichiga teskari ta’sir etayotgan omillar soni nechta?
-SF=OD+AFBD+MFD-SMT-DX-MFX-FS
+Rejalashtirish tamoyili nimani anglatadi?
+======
+#boshqarish bo'g'inlari o'rtasidagi taraqqiyot nisbatlarini aniqlaydi, shartnomalarning bajarilishini tashkil qiladi va nazorat qiladi
+======
+xodimlarni rag'batlantirish tizimini yaratishni anglatadi
+======
+korxona byudjetini tuzish va tasdiqlashni anglatadi
+++++++
+Javobgarlik tamoyili nimani anglatadi?
+======
+#bu tamoyil, eng avvalo, boshqaruvchilarning javobgarligini nazarda tutadi
+======
+bu tamoyil faqat quyi bo'g'in xodimlarning javobgarligini bildiradi
+======
+bu tamoyil tashqi muhitdagi raqobatchilar oldidagi majburiyatlarni anglatadi
+++++++
+Ierarxiya tamoyili nimani anglatadi?
+======
+#boshqarishning pog'onaligiga asolanadi va bir tomonidan markaziy, ikkinchi tomondan esa, viloyat shahar va tumanlar darajasidagi davlat hokimiyati hamda boshqaruv idoralarining vazifalarini aniq belgilanishini talab qiladi
+======
+barcha xodimlarning teng huquqliligini ta'minlashni anglatadi
+======
+faqat yuqori rahbarlar tomonidan qaror qabul qilinishini anglatadi
+++++++
+Boshqaruvda tizimli yondashuv nimani ifodalaydi?
+======
+#boshqaruv obyekti murakkab ijtimoiy-iqtisodiy, o'zgaruvchan tizim, ichki tartib va o'zaro aloqaga bir butun yaxlitlikni tashkil etuvchi unsurlar yig'indisi sifatida o'rganilishini ifodalaydi
+======
+boshqaruvda faqat moliyaviy ko'rsatkichlarni tahlil qilishni ifodalaydi
+======
+tashkilotning faqat tashqi muhit omillariga e'tibor berishni ifodalaydi
+++++++
+Boshqaruvda vaziyatli yondashuv nimani ifodalaydi?
+======
+#boshqaruv vazifalarini bajarishda korxona ichida hamda korxona va tarmoqlar o'rtasida vaziyat o'zgarishlarini e'tibor berish sifatida o'rganilishini ifodalaydi
+======
+barcha vaziyatlarda bir xil boshqaruv usulini qo'llashni ifodalaydi
+======
+faqat inqirozli vaziyatlarda maxsus choralar ko'rishni ifodalaydi
+++++++
+Boshqaruvda jarayonli yondashuv nimani ifodalaydi?
+======
+#boshqaruv vazifalarini bajarishda korxona va tarmoqlar o'rtasida jarayon o'zgarishlariga e'tibor berishni ifodalaydi
+======
+faqat ishlab chiqarish jarayonini kuzatib borishni ifodalaydi
+======
+korxona ichidagi moliyaviy jarayonlarni tahlil qilishni ifodalaydi
+++++++
+Boshqaruvda miqdoriy yondashuv nimani ifodalaydi?
+======
+#boshqaruv vazifalarini bajarishda korxona va tarmoqlar o'rtasida miqdoriy o'zgarishlariga e'tibor berishni ifodalaydi
+======
+sifat ko'rsatkichlarini raqamlar bilan ifodalashni bildiradi
+======
+xodimlar sonini optimal darajada ushlab turishni anglatadi
+++++++
+Teylorning zamondoshi va ishining davomchisi amerikalik iqtisodchi…
+======
+#G.Emerson
+======
+A.Fayol
+======
+D.Mak-Gregor
+++++++
+Qaysi maktabning vujudga kelishi munosabati bilan mutaxassislar umum tashkilot darajasidagi boshqaruv muammolari bilan shug'ullana boshladilar?
+======
+#ma'muriy boshqaruv maktabi, ilmiy boshqaruv maktabi
+======
+insoniy munosabatlar maktabi, miqdoriy tizimli maktab
+======
+xulq-atvor maktabi, tizimli yondashuv maktabi
+++++++
+Kimlar ilmiy menejmentning (1885-1920) namoyondalari bo'lgan?
+======
+#F.Teylor, G.Emerson
+======
+A.Fayol, M.Veber
+======
+E.Meyo, D.Mak-Gregor
+++++++
+Sohibqiron Amir Temur davlat va jamiyatni boshqarishda nechta ijtimoiy siyosiy guruhga tayangan:
+======
+#12 ta
+======
+7 ta
+======
+10 ta
+++++++
+Fayolning nechta boshqaruv tamoyillari mavjud?
+======
+#14
+======
+10
+======
+12
+++++++
+Boshqarish ta'limotidagi asosiy maktablarni sanab o'ting
+======
+#ilmiy menejment maktabi, mumtoz menejment maktabi, "Insoniy munosabatlar maktabi", miqdoriy tizimli menejment maktabi
+======
+faqat ilmiy menejment maktabi va ma'muriy maktab
+======
+psixologik maktab, texnologik maktab, moliyaviy maktab
+++++++
+Klassik - ma'muriy maktabning yorqin namoyondasi:
+======
+#Anri Fayol
+======
+F.Teylor
+======
+E.Meyo
+++++++
+Klassik yoki ma'muriy boshqaruv maktabi fikrlarning rivojlanish davri:
+======
+#1920-1950 yil
+======
+1885-1920 yil
+======
+1950-1980 yil
+++++++
+Fayolning diqqat markazida, eng avvalo:
+======
+#14 tadan iborat boshqarish prinsiplari turadi
+======
+ishchilar mehnat unumdorligini oshirish turadi
+======
+tashkilotning moliyaviy barqarorligi turadi
+++++++
+Ilmiy boshqaruv maktabi fikrlarining rivojlanish davri:
+======
+#1885 – 1920 yil
+======
+1920-1950 yil
+======
+1950-1970 yil
+++++++
+Amir Temurning davlatni boshqarish tamoyillari nimalardan iborat?
+======
+#ilmiylik, yakka hokimlik, ierarxiya, demokratiya, mashvarat
+======
+tartib, nazorat, qat'iylik, tenglik, tinchlik
+======
+adolat, shijoat, sabr, ilm, kuch
+++++++
+Mehnatni texnokratik boshqarilishiga qaysi maktablar asos solishdi?
+======
+#"Ilmiy menejment" va "mumtoz menejment" namoyandalari
+======
+"Insoniy munosabatlar" va "xulq-atvor" namoyandalari
+======
+"Miqdoriy" va "tizimli yondashuv" namoyandalari
+++++++
+F. Teylor menejmentning qaysi tamoyillarini aniqlagan?
+======
+#ishchini ilmiy tanlash, ishchini ilmiy o'qitish va ishni ixtisoslashtirish
+======
+ishchini rag'batlantirish, ishchini nazorat qilish va jazolaш
+======
+guruhlarda ishlash, ijodkorlikni rivojlantirish, musobaqa o'tkazish
+++++++
+"Ilmiy menejment" maktabi qachon va qayerda rivojlandi?
+======
+#XIX asrning oxiri va XX asrning boshlarida Amerikada shakllana boshlagan
+======
+XX asrning o'rtalarida Evropada shakllana boshlagan
+======
+XVIII asrning oxirida Angliyada shakllana boshlagan
+++++++
+«Insoniy munosabatlar» maktabi:
+======
+#ishchi — bu fikrsiz robot emas degan g'oyani ilgari surgan maktabdir
+======
+faqat texnik samaradorlikni oshirish bilan shug'ullangan maktabdir
+======
+ishchilarni mehnat bazasi sifatida ko'rgan maktabdir
+++++++
+Kimlar "Inson munosabatlari" maktabi namoyandalari bo'lgan:
+======
+#Meyo E, Laykert R
+======
+F.Teylor, G.Emerson
+======
+A.Fayol, M.Veber
+++++++
+F.Teylor tamoyiliga binoan…
+======
+#ishchidan boshliqlarning barcha buyruqlarini hech qanday mulohaza yuritmasdan, biror bir shaxsiy tashabbus ko'rsatmasdan aniq hamda tez bajarishini talab qilinar edi
+======
+ishchiga o'z ish usulini o'zi tanlash huquqi berilardi
+======
+ishchiga boshqaruv jarayonida ishtirok etish imkoniyati yaratilardi
+++++++
+Amir Temur fikriga ko'ra, vazirlar quyida qayd qilingan sifatlarning qaysi biriga ega bo'lishlari shart:
+======
+#asillik, toza nasllik va ulug'vorlik
+======
+boy-badavlatlik, ziyolilik va harbiy kuch
+======
+yosh va tetiklik, chetdan kelib qolganlik, texnik bilim
+++++++
+X(iks) va U (igrek) nazariyasining namoyandasi kim:
+======
+#amerikalik olim D. Mak-Gregor
+======
+amerikalik olim F. Teylor
+======
+fransuz olimi A. Fayol
+++++++
+F. Teylorning diqqat markazida, eng avvalo:
+======
+#yollanma ishchilar mehnatining unumdorligini oshirishda g'oyatda samarador va maqbul usullarni izlash turadi
+======
+tashkilot tuzilmasini takomillashtirish va boshqaruvni markazlashtirish turadi
+======
+rahbar kadrlarini tayyorlash va ularning malakasini oshirish turadi
+++++++
+Boshqaruvning umumdavlat organlari quyidagilardan iborat?
+======
+#qonun chiqaruvchi organ, ijro etuvchi organ, sud organlari
+======
+moliya, bank va soliq organlari
+======
+siyosiy partiyalar, ommaviy tashkilotlar va birlashmalar
+++++++
+Funksiya bu…
+======
+#biror kimsa yoki narsaning ish faoliyat doirasi, vazifasi
+======
+tashkilotning moliyaviy ko'rsatkichlari yig'indisi
+======
+rahbarlarning huquqlari va mas'uliyatlari tizimi
+++++++
+Quyidagilarning qaysi biri menejmentning prinsiplaridan biri hisoblanadi?
+======
+#ierarxiya prinsipi
+======
+monopoliya prinsipi
+======
+byurokratiya prinsipi
+++++++
+Menejment fanining tahlil usullari:
+======
+#sistemali, kompleks, kuzatish, integratsion, iqtisodiy matematik, eksperiment, sotsiologik kuzatuv
+======
+faqat matematik va statistik usullar
+======
+psixologik test va aqliy hujum usullari
+++++++
+Yuksak ma'naviyat tamoyili:
+======
+#o'zini va o'z xalqining vatanini qadru qimmati, or-nomusini anglab, uni himoya qilish
+======
+faqat diniy qadriyatlarga rioya qilish
+======
+milliy an'analarni saqlab qolish va rivojlantirish
+++++++
+Iqtisodiy munosabatlarni demokratiyalash tamoyili deganda:
+======
+#monopollashgan iqtisoddan erkin iqtisodga o'tish tushuniladi
+======
+davlat mulkini xususiylashtirishga o'tish tushuniladi
+======
+xalqaro savdo munosabatlarini erkinlashtirish tushuniladi
+++++++
+Demokratiya tamoyili deganda:
+======
+#insanni o'z hohish irodasini erkin bildirishi hamda uni amalga oshirish
+======
+ko'pchilik ovoz bergan qarorni bajarish majburiyligi
+======
+davlat organlari tomonidan boshqaruvni markazlashtirish
+++++++
+Maqsad bu:
+======
+#u yoki bu niyatga erishish uchun ko'zda tutilgan mushtarak orzu
+======
+tashkilotning yillik foydasi va daromad ko'rsatkichi
+======
+xodimlarning ish haqi va mukofot tizimi
+++++++
+Quyida qayd qilingan funksiyalarning qaysi biri boshqarishning sotsial funksiyasiga kiradi?
+======
+#xodimlarning ijtimoiy himoyasini ta'minlash
+======
+mahsulot sifatini nazorat qilish
+======
+moliyaviy hisobotlarni tayyorlash
+++++++
+"Maqsadlar shajarasi" deganda
+======
+#maqsadlar bilan ularga erishish vositalari o'rtasidagi aloqaning grafik tasviri tushuniladi
+======
+tashkilot rahbarlarining lavozim bo'yicha tartibi tushuniladi
+======
+korxona moliyaviy ko'rsatkichlarining dinamikasi tushuniladi
+++++++
+Quyida qayd qilingan funksiyalarning qaysi biri boshqarishning ma'naviy—ma'rifiy funksiyasiga kiradi:
+======
+#xodimlarda halollikni, adolat tuyg'usini tarbiyalashga xizmat qilish
+======
+xodimlarning texnik ko'nikmalarini rivojlantirish
+======
+yangi texnologiyalarni ishlab chiqarishga joriy qilish
+++++++
+X nazariyasiga ko'ra yollanma xodim:
+======
+#tabiatdan yalqov bo'ladi
+======
+tabiatdan faol va tashabbuskor bo'ladi
+======
+tabiatdan ijodkor va innovatsion bo'ladi
+++++++
+Y nazariyasiga ko'ra yollanma xodim:
+======
+#tabiatdan faol, uddaburon, tashabbuskor bo'ladi
+======
+tabiatdan tanbal va loqayd bo'ladi
+======
+tabiatdan buyruqqa bo'ysunuvchi va passiv bo'ladi
+++++++
+Boshqarishning iqtisodiy metodlari:
+======
+#iqtisodiy manfaatlardan foydalanishga asoslanadi
+======
+ma'muriy buyruq va nazoratga asoslanadi
+======
+huquqiy me'yorlar va qonunlarga asoslanadi
+++++++
+E.Meyoning diqqat markazida, eng avvalo:
+======
+#"insoniy munosabatlar"ni shakllantirish fikri turadi
+======
+ishlab chiqarish texnologiyasini takomillashtirish fikri turadi
+======
+tashkilot tuzilmasini optimallashtirish fikri turadi
+++++++
+Boshqaruv qarorlariga qo'yiladigan talablar?
+======
+#ilmiy asoslanganlik, aloqadorlik, aniq va to'g'rilik, qisqalik, tezkorlik
+======
+faqat rahbar irodasiga mos kelishi va tez qabul qilinishi
+======
+xalqaro standartlarga muvofiqligi va ko'plab ruxsatnomalar olishi
+++++++
+Boshqarishning huquqiy vositalari quyidagilardan iborat:
+======
+#ijtimoiy munosabatlarga yuridik, qonuniy ta'sir o'tkazish jarayonida qo'llaniladigan huquqiy me'yorlar majmui
+======
+tashkilotning ichki tartib qoidalari va rahbar buyruqlari
+======
+xodimlar bilan imzolangan mehnat shartnomalari
+++++++
+Samaradorlik omili – bu…
+======
+#raqobat sharoitida tashkilot yashab qolishi va muvaffaqiyat qozonishi uchun muhim bo'lgan omil
+======
+yillik daromad va foyda ko'rsatkichlari majmui
+======
+texnologik yangiliklar va innovatsiyalar to'plami
+++++++
+Firmaning tashkiliy tuzilmasiga qanday omillar ta'sir ko'rsatadi?
+======
+#iqtisodiy, ijtimoiy, siyosiy, ilmiy, texnikaviy omillar
+======
+faqat bozor narxi va talab-taklif omillari
+======
+faqat rahbar shaxsiyati va xodimlar soni
+++++++
+Ma'muriy buyruqbozlik tizimi sharoitida davlat quyidagi qaysi omillarga asoslanib boshqariladi:
+======
+#avtokratlik prinsipi
+======
+demokratik qadriyatlar va erkin bozor
+======
+xalq ishtiroki va mahalliy o'z-o'zini boshqarish
+++++++
+Boshqarishning ijtimoiy funksiyasi maqsadi
+======
+#ijtimoiy himoyani ta'minlash
+======
+foyda maksimallashtirish va xarajatlarni kamaytirish
+======
+ishlab chiqarish hajmini oshirish
+++++++
+Texnologiya – bu:
+======
+#ilmiy-praktika asosida xom-ashyoni tayyor mahsulotga aylantirishning usullari
+======
+korxona tomonidan qo'llaniladigan boshqaruv uslublari
+======
+tashkilotning axborot tizimi va dasturiy ta'minoti
+++++++
+Boshqarish strukturalarining tashkiliy turlari:
+======
+#chiziqli, chiziqli shtabli, funksional, chiziqli funksional, dasturli maqsadli
+======
+gorizontal, vertikal, diogonal, matritsali
+======
+formal, norasmiy, aralash, tarmoqli
+++++++
+Boshqaruv funksiyalari deganda nimani tushunasiz?
+======
+#menejmentning ma'lum masalalarini yechishga yo'naltirilgan ishlar yig'indisi
+======
+korxona rahbarlarining vakolatlari va huquqlari to'plami
+======
+xodimlarning mehnat majburiyatlari ro'yxati
+++++++
+Boshqaruv jarayoni bosqichlarini aniqlang?
+======
+#maqsadni aniqlash, holat, muammo, yechim
+======
+rejalashtirish, rag'batlantirish, nazorat, hisobot
+======
+tahlil, bashorat, amalga oshirish, baholash
+++++++
+Menejmentning eng ko'p qo'llaniladigan tashkiliy tuzilmasi qaysi?
+======
+#chiziqli funksional
+======
+matritsali
+======
+dasturli maqsadli
+++++++
+Boshqaruv tizimlari faoliyat ko'rsatishining uyg'unligi, alohida qismlar, kichik tizimlarning qanchalik o'zaro muvofiqlligiga bog'liqlik tamoyili?
+======
+#proporsionallik
+======
+uzluksizlik
+======
+demokratiya
+++++++
+Boshqarishning tashkiliy tuzilmalari bozorning qanday talablariga javob berishi kerak?
+======
+#tashkiliy tuzilma oddiy va tushunarli, barcha bog'inlari optimal bo'lishi kerak
+======
+tashkiliy tuzilma murakkab va ko'p bosqichli bo'lishi kerak
+======
+tashkiliy tuzilma faqat rahbarning fikriga mos bo'lishi kerak
+++++++
+Amal qilish davriga ko'ra qaror turi qaysi qatorda to'g'ri ko'rsatilgan?
+======
+#vaqtinchalik qarorlar
+======
+strategik qarorlar
+======
+taktik qarorlar
+++++++
+Boshqaruv qarorlarini qabul qilishda qo'llaniladigan usullar qaysilar?
+======
+#iqtisodiy, ijtimoiy, ma'muriy, ruhiy usullar
+======
+faqat matematik va statistik usullar
+======
+texnik, biologik, ekologik usullar
+++++++
+Menejerlar pog'onasiga ko'ra nechta darajaga bo'linadi, ular qaysilar?
+======
+#oliy, o'rta, quyi
+======
+birinchi, ikkinchi, uchinchi
+======
+yuqori, past, o'rtacha
+++++++
+Tashkilot missiyasi (zimmasidagi vazifa) nimani anglatadi?
+======
+#tashkilotning nima uchun mavjudligi, oliy maqsadi, faoliyat tavsifi, mijozlar uchun nima qilishli kerakligini
+======
+tashkilotning yillik moliyaviy rejasi va byudjeti
+======
+tashkilot rahbarlarining lavozim yo'riqnomalari
+++++++
+Tashkilot strategiyasi bu?
+======
+#erishish zarur bo'lgan natijalarga yo'naltirilgan bir-biriga bog'liq harakatlar yig'indisi
+======
+korxonaning yillik moliyaviy hisoboti va rejalari
+======
+tashkilot xodimlarining mehnat shartnomalari majmui
+++++++
+Korxonaning boshqaruv modeli deganda nimani tushunasiz?
+======
+#korxonaning boshqaruv strukturasining sxemasi
+======
+korxonaning moliyaviy ko'rsatkichlari jadvali
+======
+korxona ishlab chiqarish jarayonining texnologik tavsifi
+++++++
+Korporatsiya deganda nima tushunasiz?
+======
+#bu aniq vazifalar, yirik maqsadli dasturlar va loyihalarni amalga oshirish maqsadida tashkil etiladigan birlashma
+======
+bu ikki yoki undan ortiq shaxsning birgalikdagi kichik biznesi
+======
+bu davlat tomonidan tashkil etiladigan soliq organi
+++++++
+Assotsiatsiya deganda nima tushunasiz?
+======
+#korxonalarning paychilik asosidagi ko'ngilli birlashmasi
+======
+davlat buyurtmasi asosida tuzilgan majburiy birlashmasi
+======
+yirik korporatsiyalarning raqobatchilarini yo'q qilish uchun tuzgan ittifoqi
+++++++
+Norasmiy guruhlar deganda nima tushunasiz?
+======
+#bu maqsadga erishish uchun shakllangan tarqoq odamlar guruhidir
+======
+bu rasmiy belgilangan lavozim egalari guruhi
+======
+bu kompaniya direktori tayinlagan ishchi guruhidir
+++++++
+Korxona bu...
+======
+#yuridik shaxs huquqiga ega bo'lgan mustaqil xo'jalik yurituvchi sub'ekt
+======
+davlat tomonidan nazorat qilinadigan ishlab chiqarish bo'limi
+======
+faqat xususiy mulkka asoslangan savdo muassasasi
+++++++
+Tashkilotning innovatsion maqsadlari bu:
+======
+#yangi mahsulotni ishlab chiqarish, yangi texnologiyalarni joriy qilish bo'yicha qo'yiladigan maqsadlar tushuniladi
+======
+mavjud mahsulotni sotish hajmini oshirish bo'yicha qo'yiladigan maqsadlar
+======
+ishchi kuchini qisqartirish va xarajatlarni kamaytirish maqsadlari
+++++++
+Sistema-bu:
+======
+#bir nechta elementdan tashkil topgan, yagona, ichki o'zaro aloqadorlik
+======
+faqat boshqaruv organlari va bo'limlari majmui
+======
+korxonaning moliyaviy va iqtisodiy ko'rsatkichlari to'plami
+++++++
+Tashkilot – bu…
+======
+#maqsadga erishish uchun faoliyati muvofiqlashtirilgan insonlar birlashmasidir
+======
+foyda olish uchun tuzilgan tijorat muassasasidir
+======
+davlat tomonidan tashkil etilgan boshqaruv organidir
+++++++
+Ishlab chiqarishni boshqarish deganda:
+======
+#buyumlarni iste'molchilar talabiga mos keluvchi sifat tasniflari bilan ishlab chiqarishni ta'minlovchi, maqsadga qaratilgan faoliyat tushuniladi
+======
+faqat xomashyo va materiallarni xarid qilish jarayoni tushuniladi
+======
+mahsulotni bozorda sotish va marketing faoliyati tushuniladi
+++++++
+Lizing firmalar qanday firmalar?
+======
+#mashina, asbob-uskuna, transport vositalari, ishlab chiqarish inshootlarini uzoq muddatli ijaraga olish va uzoq muddatli foydalaniladigan tovarlar eksportini kreditlashning shakllaridan biri
+======
+qimmatli qog'ozlar va aksiyalar bilan savdo qiladigan firmalar
+======
+faqat texnologik inovatsiyalar ishlab chiqarish bilan shug'ullanadigan firmalar
+++++++
+Tashkilotning tashqi muhiti elementlarini ko'rsating
+======
+#iste'molchilar, raqobatchilar, davlat, mol yetkazib beruvchilar
+======
+xodimlar, rahbarlar, texnologiya, kapital
+======
+mahsulot, narx, reklama, taqsimlash kanali
+++++++
+Konsalting firmalar qanday firmalar?
+======
+#ular ishlab chiqarishning turli muammolari yuzasidan maslahatlar beradi, loyihalash bilan shug'ullanadi, xo'jalik yuritishning yangi shakllariga o'tish, boshqaruv tizimlarini takomillashtirish va shunga o'xshash faoliyat turlariga ko'maklashadi
+======
+ular faqat moliyaviy investitsiyalar va qimmatbaho qog'ozlar bilan shug'ullanadi
+======
+ular ishlab chiqarish uskunalari va texnikalarni ijaraga beradi
+++++++
+Injiniring firmalari qanday firmalar?
+======
+#ular turli inshootlar va tuzilmalarni loyihalash, qurish, foydalanishga topshirish bilan shug'ullanadi
+======
+ular faqat dasturiy ta'minot ishlab chiqarish bilan shug'ullanadi
+======
+ular xalqaro savdo va eksport operatsiyalarini amalga oshiradi
+++++++
+Menejer va tadbirkor o'rtasida qanday farq bor?
+======
+#birinchisi yollanma boshqaruvchi, ikkinchisi esa mulk egasi
+======
+birinchisi yuqori maoshli, ikkinchisi esa past maoshli
+======
+birinchisi davlat xizmatchisi, ikkinchisi esa xususiy shaxs
+++++++
+Menejer - bu:
+======
+#ishlab chiqarishni tashkil qilish va boshqarish bo'yicha professional bilimlarga ega bo'lgan yollanma boshqaruvchi
+======
+o'z biznesini boshqaradigan va foyda ko'radigan mulk egasi
+======
+faqat moliyaviy hisobot va rejalar bilan shug'ullanadigan mutaxassis
+++++++
+Menejerlar bilim, malaka va ko'nikmasiga ko'ra quyidagilarning qaysilari kiradi?
+======
+#rahbar-diplomat, rahbar-murabbiy, rahbar-innovator
+======
+rahbar-texnik, rahbar-moliyachi, rahbar-yurist
+======
+rahbar-harbiyi, rahbar-siyosatchi, rahbar-savdogar
+++++++
+Qanday rahbarlik uslublarini bilasiz?
+======
+#avtokratik, liberal, demokratik
+======
+texnokratik, bürokratik, aristokratik
+======
+ilmiy, amaliy, nazariy
+++++++
+Avtokratik rahbarlar bo'ysinuvchilarning:
+======
+#tashabbuskorligiga yo'l qo'ymaydi
+======
+fikr-mulohazalarini doimo qo'llab-quvvatlaydi
+======
+mustaqil qaror qabul qilishini ragbatlantiradi
+++++++
+"Karyera" so'zining ma'nosi nimani anglatadi?
+======
+#"kasbiy pillapoya bo'yicha ko'tarilish"
+======
+"mehnat jarayonida qo'lga kiritilgan boylik"
+======
+"muayyan sohada erishilgan yutuqlar majmui"
+++++++
+Boshqaruvning avtoritar uslubida boshqaruvchi…
+======
+#hamma muammolarni o'zi hal qiladi
+======
+barcha qarorlarni jamoaviy muhokama qiladi
+======
+bo'ysunuvchilariga keng erkinlik beradi
+++++++
+X nazariyasi sharoitida menejer…
+======
+#xodimlarni doimo majburlash, nazorat qilib turish zarur
+======
+xodimlarga keng erkinlik va ishonch berishi zarur
+======
+xodimlarni moddiy rag'batlantirib turishi zarur
+++++++
+SWOT tahlili bu?
+======
+#strategik rejalashtirish usuli bo'lib, u tashkilotning ichki va tashqi muhiti omillarini aniqlashga yordam
+======
+moliyaviy hisobotni tayyorlash va tahlil qilish usuli
+======
+xodimlarning ish samaradorligini baholash metodologiyasi
+++++++
+Y nazariyasi sharoitida menejer:
+======
+#xodimlarga qulay muhit yaratib xodimlarni rag'batlantirib tursa kifoya
+======
+xodimlarni qattiq nazorat ostida ushlab turishi kerak
+======
+xodimlarni doimo jazolash va intizomga chaqirish kerak
+++++++
+Liberal rahbarlar kadrlarni tanlashda:
+======
+#beparvolarcha yondashadilar
+======
+juda qattiq va talabchan yondashishadi
+======
+faqat malakali mutaxassislarga ustunlik berishadi
+++++++
+Firmaning qaysi boshqaruv darajasi hamma bo'linmalar faoliyatiga muvofiqligi holda firmaning samarali ishlashi va rivojlanishi ta'minlanishini amalga oshiradi?
+======
+#boshqaruvning oliy darajasi-Top management
+======
+boshqaruvning o'rta darajasi-Middle management
+======
+boshqaruvning quyi darajasi-Low management
+++++++
+Yuqori pog'onadagi menejerlar
+======
+#firma istiqbolini belgilash uning kelajagi uchun ahamiyatli chora tadbirlarni ishlab chiqish bilan shug'ullanadi
+======
+kundalik operatsion vazifalar va ishlab chiqarish bilan shug'ullanadi
+======
+faqat xodimlarni ish o'rinlariga taqsimlash bilan shug'ullanadi
+++++++
+Boshqaruv uslubi…
+======
+#bu boshqaruv jarayonida kelib chiqadigan muammolarni hal qilish usullari, yo'llari majmuasidir
+======
+bu korxona rahbarining shaxsiy xislatlari va fe'l-atvoriga ko'ra belgilanadigan tartibdir
+======
+bu tashkilot tuzilmasiga va xodimlar soniga qarab belgilanadigan tizimdir
+++++++
+Menejment fani qaysi fanlar bilan uzviy bog'liqlikda o'rganiladi?
+======
+#iqtisodiyot, statistika, psixologiya, axborot va kommunikatsiya texnologiyalari
+======
+faqat matematika va fizika fanlari bilan
+======
+biologiya, kimyo va muhandislik fanlari bilan
+++++++
+Menejerga qo'yiladigan eng asosiy talablardan biri…
+======
+#kishilarni o'ziga qarata olishi, ularda ishonch hissini uyg'ota olishidan, axloqiy sifatlarga ega bo'lish
+======
+yuqori daromad va katta boylikka ega bo'lish
+======
+faqat texnik bilim va muhandislik ko'nikmalariga ega bo'lish
+++++++
+SWOT tahlil nechta qismdan iborat?
+======
+#4 ta
+======
+3 ta
+======
+6 ta
+++++++
+Qaysi olim mehnatni «Ilmiy boshqarish» muammosini amaliy jihatdan asoslab bergan?
+======
+#F.Teylor
+======
+A.Fayol
+======
+E.Meyo
+++++++
+Mehnat jamoasini boshqarishda boshqaruv mehnatining asosiy turlari qaysilar hisoblanadi?
+======
+#evristik, ma'muriy va operatorli
+======
+texnik, moliyaviy va ijtimoiy
+======
+strategik, taktik va operativ
+++++++
+Mehnatni tashkil etishda tahliliy operatsiyalar deganda nima tushuniladi?
+======
+#qarorlar qabul qilish uchun zaruriy axborotlarni qabul qilish va idrok etish
+======
+ishlab chiqarish jarayonini kuzatish va nazorat qilish
+======
+xodimlarni rag'batlantirish va motivatsiyalash
+++++++
+Ma'muriy mehnat tushunchasi nimani anglatadi?
+======
+#bu aqliy mehnatning o'ziga xos turi bo'lib, uning vazifaviy belgilanishi odamlar harakati va hulqini ularning mehnat faoliyatlari jarayonida bevosita boshqarishdan iborat bo'ladi
+======
+bu jismoniy mehnatning bir ko'rinishi bo'lib, asosan buyruqlarni bajarishdan iborat
+======
+bu moliyaviy resurslarni boshqarish va hisob yuritish faoliyati
+++++++
+Ma'muriy mehnat jarayoni qanday tashkiliy–ma'muriy operatsiyalarni bajarishda vujudga keladi?
+======
+#xizmatli kommunikatsion, yo'riqnomaviy, muvofiqlashtiruvchi, nazoratli-baholovchi
+======
+moliyaviy, texnologik, marketing, ishlab chiqarish operatsiyalari
+======
+xomashyo xarid qilish, mahsulot ishlab chiqarish, sotish va reklama operatsiyalari
+++++++
+Tashkil qilish funksiyasining asosiy maqsadi - bu:
+======
+#boshqaruv obyekti ichida boshqaruvchi va boshqariluvchi jarayonlarni tartibli amalga oshirishni ta'minlash
+======
+tashkilotning yillik moliyaviy rejasini tuzish va tasdiqlash
+======
+xodimlarni mehnatga rag'batlantirish va motivatsiyalash tizimini yaratish
+++++++
+Rejalashtirish – bu:
+======
+#rahbariyat harakatlarining yagona yo'nalishini va har bir funksional bo'g'inning joyini belgilash vositasi
+======
+moliyaviy xarajatlar va daromadlarni hisob-kitob qilish jarayoni
+======
+xodimlarning ish vaqti va mehnat unumdorligini nazorat qilish usuli
+++++++
+SWOT tahlilidagi S harfi nimani anglatadi?
+======
+#loyiha yoki jamoaning sanoatdagi boshqalardan ustunlik beruvchi xususiyatlari
+======
+tashkilotning zaif tomonlari va kamchiliklari
+======
+tashkilot oldida turgan imkoniyatlar va perspektivalar
+++++++
+Ijtimoiy mehnat taqsimotining qanday shakllari mavjud?
+======
+#Umumiy, xususiy, yagona (qisman)
+======
+Vertikal, gorizontal, diagonal
+======
+Rasmiy, norasmiy, aralash
+++++++
+Korxonalarda mehnat taqsimotining qanday ko'rinishlari mavjud?
+======
+#kasb-malaka taqsimoti, bosqichli mehnat taqsimoti, operatsion mehnat taqsimoti, funksional mehnat taqsimoti
+======
+texnik, moliyaviy, marketing, xizmat ko'rsatish taqsimoti
+======
+strategik, taktik, operativ, tartibli taqsimot
+++++++
+Mehnat jamoalarini boshqarish deganda nima tushuniladi?
+======
+#korxonada band bo'lgan kishilar salohiyatini rivojlantirish va undan samarali foydalanish, ularning normal faoliyat ko'rsatishi uchun zaruriy shart-sharoit yaratish bo'yicha o'zaro bog'langan tashkiliy-iqtisodiy va ijtimoiy tadbirlar tizimi tushuniladi
+======
+korxona xodimlarini ro'yxatga olish va ish haqlari to'lash tizimi
+======
+xodimlar soni va tarkibini boshqarish hamda kadrlar zaxirasini shakllantirish
+++++++
+Mehnat resurslarini boshqarishning asosiy maqsadi?
+======
+#ishchilar va xodimlarning qobiliyatlarini, yanada jadal va unumli mehnat qilishga qo'zg'atishdir
+======
+ishchi kuchining narxini minimallashtirish va xarajatlarni qisqartirish
+======
+xodimlar sonini kamaytirib, samaradorlikni oshirish
+++++++
+Stress bu –?
+======
+#inglizcha so'zdan olingan bo'lib, asabiylik, keskinlik degan ma'noni anglatadi
+======
+lotincha so'zdan olingan bo'lib, quvvat va kuch degan ma'noni anglatadi
+======
+fransuzcha so'zdan olingan bo'lib, mehnat va harakat degan ma'noni anglatadi
+++++++
+Stereotip qarorlar qanday qarorlar?
+======
+#odatda qat'iy yo'riqnomalar, me'yoriy hujjatlar doirasida qabul qilinadi va bunday qarorlar ba'zan kundalik, ba'zan masalalar bo'yicha qabul qilinadi, lekin o'zgarishlar asosan muddatlarga, ayrim sifat parametrlariga, ijrochilarga taalluqli bo'ladi
+======
+har safar yangi vaziyatlarga qarab ijodiy yondashuv talab qiladigan qarorlar
+======
+faqat yuqori rahbarlar tomonidan qabul qilinadigan strategik qarorlar
+++++++
+Boshqaruv jarayonida boshqarishning nechta funksiyalariga amalga qilinadi?
 ======
 #5
 ======
 3
 ======
 7
-======
-4
-++++++
-Quyidagi tenglikda natija ko‘rsatkichi o‘zgarishiga omillar ta’sirini toppish uchun qaysi usuldan foydalaniladi?
-SF=OD+AFBD+MFD-SMT-DX-MFX-FS
-======
-#zanjirli bog‘lanish usuli
-======
-balansli bog‘lanish usuli
-======
-teng taqsimlash usuli
-======
-indeks usuli
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi foyda solig‘i summasi o’tgan yilgidan qanchaga farq qilgan?
-======
-#20 mln so‘mga kamaygan
-======
-200 mln so‘mga kamaygan
-======
-20 mln so‘mga ko‘paygan
-======
-400 mln so‘mga ko‘paygan
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi foyda solig‘i summasi qancha?
-======
-#680 mln so‘m
-======
-500 mln so‘m
-======
-480 mln so‘m
-======
-280 mln so‘m
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, o‘tgan yildagi foyda solig‘i summasi qancha?
-======
-#800 mln so‘m
-======
-500 mln so‘m
-======
-600 mln so‘m
-======
-480 mln so‘m
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i summasining o‘zgarishiga soliq stavkasining ta’siri summasini toping.
-======
-#+160 mln so‘m
-======
--160 mln so‘m
-======
-+140 mln so‘m
-======
-+480 mln so‘m
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i summasining o‘zgarishiga soliq to‘langunga qadar foydaning ta’siri summasini toping.
-======
-#+140 mln so‘m
-======
-+160 mln so‘m
-======
--240 mln so‘m
-======
--20 mln so‘m
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Soliq to‘langunga qadar foyda summasining mutloq farqi necha so‘mga teng?
-======
-#+160 mln so‘m
-======
-+700 mln so‘m
-======
--240 mln so‘m
-======
--200 mln so‘m
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilida qancha foyda solig‘i hisoblangan?
-======
-#600 mln so‘m
-======
-800 mln so‘m
-======
-480 mln so‘m
-======
-500 mln so‘m
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi foyda solig‘i summasi o‘tgan yilgiga nisbatan necha foiz pasaygan?
-======
-#5 foiz
-======
-28 foiz
-======
-25 foiz
-======
-4 foiz
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan bo‘lsa, hisobot yilidagi soliq to‘langunga qadar foyda summasi o‘tgan yilgiga nisbatan necha foiz oshgan?
-======
-#25 foiz
-======
-4 foiz
-======
-28 foiz
-======
-50 foiz
-++++++
-Soliq to‘langunga qadar foyda summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i summasi natija ko‘rsatkichi sifatida olinsa, unga ta’sir etuvchi omillarni quyidagi usullardan qaysi biri orqali topish mumkin?
-======
-#qayta hisoblash
-======
-balansli bog‘lanish
-======
-guruhlash
-======
-o‘rtacha miqdorlardan foydalanish
-++++++
-Soliq to‘langunga qadar foyda (STF) summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi (S) o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i (FS) summasi natija ko‘rsatkichi sifatida olinsa, natija va omillar o‘rtasidagi bog’liqlik qanday ko‘rinishda bo‘ladi?
-======
-#FS=STF*S
-======
-FS=STF/S
-======
-FS=STF+S
-======
-FS=STF-S
-++++++
-Soliq to‘langunga qadar foyda (STF) summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi (S) o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i (FS) summasi natija ko‘rsatkichi sifatida olinsa, natija va omillar o‘rtasidagi bog’liqlik qanday matematik tipga mansub bo‘ladi?
-======
-#multiplikativ
-======
-kasrli
-======
-additiv
-======
-aralash
-++++++
-Soliq to‘langunga qadar foyda (STF) summasi o‘tgan yili 2,5 mlrd so‘m, hisobot yili 3,2 mlrd so‘m, foyda solig‘i stavkasi (S) o‘gan yili 20 %, hisobot yili 15 %ni tashkil etgan. Foyda solig‘i (FS) summasi natija ko‘rsatkichi sifatida olinsa, natija o‘zgarishiga omillar ta’sirini quyidagi usullardan qaysi biri bilan aniqlab bo‘lmaydi?
-======
-#balansli bog‘lanish
-======
-qayta hisoblash
-======
-integral
-======
-indeks
-++++++
-Korxonaning biznes obro‘si ko‘rsatkichi kreditga layoqatlilik tahlilida qo‘llaniladigan qaysi ko‘rsatkichlar guruhiga mansub?
-======
-#nomoliyaviy
-======
-moliyaviy
-======
-intensiv
-======
-ekstensiv
-++++++
-Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan moliyaviy ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#likvidlik koeffitsiyentlari
-======
-kredit tarixi
-======
-menejment sifati
-======
-mahsulotlar raqobatdoshligi
-++++++
-Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan nomoliyaviy ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#kredit tarixi
-======
-pul oqimlari ko‘rsatkichlari
-======
-foydalilik ko‘rsatkichlari
-======
-likvidlik koeffitsiyentlari
-++++++
-Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan to‘lovga qodirlikni ifodalovchi ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#joriy likvidlik koeffitsiyenti
-======
-aktivlar rentabelligi
-======
-sotish rentabelligi
-======
-immobilizatsiya koeffitsiyenti
-++++++
-Korxonaning kreditga layoqatlilik tahlilida qo‘llaniladigan aylanuvchanlik (samaradorlik) bilan bog‘liq ko‘rsatkich to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#sof tushumni aktivlarga nisbati
-======
-aktivlar rentabelligi
-======
-joriy likvidlik koeffitsiyenti
-======
-immobilizatsiya koeffitsiyenti
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent formulasi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#Kml=(PM+QMI)/JM
-======
-Kml=PM*QMI/JM
-======
-Kml=(PM+QMI)/JM-PM
-======
-Kml=(PM-QMI)/JM
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan nechta omil ta’sir etadi.
-======
-#1
-======
-2
-======
-3
-======
-4
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan nechta omil to‘g‘ri ta’sir etadi.
-======
-#3
-======
-2
-======
-1
-======
-4
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan nechta omil teskari ta’sir etadi.
-======
-#4
-======
-3
-======
-2
-======
-1
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan omillar ta’sirini quyidagi usullarning qaysi biri bilan aniqlash mumkin?
-======
-#integral
-======
-balansli bog‘lanish
-======
-nisbiy farqlar
-======
-mutloq farqlar
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan omillar ta’sirini quyidagi usullarning qaysi biri bilan aniqlash mumkin?
-======
-#zanjirli bog‘lanish
-======
-balansli bog‘lanish
-======
-nisbiy farqlar
-======
-logorifm
-++++++
-Mutloq likvidlik koeffitsiyenti (Kml) pul mablag‘lariga (PM) qisqa muddatli investitsiyalarni (QMI) qo‘shib, joriy majburiyatlarga (JM)ga bo‘lish yo‘li bilan aniqlanadi. Ushbu koeffitsiyent o‘zgarishiga funksional bog‘liq bo‘lgan omillar ta’sirini quyidagi usullarning qaysi biri bilan aniqlash mumkin emas?
-======
-#logorifm
-======
-zanjirli bog‘lanish
-======
-integral
-======
-zanjirli o‘rin almashtirish
-++++++
-Quyidagi omillarning qaysi biri bankrotlikka olib keluvchi ichki omil hisoblanadi?
-======
-#aylanma mablag‘lar yetishmasligi
-======
-yuqori inflatsiya
-======
-kredit stavkasi oshishi
-======
-demografik o‘zgarishlar
-++++++
-Quyidagi omillarning qaysi biri bankrotlikka olib keluvchi tashqi omil hisoblanmaydi?
-======
-#zaxiralarning me’yordan ortiqligi
-======
-yuqori inflatsiya
-======
-asosiy stavkasi oshirilishi
-======
-demografik o‘zgarishlar
-++++++
-Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot miqdori nechtani tashkil etadi?
-======
-#7876
-======
-11250
-======
-16071
-======
-7875
-++++++
-Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot (JM) miqdori aniqlanishi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#JM=S*U*Q
-======
-JM=S*(U+Q)
-======
-JM=(S+U)*Q
-======
-JM=S*Q
-++++++
-Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot (JM) miqdori o‘zgarishiga asosiy vositalar soni (S) ta’sirini mutloq farqlar usuli orqali aniqlash formulasi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#∆JMS=∆S*U0*Q0
-======
-∆JMS=∆S*U1*Q0
-======
-∆JMS=S1*∆U*Q0
-======
-∆JMS=S1*U0*∆Q
-++++++
-Hisobot davrida jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 donani tashkil etgan. Jami mahsulot (JM)ning bazis davridan mutloq farqi +75 dona bo‘lsa, basis davridagi jami mahsulot miqdorini toping.
-======
-#7808 dona
-======
-7875 dona
-======
-7800 dona
-======
-16071 dona
-++++++
-Jami asosiy vositalar soni (S) 250 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) 70 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) 45 dona bo‘lsa, jami mahsulot (JM) miqdori o‘zgarishiga Q omil ta’sirini zanjirli bog’lanish usuli yordamida aniqlash formulasi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#∆JMQ=S1*U1*Q1 - S1*U1*Q0
-======
-∆JMQ=S1*U0*Q1 - S1*U1*Q0
-======
-∆JMQ=S1*U0*Q1 + S1*U1*Q0
-======
-∆JMQ=S1*U1*Q0 - S1*U1*Q0
-++++++
-Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga U omil ta’sirini zanjirli bog’lanish usuli yordamida aniqlash hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#∆JMU=260*80%*45 - 260*70%*45
-======
-∆JMU=260*70%*45 - 250*70%*45
-======
-∆JMU=260*70%*40 - 260*70%*45
-======
-∆JMU=250*80%*45 - 260*70%*40
-++++++
-Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga U omil ta’sirini mutloq farqlar usuli yordamida aniqlash hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#∆JMU=260*10%*45
-======
-∆JMU=260*10%*40
-======
-∆JMU=250*10%*45
-======
-∆JMU=10*80%*40
-++++++
-Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga S omil ta’siri miqdori to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#+455
-======
-+1170
-======
-+315
-======
-+10
-++++++
-Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga U omil ta’siri miqdori to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#+1200
-======
--1040
-======
-+1170
-======
-+445
-++++++
-Jami asosiy vositalar soni (S) rejada 250 ta, haqiqatda 260 ta, asosiy ishlab chiqarishda band bo‘lgan asosiy vositalar ulushi (U) rejada 70 foiz, haqiqatda 80 foiz, asosiy ishlab chiqarishdagi bitta asosiy vositaga to‘g‘ri keladigan o‘rtacha mahsulot miqdori (Q) rejada 45 dona, haqiqatda 40 bo‘lsa, jami mahsulot (JM) miqdorining reajaga nisbatan o‘zgarishiga Q omil ta’siri miqdori to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#-104
-======
-+1170
-======
-+450
-======
-+445
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Hisobot davridagi aktivlar rentabelligi necha foiz?
-======
-#33.30
-======
-20
-======
-33,3
-======
-66.7
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Hisobot davridagi aktivlar rentabelligi o‘tgan yildagidan necha foiz ko‘p?
-======
-#8.4
-======
-10
-======
-8,3
-======
-6.7
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Sof foydaning o‘sish sur’ati necha foizni tashkil etadi?
-======
-#66.50
-======
-10
-======
-33.3
-======
-25
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar qiymatining o‘sish sur’ati necha foizni tashkil etadi?
-======
-#45
-======
-25
-======
-33.3
-======
-65
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar rentabelligining o‘zgarishiga sof foydaning ta’siri hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#500 mln/1,2 mlrd – 300 mln/1,2 mlrd
-======
-500 mln/1,2 mlrd + 300 mln/1,2 mlrd
-======
-500 mln/1,5 mlrd – 300 mln/1,2 mlrd
-======
-300 mln/1,2 mlrd – 500 mln/1,5 mlrd
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar rentabelligining o‘zgarishiga aktivlar qiymatining ta’siri hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#500 mln/1,5 mlrd – 500 mln/1,2 mlrd
-======
-500 mln/1,2 mlrd + 300 mln/1,2 mlrd
-======
-500 mln/1,5 mlrd – 300 mln/1,2 mlrd
-======
-300 mln/1,2 mlrd – 300 mln/1,5 mlrd
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. O‘tgan yili sof foyda 300 mln so‘m, aktivlar miqdori 1,2 mlrd so‘m bo‘lgan edi. Aktivlar rentabelligining o‘zgarishi hisob-kitobi to‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#500 mln/1,5 mlrd – 300 mln/1,2 mlrd
-======
-500 mln/1,2 mlrd - 300 mln/1,2 mlrd
-======
-500 mln/1,5 mlrd + 300 mln/1,2 mlrd
-======
-500 mln/1,2 mlrd – 300 mln/1,5 mlrd
-++++++
-Hisobot davri sof foydasi 500 mln so‘m, aktivlar qiymati 1,5 mlrd so‘mni tashkil etgan. Agarda sof foyda 70 mln so‘m bo‘lib, aktivlar qiymati o‘zgarmasa, u holda korxona rentabellikning qaysi guruhiga mansub bo‘ladi?
-======
-#past rentabelli
-======
-yuqori rentabelli
-======
-o‘rta rentabelli
-======
-zarar ko‘rib ishlayotgan
-++++++
-Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, jami material xarajati necha so‘mni tashkil etadi?
-======
-#1014000
-======
-750000
-======
-240000
-======
-990000
-++++++
-Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, sarflangan materiallarning o‘rtacha narxi necha so‘mni tashkil etadi?
-======
-#5620
-======
-4233
-======
-5500
-======
-6150
-++++++
-Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, A turdagi material sarfi necha so‘m?
-======
-#750000
-======
-1014000
-======
-240000
-======
-990000
-++++++
-Mahsulot ishlab chiqarish uchun A turdagi materialdan 100 litr, B turdagi materialdan 60 litr, C turdagi materialdan 20 litr sarflangan. A materialning 1 litr narxi 7500 so‘m, B material 4000 so‘m, C material 1200 so‘m bo‘lsa, A turdagi material xarajati jami material xarajatining necha foizini tashkil etadi?
-======
-#76
-======
-74
-======
-65
-======
-52
-++++++
-Quyidagi ma’lumotlar asosida moliyaviy barqarorlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 150 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 250 mln so‘m.
-======
-#0,6
-======
-0,8
-======
-0,5
-======
-0,2
-++++++
-Quyidagi ma’lumotlar asosida sof aktivlar miqdorini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 150 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 350 mln so‘m.
-======
-#350 mln so‘m
-======
-380 mln so‘m
-======
-420 mln so‘m
-======
-250 mln so‘m
-++++++
-Quyidagi ma’lumotlar asosida aktivlar rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 80 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
-======
-#10 foiz
-======
-5 foiz
-======
-50 foiz
-======
-16 foiz
-++++++
-Quyidagi ma’lumotlar asosida sof rentabellikni aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, yalpi tushum 820 mln so‘m, biznesga egri soliqlar 220 mln so‘m.
-======
-#50 foiz
-======
-6 foiz
-======
-5 foiz
-======
-10 foiz
-++++++
-Quyidagi ma’lumotlar asosida sof tushumni aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, yalpi tushum 820 mln so‘m, biznesga egri soliqlar 220 mln so‘m.
-======
-#400 mln
-======
-820 mln
-======
-600 mln
-======
-320 mln
-++++++
-Quyidagi ma’lumotlar asosida sotish rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sotilgan mahsulot tannarxi 400 mln so‘m, yalpi tushum 820 mln so‘m, biznesga egri soliqlar 220 mln so‘m.
-======
-#33 foiz
-======
-66.7 foiz
-======
-33,3 foiz
-======
-41.8 foiz
-++++++
-Quyidagi ma’lumotlar asosida yalpi foydani aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sotish tannarxi 520 mln, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m.
-======
-#800 mln
-======
-100 mln
-======
-300 mln
-======
-80 mln
-++++++
-Quyidagi ma’lumotlar asosida tannarx rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 120 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 600 mln so‘m.
-======
-#2 foiz
-======
-50 foiz
-======
-20 foiz
-======
-17 foiz
-++++++
-Quyidagi ma’lumotlar asosida TMZ aylanuvchanlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, TMZlar 800 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, sotilgan mahsulot tannarxi tushum 1200 mln so‘m, davr xarajatlari 950 mln so‘m.
-======
-#2,5
-======
-0,67
-======
-1,5
-======
-1,2
-++++++
-Quyidagi ma’lumotlar asosida TMZ aylanish davri necha kun ekanligini aniqlang. Jami aktiv 500 mln so‘m, TMZlar 800 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, sotilgan mahsulot tannarxi tushum 1200 mln so‘m, davr xarajatlari 950 mln so‘m, hisobot davri 90 kun.
-======
-#40
-======
-75
-======
-60
-======
-30
-++++++
-TMZ aylanish davri 60 kun chiqdi. Agar hisobot davri 90 kun, bir kunlik tushum 30 mln so‘m bo‘lsa, TMZlar qiymati nechaga teng?
-======
-#1900 mln
-======
-2700 mln
-======
-3600 mln
-======
-1800 mln
-++++++
-Quyidagi ma’lumotlar asosida aylanma mablag‘lar summasini aniqlang. Jami aktiv 500 mln so‘m, TMZlar 300 mln so‘m, qisqa muddatli debitorlik qarzlari 140 mln so‘m, pul mablag‘lari 60 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
-======
-#300 mln
-======
-200 mln
-======
-500 mln
-======
-360 mln
-++++++
-Quyidagi ma’lumotlar asosida uzoq muddatli aktivlarning jami aktivlardagi ulushini  aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 200 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
-======
-#30 %
-======
-60 %
-======
-30 %
-======
-25 %
-++++++
-Quyidagi ma’lumotlar asosida joriy likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 200 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 120 mln so‘m.
-======
-#2
-======
-1,5
-======
-2,5
-======
-3
-++++++
-Quyidagi ma’lumotlar asosida tez likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, TMZlar 180 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 240 mln so‘m.
-======
-#0,9
-======
-0,5
-======
-1,07
-======
-0,23
-++++++
-Quyidagi ma’lumotlar asosida mutloq likvidlik koeffitsiyentini aniqlang. Jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, uzoq muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, joriy majburiyatlar 150 mln so‘m.
-======
-#0,4
-======
-0,12
-======
-0,2
-======
-0,53
-++++++
-Quyidagi ma’lumotlar asosida sotishdan yalpi foyda summasini aniqlang. TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 700 mln so‘m, joriy majburiyatlar 250 mln so‘m.
-======
-#120 mln
-======
-280 mln
-======
-220 mln
-======
-200 mln
-++++++
-Quyidagi ma’lumotlar asosida asosiy faoliyat foydasini hisoblang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami majburiyatlar 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 230 mln so‘m, TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
-======
-#150 mln
-======
--350 mln
-======
-50 mln
-======
-200 mln
-++++++
-Quyidagi ma’lumotlar asosida umumxo‘jalik faoliyat bo‘yicha moliyaviy natija miqdorini aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 20 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m.
-======
-#21 mln
-======
--350 mln
-======
--50 mln
-======
--110 mln
-++++++
-Quyidagi ma’lumotlar asosida soliq to‘langunga qadar foydani aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 55 mln.
-======
-#+45 mln
-======
--350 mln
-======
--50 mln
-======
-110 mln
-++++++
-Quyidagi ma’lumotlar asosida TMZ aylanuvchanlik koeffitsiyentini toping. Jami aktiv 500 mln so‘m, TMZ 240 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m.
-======
-#6
-======
-3
-======
-2
-======
-3,2
-++++++
-Quyidagi ma’lumotlar asosida debitorlik qarzlar aylanish davrini toping. Jami aktiv 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, sof tushum 900 mln so‘m, favqulodda zarar 15 mln. Hisobot davri 90 kun.
-======
-#75
-======
-18,75
-======
-78
-======
-60
-++++++
-Quyidagi ma’lumotlar asosida doimiy passivlar (P4) summasini aniqlang. Uzoq muddatli aktivlar 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, joriy aktivlar 360 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, jami majburiyatlar 240 mln so‘m.
-======
-#620 mln
-======
-860 mln
-======
-260 mln
-======
-720 mln
-++++++
-Quyidagi ma’lumotlar asosida asosiy vositalarning eskirish darajasini toping. Boshlang’ich qiymati 1,2 mlrd so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m, yaroqlilik darajasi 64 foiz.
-======
-#36 %
-======
-33,3 %
-======
-50 %
-======
-16,7 %
-++++++
-Quyidagi ma’lumotlar asosida asosiy vositalarning yaroqlilik darajasini toping. Jamg’arilgan eskirish summasi 800 mln so‘m, eskirish darajasi 44 foiz, qoldiq qiymat 400 mln so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m.
-======
-#-56 %
-======
-66,7%
-======
-50 %
-======
-16,7 %
-++++++
-Quyidagi ma’lumotlar asosida asosiy vositalar rentabelligini aniqlang. Yil boshidagi qoldiq qiymat 400 mln so‘m, yil oxiridagi qoldiq qiymat 600 mln so‘m. Hisobot davridagi sof foyda 90 mln so‘m, sof tushum 500 mln so‘m.
-======
-#18 %
-======
-22,5 %
-======
-28 %
-======
-16,7 %
-++++++
-Quyidagi ma’lumotlar asosida yuqori likvidlik aktivlar (A1) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli qarzlar 50 mln so‘m.
-======
-#70 mln
-======
-360 mln
-======
-222 mln
-======
-100 mln
-++++++
-Quyidagi ma’lumotlar asosida qiyin sotiluvchi aktivlar (A4) summasini aniqlang. Jami aktivlar 900 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m.
-======
-#405 mln
-======
-440 mln
-======
-220 mln
-======
-7 mln
-++++++
-Quyidagi ma’lumotlar asosida sekin sotiluvchi aktivlar (A3) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat.
-======
-#22 mln
-======
-440 mln
-======
-220 mln
-======
-360 mln
-++++++
-Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlar (A2) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 130 mln so‘m, pul mablag‘lari 60 mln so‘m.
-======
-#130 mln
-======
-190 mln
-======
-220 mln
-======
-160 mln
-++++++
-Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlarning (A2) jami aktivlardagi ulushini aniqlang. Jami aktivlar 1000 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m.
-======
-#10 %
-======
-25 %
-======
-50 %
-======
-27,5 %
-++++++
-Quyidagi ma’lumotlar asosida yuqori likvidli aktivlarning (A1) joriy aktivlardagi ulushini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 82 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
-======
-#50 %
-======
-13,6 %
-======
-30 %
-======
-22,7 %
-++++++
-Quyidagi ma’lumotlar asosida korxonaning o‘z oborot mablag‘lari mavjud summasini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 260 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 190 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
-======
-#130 mln
-======
-60 mln
-======
-140 mln
-======
-120 mln
-++++++
-Quyidagi ma’lumotlar asosida o‘z oborot mablag‘lari mavjud summasining balans jamiga nisbati koeffitsiyentini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 370 mln so‘m, uzoq muddatli kredit va qarzlar 130 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
-======
-#0,4
-======
-0,03
-======
-0,8
-======
-0,05
-68 mln
-++++++
-Quyidagi modellardan qaysi biri xususiy kapitalga ta’sir etuvchi mustaqil ko‘rsatkichlarni o‘rganishga xizmat qiladi?
-======
-#Dyupont modeli
-======
-Altman modeli
-======
-Biver modeli
-======
-Taffler modeli
-++++++
-Quyidagi modellardan qaysi biri korxona bankrotligini baholash modeli hisoblanmaydi?
-======
-#Dyupont modeli
-======
-Altman modeli
-======
-Biver modeli
-======
-Taffler modeli
-++++++
-Sotishdan olingan sof tushum qanday aniqlanadi?
-======
-#Mahsulot sotishdan tushgan yalpi tushumdan biznesga egri soliqlar ayriladi.
-======
-Mahsulot sotishdan tushgan yalpi tushumdan ishlab chiqarish tannarxi ayriladi
-======
-Mahsulot sotishdan tushgan yalpi tushumga qo‘shilgan qiymat solig‘i qo‘shilib, ishlab  chiqarish tannarxi ayriladi
-======
-Mahsulot sotishdan tushgan yalpi tushumga qo‘shilgan qiymat solig‘i va aksiz solig‘i qo‘shiladi.
-++++++
-Sof foydaning aniqlanishi to‘g‘ri ko’rsatilgan qatorni toping.
-======
-#Soliq to‘lagunga qadar umumiy moliyaviy natijadan  foyda solig’i  va foydadan boshqa soliqlar va ajratmalar ayriladi
-======
-Soliq to‘lagunga qadar umumiy moliyaviy natijaga boshqa soliq va ajratmalar qo‘shiladi.
-======
-Soliq to‘lagunga qadar umumiy moliyaviy natijadan daromad solig‘i ayriladi
-======
-Soliq to‘lagunga qadar umumiy moliyaviy natijaga boshqa soliq va ajratmalar ko‘paytiriladi
-++++++
-Yalpi foyda qanday aniqlanadi?
-======
-#Sotishdan olingan sof tushumdan ishlab chiqarish tannarxi ayriladi
-======
-Sotishdan olingan sof tushumga ishlab chiqarish tannarxi qo‘shiladi
-======
-Sotishdan olingan sof tushum 100 ga ko‘paytirilib, ishlab chiqarish tannarxiga bo‘linadi
-======
-Sotishdan olingan sof tushum 100 ga bo‘linib, ishlab chiqarish tannarxiga ko‘paytiriladi
-++++++
-Ustav kapitali qaysi moddalar hisobiga hosil bo‘ladi?
-======
-#Ta’sischilarning ulushlari, sof foyda va maqsadli tushumlar
-======
-Ta’sischilarning ulushlari;
-======
-Korxonaning xo`jalik faoliyatidan kelgan foydasi;
-======
-Ta’sischilarning maqsadli badali;
-++++++
-Rezerv kapitali tarkibiga kirmaydigan moddani aniqlang.
-======
-#xususiy aksiyalar;
-======
-Tekinga olingan mulk;
-======
-Asosiy vositalarni qayta baholash bo‘yicha tuzatishlar;
-======
-Nomoddiy aktivlarni qayta baholash bo‘yicha tuzatishlar;
-++++++
-Quyida berilgan ko’rsatkichlardan qaysilari korxonaning moliyaviy barqarorlik 
-darajasini ifodalaydi?
-======
-#Qarzga olingan va o‘z mablag‘lari nisbati;
-======
-Joriy aktivlar miqdori;
-======
-Operatsion davr;
-======
-Debitorlik qarzlarini aylanishi
-++++++
-Buxgalteriya balansi quyidagi elementlarni o‘z ichiga oladi:
-======
-#Aktivlar, o’z kapitali va qarz kapitali
-======
-Aktivlar va majburiyatlar;
-======
-Uzoq muddatli aktivlar va o‘z kapitali;
-======
-Joriy aktivlar va majburiyatlar;
-++++++
-Korxonaning moliyaviy holati nimaga bog‘liq emas?
-======
-#Davlatning moliyaviy faoliyati natijalariga
-======
-Korxonaning asosiy faoliyati natijalariga
-======
-Korxonaning jami faoliyati natijalariga
-======
-Korxonaning ishlab chiqarish faoliyati natijalariga
-++++++
-Balansning aktiv qismi quyidagi tahliliy guruhlardan iborat:
-======
-#Uzoq muddatli va joriy aktivlar.
-======
-Uzoq mudatli aktivlar va hisob-kitob schyotidagi mablag‘lar.
-======
-Materiallar va zaxiralar, pul mablag‘lari va kreditlar.
-======
-Asosiy vositalar va oborotdan tashqari aktivlar.
-++++++
-Balansning passiv qismi quyidagi tahliliy guruhlardan iborat:
-======
-#O‘z va qarz mablag‘lari
-======
-Uzoq muddatli va qisqa muddatli aktivlar.
-======
-Qisqa muddatli aktivlar va kreditorlik qarzlari.
-======
-Qarz mablag‘lari va taqsimlanmagan foyda.
-++++++
-Moliyaviy tahlilga ta’rif bering.
-======
-#Xo‘jalik yurituvchi sub’ekt moliyaviy natijalari va moliyaviy holatini o‘rganishga qaratilgan tahlildir
-======
-Korxona xo‘jalik faoliyatini o‘rganishga qaratilgan iqtisodiyotning mikroiqtisod darajasini o‘rganishga qaratilgan tahlildir.
-======
-Xo‘jalik yurituvchi sub’ekt faoliyatini makon va zamon nuqtai nazaridan barcha tuzilmalari bilan birga batafsil tahlil qilishdir.
-======
-Xo‘jalik faoliyatida natija va omillar o‘rtasidagi bog‘liqlik funksional bog‘liq bo‘lmagan sharoitda, ularning bog‘liqligini o‘rganishga qaratilgan tahlildir.
-++++++
-Agar tovar mahsuloti hajmining qiymati 100 ming. so‘mni tashkil etsa, mahsulotni ishlab chiqarish tannarxi 80 ming. so‘m, davr xarajatlari esa 30 ming.so‘m bo‘lsa, u holda ishlab chiqarishning yalpi foydasini toping.
-======
-#50 ming. so‘m
-======
-20 ming. so‘m
-======
-60 ming. so‘m
-======
-180 ming. so‘m
-++++++
-"Davr xarajatlari"ga quyidagi qaysi modda kirmaydi?
-======
-#Valyuta kurs farqidan zarar
-======
-Boshqaruv xarajatlari
-======
-Reklama xarajatlari
-======
-Asosiy vositalar chiqimidan zarar
-++++++
-Moliyaviy natijalar qaysi elementlardan iborat?
-======
-#Daromadlar va xarajatalar
-======
-Daromadlar
-======
-Xarajatlar
-======
-Jami aktivlar
-++++++
-Daromadlar-...
-======
-#Bu hisobot davrida iqtisodiy foydaning  aktivlarning oqimi yoki ko‘payishi shaklida o`sishi yoki passivlarning qatnashchilarning kapitaldagi omonatlaridan farq etuvchi o`sishiga olib keluvchi kamayishidir
-======
-Hisobot davrida iqtisodiy foydaning aktivlarning chiqib ketishi  yoki ulardan foydalanish  shaklida kamayishi, shuningdek, qatnashchilar o‘rtasida kapitalning kamayishiga olib keluvchi  majburiyatlarning yuzaga kelishidir
-======
-Boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan boshqa xarajatlar
-======
-Hisobot davrida kapitalning o’sgan qismi
-++++++
-Xarajatlar –....
-======
-#Hisobot davrida iqtisodiy foydaning aktivlarning chiqib ketishi yoki ulardan foydalanish shaklida kamayishi, shuningdek, qatnashchilar o‘rtasida kapitalning kamayishiga olib keluvchi  majburiyatlarning yuzaga kelishidir
-======
-Bu hisobot davrida iqtisodiy foydaning aktivlarning oqimi yoki ko‘payishi shaklida o`sishi yoki passivlarning qatnashchilarning kapitaldagi omonatlaridan farq etuvchi o`sishiga olib keluvchi kamayishidir
-======
-Boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan boshqa xarajatlar
-======
-Tabiiy resurslarning sarflanishi
-++++++
-Moliyaviy natijalar tahlilida nimalarga baho beriladi?
-======
-#Daromadlar va xarajatalar, foyda va zarar
-======
-Daromadlar va foyda
-======
-Xarajatlar va zarar
-======
-Moliyaviy holat
-++++++
-Korxonaning hisobot davridagi daromadlari va xarajatlari to‘g‘risidagi axborotlar qaysi hisobot shaklidan olinadi?
-======
-#Moliyaviy natijalar to‘g‘risidagi hisobot
-======
-Pul oqimlari to‘g‘risidagi hisobot
-======
-Xususiy capital haqidagi hisobot
-======
-Buxgalteriya balansi
-++++++
-Moliyaviy natijalar to‘g‘risidagi hisobot shaklining asosiy ko’rsatkichlariga qaysilar kiritiladi?
-======
-#Mahsulot sotishdan yalpi foyda (zarar), davr xarajatlari jami, asosiy faoliyatning foyda (zarar)si, moliyaviy faoliyat bo’yicha daromad (xarajat)lari, umumxo‘jalik faoliyatining foyda (zarar)si, favqulodda foyda (zarar)lar, daromad (foyda) solig‘i
-======
-Moliyaviy faoliyat bo’yicha daromad (xarajat)lari, umumxo‘jalik faoliyatining foyda (zarar)si, favqulodda foyda (zarar)lar, taqsimlanmagan foyda, daromad (foyda) solig‘ini  to‘langunga qadar foyda (zarar)si.
-======
-Boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan boshqa xarajatlar, maqsadli tushumlar
-======
-Aktivlar qiymati, taqsimlanmagan foyda, favqulodda foyda, sof foyda
-++++++
-Davr xarajatlari qatoriga kirmaydigan xarajatlarni ko’rsating.
-======
-#Moliyaviy faoliyat bo’yicha xarajatlar
-======
-Ma’muriy xarajatlar
-======
-Sotish xarajatlari
-======
-Boshqa operatsion xarajatlar
-++++++
-Moliyaviy natijalarning shakllanish qatorlariga qaysilar kiritiladi?
-======
-#Sotishdan yalpi moliyaviy natija, Asosiy faoliyatdan moliyaviy natija, Umumxo’jalik faoliyatdan natija, Soliq to’langunga qadar moliyaviy natija
-======
-Moliyaviy faoliyatdan natija, Favqulodda kutilmagan holatlardan natija
-======
-Sotish xarajatlari, Moliyaviy faoliyat bo’yicha xarajatlar
-======
-Favqulodda foyda, sof foyda
-++++++
-Sotish xarajatiga kiradigan xarajat turini tanlang.
-======
-#mahsulotlarni xaridorga yetkazib berish xarajatlari
-======
-asosiy vositalarni chiqimi bilan bog‘liq zararlar
-======
-olingan kredit va qarzlar uchun foizlar
-======
-Ishlab chiqarishdagi ishchilarga hisoblangan ish haqi
-++++++
-Mahsulot sotishdan olingan foyda o‘zgarishiga qaysi omillar bevosita ta’sir etishi mumkin?
-======
-#Sotilgan mahsulot hajmi, bahosi va tannarx
-======
-Sotilgan mahsulot hajmi, kreditlar foizi va tannarx
-======
-Sotib olingan tovarlar hajmi, narxi va valyuta kursi
-======
-Ishlab chiqarish hajmi, tannarx va inflatsiya
-++++++
-Moliyaviy xarajatalar tarkibiga quyidagilardan qaysi biri kiradi?
-======
-#valyuta kurs farqidan zarar
-======
-boshqa umumxo‘jalik xarajatlari
-======
-ma’muriy xarajatlar
-======
-favqulodda zarar
-++++++
-Soliq to’loviga qadar foydaga ta’sir qilmaydigan omil qaysi qatorda berilgan?
-======
-#Foyda solig’i va uning stavkasi
-======
-Mahsulot sotishdan olingan yalpi foyda
-======
-Moliyaviy faoliyatdan foyda va zararlar
-======
-Asosiy faoliyatning boshqa jarayonlaridan daromad va yo‘qotishlar, mahsulot sotishdan olingan yalpi foyda
-++++++
-Moliyaviy natijalar tahlilining maqsadi....
-======
-#Korxonaning yil yakunlari bo’yicha olingan natijalarini har bir faoliyat bo’yicha aniqlash va ularning o‘zgarishiga ta’sir etuvchi omillarni aniqlashdan iborat
-======
-Korxonalarda ishlab chiqarilayotgan mahsulotning tannarxini minimal darajada kamaytirish yo‘llarini aniqlash va ularga ta’sir etuvchi  omillarni o‘rganishdan iborat
-======
-Korxona moliyaviy holati va uning o’zgarishiga baho berish
-======
-Moliyaviy faoliyat samaradorligiga baho berish va uni yaxshilash
-++++++
-Moliyaviy holatni ifodalovchi ko’rsatkichni aniqlang.
-======
-#Moliyaviy mustaqillik koeffitsiyenti
-======
-Aktivlar rentabelligi
-======
-Bir aksiyaga daromad
-======
-Mehnat unumdorligi
-++++++
-Quyidagilardan qaysi biri buxgalteriya balansining aktiv qismiga taalluqli emas?
-======
-#Kelgusi to’lovlar va xarajatlar uchun rezerv
-======
-Kelgusi davr xarajatlari
-======
-Kechiktirilgan xarajatlar
-======
-Tugallanmagan ishlab chiqarish
-++++++
-Korxona mablag‘larni to‘ldirish manbalari nimalardan iborat?
-======
-#O‘z mablag‘lari va majburiyatlar
-======
-Majburiyatlar, maqsadli tushum va aktivlar
-======
-Debitorlar
-======
-Kredit va qarzlar
-++++++
-To‘lov qobiliyati deyilganda....
-======
-#Xo‘jalikning muddati kelgan to’lov majburiyatlarni bajarish uchun zurur bo‘lgan mablag‘larni yetarli yoki kamchiligini aniqlash tushuniladi
-======
-Asosiy va aylanma mablag‘larning holatini bajarish uchun zurur bo‘lgan mablag‘larni yetarli yoki kamchiligini aniqlash tushuniladi
-======
-Majburiyatlarni qoplash uchun o’zlik mablag’larining mavjudligi tushuniladi
-======
-Aylanma mablag‘larga o’zlik mablag’larining mavjudligi
-++++++
-To‘lov mablag‘lariga qaysilar kiradi?
-======
-#Pul mablag‘lari, jo’natilgan tovar va mahsulotlar qiymati (hali pul kelib tushmagan), tovar-moddiy zaxiralar va boshqalar kiradi
-======
-O‘zlik mablag‘larning manbalari, jo’natilgan tovar va mahsulotlar qiymati va boshqalar kiradi
-======
-Jo’natilgan tovar va mahsulotlar qiymati, pul mablag‘lari va boshqalar kiradi
-======
-Kreditorlik qarzlari va kechiktirilgan daromadlar
-++++++
-To‘lov majburiyatlariga qaysilar kiradi?
-======
-#Mol yetkazib beruvchi va pudratchilarga, byudjet va sug‘urtaga, mehnat haqi, turli xil kreditorlarga bo‘lgan va boshqa turdagi qarzlar kiradi
-======
-Pul mablag‘lari, jo’natilgan tovar va mahsulotlar qiymati (xali pul kelib tushmagan), debitor sotishdagi tushum va boshqalar kiradi
-======
-O‘zlik mablag‘larning manbalari, jo`natilgan tovar va mahsulotlar qiymati va boshqalar
-======
-Jo’natilgan tovar va mahsulotlar qiymati, Pul mablag‘lari va boshqalar kiradi
-++++++
-Korxonaning to‘lov qobiliyatining tahlilida qo’llaniladigan to‘lash uchun mablag‘lar guruhiga qaysilar kiradi?
-======
-#Pul mablag‘lari, valyuta mablag‘lari, qisqa muddatli moliyaviy qo`yilmalar, debitorlik qarzlari, tayyor mahsulot
-======
-Pul mablag‘lari, jo`natilgan tovar va mahsulotlar qiymati, kreditorlar, tayyor mahsulot
-======
-Pul mablag‘lari, valyuta mablag‘lari, jo’natilgan tovar va mahsulotlar qiymati
-======
-Pul mablag’lari, ustav kapitali, debitorlik qarzlari
-++++++
-Korxonaning to‘lov qobiliyatining muddat bo’yicha qaysi turlari o‘rganiladi?
-======
-#Joriy to‘lov qobiliyati va umumiy (uzoq muddatli) to‘lov qobiliyati
-======
-Aktiv va passiv to‘lov qobiliyati
-======
-Joriy to‘lov qobiliyati, aktiv to‘lov qobiliyati
-======
-Joriy likvidlik koeffitsiyenti
-++++++
-Mutloq likvidlik koeffitsiyenti qanday aniqlanadi?
-======
-#Pul mablag’lari+qisqa muddatli investitsiyalar/joriy majburiyatlar
-======
-Pul mablag’lari+qisqa muddatli investitsiyalar+TMZ/joriy majburiyatlar
-======
-Pul mablag’lari+qisqa muddatli investitsiyalar+debitorlik qarzlari/joriy majburiyatlar
-======
-Joriy aktivlar/joriy majburiyatlar
-++++++
-Oraliqni qoplash (tez) likvidlik koeffitsiyenti qanday aniqlanadi?
-======
-#Pul mablag’lari+qisqa muddatli investitsiyalar+debitorlik qarzlari/joriy majburiyatlar
-======
-Pul mablag’lari+qisqa muddatli investitsiyalar+TMZ/joriy majburiyatlar
-======
-Pul mablag’lari+qisqa muddatli investitsiyalar/joriy kreditorlik qarzlari
-======
-Joriy aktivlar/ joriy kreditorlik qarzlari
-++++++
-Pul shakliga aylanish tezligiga qarab, korxona aktivlari qaysi guruhlarga ajratiladi?
-======
-#Doimiy harakatdagi aktivlar; tez sotiluvchi aktivlar; sekin sotiluvchi aktivlar; qiyin sotiluvchi aktivlar
-======
-Doimiy harakatdagi aktivlar, muddati kelgan to’lov majburiyatlar; tez sotiluvchi aktivlar, qisqa muddatli passivlar; sekin sotiluvchi aktivlar, o‘rta va uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar
-======
-Yuqori, o’rta va quyi likvidlik aktivlar
-======
-Doimiy harakatdagi aktivlar; tez sotiluvchi aktivlar; sekin sotiluvchi aktivlar, doimiy passivlar
-++++++
-Qaysi shartlarga amal qilinsa, korxona mablag‘i harakatchan deb baholanadi?
-======
-#Doimiy harakatdagi aktivlar >  muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar >qisqa muddatli passivlar; sekin sotiluvchi aktivlar > uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar < doimiy passivlar
-======
-Doimiy harakatdagi aktivlar >  muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar >qisqa muddatli passivlar; sekin sotiluvchi aktivlar > uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar > doimiy passivlar
-======
-Doimiy harakatdagi aktivlar < muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar <qisqa muddatli passivlar; sekin sotiluvchi aktivlar > uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar < doimiy passivlar
-======
-Doimiy harakatdagi aktivlar <  muddati kelgan to’lov majburiyatlar;  tez sotiluvchi aktivlar <qisqa muddatli passivlar; sekin sotiluvchi aktivlar < uzoq  muddatli passivlar; qiyin sotiluvchi aktivlar < doimiy passivlar
-++++++
-Mahsulot sotishdan tushgan summaning aylanma mablag‘larning o‘rtacha qoldiqlar summasiga nisbati bu –
-======
-#aylanma mablag‘larning aylanuvchanlik koeffitsienti.
-======
-aylanma mablag‘larning bir aylanma davomiyligi.
-======
-aylanma mablag‘lar rentabelligi koeffitsienti.
-======
-aylanma uzunligi.
-++++++
-Korxonaning faoliyatini amalga oshirish natijasida olinadigan daromadlari tarkibi to‘liq ko’rsatilgan qatorni aniqlang.
-======
-#sotishdan olinadigan sof tushum, asosiy faoliyatidan olingan boshqa daromadlar, moliyaviy faoliyatidan olingan daromad, favqulodda daromadlar.
-======
-asosiy faoliyatdan, investitsion faoliyatdan, favqulodda daromad, asosiy vositalarni sotishdan daromad.
-======
-mahsulot sotishdan tushgan daromad, moliyaviy faoliyatdan tushgan daromad.
-======
-moliyaviy faoliyatdan tushgan daromad va favqulodda daromad.
-++++++
-Ishlab chiqarish xarajatlarining ishlab chiqarish hajmiga bog’liqligiga ko’ra turlari qaysi javobda to‘g‘ri ko’rsatilgan?
-======
-#doimiy va o‘zgaruvchan.
-======
-doimiy va kvartallik.
-======
-aniq xarajatlar va o‘zgaruvchan xarajatlar.
-======
-doimiy xarajatlar va tashqi xarajatlar.
-++++++
-Ishlab chiqarish va mahsulot hajmiga bevosita bog‘liq bo‘lgan xarajatlar qanday nomlanadi?
-======
-#o‘zgaruvchan
-======
-aniq xarajatlar
-======
-doimiy
-======
-tashqi
-++++++
-“Doimiy xarajatlar” deb qanday xarajatlarga aytiladi?
-======
-#ishlab chiqarish hajmidagi o‘zgarishlarga bog‘liq bo‘lmagan xarajatlarga.
-======
-moddiy xarajatlarga.
-======
-ishlab chiqarish hajmidagi o‘zgarishlarga bog‘liq bo‘lgan xarajatlarga.
-======
-mehnatga haq to‘lash xarajatlariga.
-++++++
-“O‘zgaruvchan xarajatlar” deb qanday xarajatlarga aytiladi?
-======
-#ishlab chiqarish hajmiga bog‘liq o‘zgaradigan xarajatlarga.
-======
-mehnatga haq to‘lash va soliqlarni to‘lash bilan bog‘liq xarajatlarga.
-======
-ishlab chiqarish hajmiga bog‘liq bo‘lmay o‘zgaradigan xarajatlarga.
-======
-kredit foizlarini to‘lash bilan bog‘liq xarajatlarga.
-++++++
-Hisobot yilida reja bo‘yicha mahsulot ishlab chiqarish hajmi oldingi yilga nisbatan 30% ga oshirilishi lozim edi. Ammo reja 90%ga bajarildi. O‘tgan yilga nisbatan mahsulot ishlab chiqarish hajmi necha foizga o‘sgan?
-======
-#17 %ga.
-======
-40 %ga.
-======
-120 %ga.
-======
-135 %ga.
-++++++
-Soliqlar to‘langunga qadar korxona daromadi va xarajatlarining ayirmasi – bu
-======
-#soliq to’langunga qadar foyda
-======
-sof foyda
-======
-qo‘shimcha foyda
-======
-balans foydasi
-++++++
-Soliq to’langunga qadar foydadan qonunlar bilan belgilangan soliqlar va foydadan ajratmalar to‘langandan keyingi qoldiq – bu
-======
-#sof foyda.
-======
-yalpi foyda.
-======
-foyda.
-======
-balans foydasi.
-++++++
-Buxgalteriya balansida aks ettiriladigan foyda ko’rsatkichini ko’rsating
-======
-#taqsimlanmagan foyda.
-======
-yalpi foyda.
-======
-umumxo’jalik faoliyat foydasi.
-======
-asosiy faoliyat foydasi.
-++++++
-Ishlab chiqarish rentabelligi qanday aniqlanadi?
-======
-#foydani ishlab chiqarish xarajatlariga nisbati orqali.
-======
-ishlab chiqarish hajmini xarajatga taqqoslash natijasida.
-======
-foydani asosiy ishlab chiqarish va aylanma fondlariga nisbati natijasida.
-======
-ishlab chiqarish smetasi hajmini foydaga taqqoslash natijasida.
-++++++
-Buxgalteriya balansi nima?
-======
-#korxona moliyaviy holati to‘g‘risida qiymat ko‘rinishida axborot beruvchi hujjat.
-======
-Hisobot davridagi pul mablag‘lari harakati to‘g‘risidagi hujjat.
-======
-Mehnat ko’rsatkichlari to‘g‘risidagi hisobot.
-======
-Moliyaviy natijalar to‘g‘risidagi hujjat.
-++++++
-Korxonaning daromadliligi qanday aniqlanadi?
-======
-#korxona jami daromadlarini uning jami xarajatlariga nisbati orqali.
-======
-korxona yalpi tushumining uning kapitaliga nisbati sifatida.
-======
-tovar realizatsiya bahosi bilan o‘zgaruvchan xarajatlar o‘rtasidagi farqni aniqlash yo‘li bilan.
-======
-yillik pul tushumlari summasini aniqlash yo‘li bilan.
-++++++
-Moliyaviy natijalar to‘g‘risidagi hisobot asosida tahlil qilinganda korxonaning jami daromadlarining jami xarajatlariga nisbati 1 dan katta chiqsa, u holda quyidagilardan qaysi biri hamisha o‘rinli.
-======
-#korxona sof foydaga ega.
-======
-korxona hisobot davrida zarar ko’rgan.
-======
-korxona moliyaviy faoliyatdan foyda ko‘rgan.
-======
-korxona past rentabelli.
-++++++
-Qisqa muddatli debitorlik qarzi – bu
-======
-#to‘lov muddati bir yildan oshmaydigan korxonaning olishi lozim bo’lgan qarzlar.
-======
-to‘lov muddati bir yil davomida keladigan korxona majburiyatlari.
-======
-to‘lov muddati bir yildan keyin keladigan korxona majburiyatlari.
-======
-balans tuzish paytigacha sotib olingan, hali sotilmagan tovarlar.
-++++++
-Korxonaning balansida aks ettiriluvchi faoliyatning barcha turlaridan olinuvchi umumiy foyda miqdori – bu
-======
-#taqsimlanmagan foyda.
-======
-sof foyda.
-======
-natural foyda.
-======
-asosiy faoliyatdan foyda.
-++++++
-Korxonada hisobot davrida jami daromadlar va xarajatlari o‘rtasidagi ijobiy farq – bu
-======
-#foyda.
-======
-daromad.
-======
-doimiy xarajatlar.
-======
-yalpi pul tushum.
-++++++
-Balansning aktiv tomoniga kiritiluvchi elementlarni aniqlang?
-======
-#Asosiy vosita va nomoddiy aktivlar.
-======
-Investitsiyalar va ish haqi.
-======
-Kapital va materiallar.
-======
-Soliqlar va pul mablag‘lari.
-++++++
-Majburiyatlar bu:
-======
-#korxonaning qarzlari
-======
-korxonaning xususiy kapitali
-======
-korxonaning qo‘shilgan kapitali
-======
-korxonaning foydasi
-++++++
-Asosiy vosita tarkibiga kirmaydigan elementni aniqlang.
-======
-#Gudvill
-======
-Binolar
-======
-Kompyuter
-======
-Ish hayvonlari
-++++++
-Korxona foydasining o‘zgarishiga ta’sir etuvchi tashqi omilni aniqlang.
-======
-#iste’molchilar daromadining oshishi;
-======
-ishlab chiqarilgan mahsulot hajmi;
-======
-mahsulotga ketgan o‘zgaruvchan xarajatlar qimyati;
-======
-Ishlab chiqarishdagi me’yordan ortiq yaroqsizlik;
-++++++
-Dividend – bu:
-======
-#Aksiyadan olinadigan daromad
-======
-Bir shaxs tomonidan ikkinchisiga yozib berilgan qarz majburiyatini ifodalovchi qimmatli qog‘ozning bir turi
-======
-Emitentning qarzdorligi va bu qarz uchun foiz to‘lash zarurligi xaqida guvohlik beruvchi qimmatli  qog‘oz
-======
-Obligatsiyalardan olinadigan daromad
-++++++
-Mahsulotlarni qarzga sotish natijasida yuzaga keladigan va korxonaning pul mablag‘larini ko‘paytiruvchi qarz qanday ataladi?
-======
-#debitorlik qarz
-======
-pul mablaglari
-======
-uzoq muddatli majburiyatlar
-======
-kreditorlik qarz
-++++++
-Korxonaning o‘z majburiyatlari bo‘yicha qarzlarni to‘lov muddati kelishining aniq vaqtida bajarish qobiliyati –
-======
-#korxonaning likvidligi
-======
-korxonaning xarid qobiliyati
-======
-korxonaning majburiyati
-======
-korxona daromadi
-++++++
-Davr xarajatlari deganda...
-======
-#Bevosita ishlab chiqarish jarayoni bilan bog‘liq bo‘lmagan xarajatlar va sarflar tushuniladi, ya’ni mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan xarajatlardir
-======
-Tovarlarni temir yo‘l, havo, avtomobil, dengiz, daryo transportida va ot-ulovda tashish xarajatlari tushuniladi
-======
-Mahsulot ishlab chiqarish tannarxiga qo’shiladigan xarajatlar
-======
-Moliyaviy faoliyatga oid xarajatlar
-++++++
-Sotish xarajatlari deganda...
-======
-#Tovarlarni temir yo‘l, havo, avtomobil, dengiz, daryo transportida va ot-ulovda tashish xarajatlari tushuniladi
-======
-Bevosita ishlab chiqarish jarayoni bilan bog‘liq bo‘lmagan xarajatlar va sarflar tushuniladi,  ya’ni mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan xarajatlardir
-======
-Boshqaruv xarajatlariga tegishli bo‘lgan mehnatga haq to‘lash xarajatlari; 
-===
-Xomashyo va materiallarning sarflanishi
-++++++
-Ma’muriy xarajatlarga qaysilar kiradi?
-======
-#Boshqaruv xarajatlariga tegishli bo‘lgan mehnatga haq to‘lash xarajatlari;  boshqaruv  xarajatlariga tegishli bo‘lgan ijtimoiy sug‘urta ajratmalari; xizmat yengil avtotransporti va xizmat mikroavtobusini saqlash, yollash va ijaraga olish xarajatlari
-======
-Mahsulotni sotish xarajatlari va umumxo‘jalik ahamiyatiga ega bo‘lgan xarajatlar
-======
-Tovarlarni temir yo‘l, havo, avtomobil, dengiz, daryo transportida va ot-ulovda tashish xarajatlari tushuniladi
-======
-Valyuta kurs farqidan zararlar
-++++++
-Moliyaviy faoliyat bo‘yicha xarajatlar to’g’ri ko’rsatilgan qatorni toping.
-======
-#Foiz ko’rinishidagi xarajatlar, valyuta kurs farqidan zararlar
-======
-Ma’muriy xarajatlar
-======
-Ijtimoiy soliq xarajatlari
-======
-Energiya xarajatlari
-++++++
-Favqulodda zararlar –
-======
-#Xo‘jalik yurituvchi sub’ektlarning odatdagi faoliyatidan chetga chiquvchi hodisalar yoki operatsiyalar natijasida vujudga keladigan va ro‘y berishi kutilmagan odatdan tashqari xarajat moddalaridir
-======
-Tarkibida banklar va boshqa moliya-kredit tashkilotlari bo‘yicha foizlar (investitsiya davrida kapital qo‘yilmalar tarkibiga kiruvchi investitsiyalarga olingan bank va boshqa moliya-kredit tashkilotlari kreditlari bo‘yicha foizlardan tashqari), shu jumladan, muddati o‘tgan va uzaytirilgan ssudalar bo‘yicha foizlar hisobga olinadi
-======
-Korxona rahbarining qarorlariga bog’liq holda nazorat qilinadigan xarajatlar kiradi
-======
-Korxona rahbarining qarorlariga bog’liq holda nazorat qilinmaydigan xarajatlar
-++++++
-Asosiy faoliyatdan olingan boshqa daromadlarga qaysilar kiradi?
-======
-#Undirilgan yoki qarzdor tomonidan etirof etilgan jarimalar, penyalar, vaqtida to‘lanmagan qarzlar va xo‘jalik shartnomalari shartini buzganlik uchun boshqa xil jazo jarimalari, shuningdek, yetkaziladigan zararlarni undirish bo‘yicha daromadlar
-======
-Mahsulot (ishlar, xizmatlar)ni sotishdan olingan tushum
-======
-Ko‘zda tutilmagan, tasodifiy tusga ega bo‘lgan, hodisa yoki xo‘jalik yurituvchi sub’ektning   odatdagi  faoliyati doirasidan chetga chiqadigan tusdagi operatsiyalar natijasida paydo bo‘ladigan va olinishi kutilmagan daromadlar
-======
-Moliyaviy faoliyatdan olinadigan dividend va foiz shaklidagi daromadlar
-++++++
-Favqulodda foyda moddalari –
-======
-#Bu ko‘zda tutilmagan, tasodifiy tusga ega bo‘lgan, hodisa yoki xo‘jalik yurituvchi sub’ektning odatdagi  faoliyati doirasidan chetga chiqadigan tusdagi operatsiyalar natijasida paydo bo‘ladigan va olinishi kutilmagan foydadir
-======
-Mahsulot (ishlar, xizmatlar)ni sotishdan olingan, undan qo‘shilgan qiymat, aksiz solig‘i va   eksport bank poshlinasi chegirilgan tushum sifatida aniqlanadi
-======
-Undirilgan  yoki qarzdor tomonidan etirof etilgan jarimalar, peniyalar, vaqtida to‘lanmagan qarzlar va xo‘jalik shartnomalari shartini buzganlik uchun boshqa xil jazo jarimalari, shuningdek, yetkaziladigan zararlarni undirish bo‘yicha daromadlar
-======
-Bu ko‘zda tutilgan, tasodifiy tusga ega bo‘lmagan, hodisa yoki xo‘jalik yurituvchi sub’ektning odatdagi  faoliyati doirasidan chetga chiqmaydigan tusdagi operatsiyalar natijasida olinadigan foydadir
-++++++
-Marjinal foyda -
-======
-#Sotilgan mahsulot bo‘yicha tushum va o’zgaruvchan ishlab chiqarish xarajatlari orasidagi farq
-======
-Marjinal foyda va hisobot yilidagi doimiy (boshqaruv va tijorat) xarajatlar miqdorlari orasidagi farq
-======
-Mahsulot, ish va xizmatlarni sotishdan olinadigan moliyaviy natijalar, investitsiyaviy va moliyaviy faoliyatdan olinadigan daromad va xarajatlar, sotishdan tashqari va favqulodda daromad yig‘indisidan iborat
-======
-Soliqqa tortilganga qadar umumiy moliyaviy  natijadan daromad (foyda) solig‘i va boshqa majburiy to‘lovlar to‘langandan so‘nggi foydadir;
-++++++
-Taqsimlanmagan foydadan ta’sischilar qarori bilan kelgusi zararlarni qoplash uchun qilingan ajratma qanday nomlanadi?
-======
-#rezerv kapitali
-======
-maqsadli tushum
-======
-ustav kapitali
-======
-qo‘shilgan kapital
-++++++
-Ustav kapitalini shakllantirish jarayonida yuzaga kelgan valyuta kurs farqidan daromad qaysi element tarkibiga kiradi?
-======
-#qo‘shilgan kapital
-======
-maqsadli tushum
-======
-ustav kapitali
-======
-rezerv kapitali
-++++++
-Korxonalar moliyaviy natijalari asosida quyidagilardan qaysi biri aniqlanadi?
-======
-#rentabellik darajasi
-======
-likvidlilik darajasi
-======
-moliyaviy barqarorlik darajasi
-======
-fond qaytimi
-++++++
-Korxonalar foydasiga teskari ta’sir etuvchi omilni ko’rsating.
-======
-#Sotilgan mahsulot tannarxi
-======
-Sof tushum
-======
-Moliyaviy faoliyatga oid daromadlar
-======
-Operativ ijaradan olingan summalar
-++++++
-Sof foyda qaysi hujjatga asosan taqsimlanadi?
-======
-#Ta’sischilar umumiy yig’ilishi bayonnomasi
-======
-Reja
-======
-Shtatlar jadvali
-======
-Hisobot ilovasi
-++++++
-O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq iqtisodiy holatiga qarab korxonalar qaysi guruhlarga ajratiladi?
-======
-#Iqtisodiy barqaror, iqtisodiy tavakkalchilik, iqtisodiy nochor
-======
-Baquvvat korxonalar; «xavf-xatar» guruhidagi korxonalar
-======
-«Tang» guruhdagi korxonalar; to‘lovga noqobil korxonalar
-======
-«Bo‘lajak korxonalar» (iqtisodiy nochorlar) guruhidagi korxonalar
-++++++
-O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq o‘z aylanma mablag‘lari bilan ta’minlanganlik koeffitsiyentining eng kam qiymati qanday belgilangan?
-======
-#0,2
-======
-0,3
-======
-0,25
-======
-0,4
-++++++
-Aktivlar rentabelligi necha foizdan past bo’lsa korxona past rentabelli deb e’tirof etiladi?
-======
-#5
-======
-10
-======
-Inflatsiya darajasidan
-======
-Asosiy foiz stavkasidan
-++++++
-O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq to‘lov qobiliyati koeffitisiyenti qanday aniqlanadi?
-======
-#joriy aktivlarning joriy majburiyatlarga nisbati orqali
-======
-joriy aktivlarning uzoq muddatli majburiyatlarga nisbati orqali
-======
-joriy bo‘lmagan aktivlarning joriy majburiyatlarga nisbati orqali
-======
-joriy aktivlarning jami majburiyatlarga nisbati orqali
-++++++
-Korxona moliya-xo‘jalik faoliyatining tahlilida o’rganiladigan elementlar to’g’ri ko’rsatilgan qatorni toping.
-======
-#Barcha javoblar to’g’ri
-======
-Moliyaviy holat; moliyaviy barqarorlik; to‘lovga qobilllik;
-======
-Balansning likvidligi; moliyaviy koeffitsentlar;
-======
-Moliyaviy natijalar.
-++++++
-O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq to‘lov qobiliyati koeffitisiyenti qaysi qiymatdan past bo‘lsa, shu ko’rsatkich bo‘yicha korxona to‘lovga qodir emas, deb hisoblanadi?
-======
-#1,25
-======
-1,5
-======
-1
-======
-2
-++++++
-Moliyaviy tahlili uchun qaysilar axborot manba hisoblanmaydi?
-======
-#Materiallar harakati to‘g‘risida hisobot
-======
-Buxgalteriya balansi, moliyaviy natijalar to‘g‘risidagi hisobot
-======
-Pul oqimlari to‘g‘risidagi hisobot
-======
-O‘z sarmoyasi to‘g‘risidagi hisobot
 ++++++
-Korxonalar iqtisodiy ahvoliga ko‘ra qaysi guruhlarga ajratiladi?
+«Shaxsiy ishlarini to'g'ri tashkillashtira olgan rahbargina muvaffaqiyatga erisha oladi» deb kim ta'kidlagan?
 ======
-#Barcha javoblar to’g’ri
+#A.Fayol
 ======
-Iqtisodiy barqaror
+F.Teylor
 ======
-Iqtisodiy tavakkalchilik
-======
-Iqtisodiy nochor
-++++++
-O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq iqtisodiy ahvolini baholash uchun asosiy ko’rsatkichlar tarkibiga quyidagilardan qaysi biri kiradi?
-======
-#to‘lov qobiliyati koeffitsiyenti
-======
-asosiy vositalar eskirish koeffitsiyenti
-======
-moliyaviy qaramlik koeffitsiyenti
-======
-xususiy kapital rentabelligi koeffitsiyenti
-++++++
-O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 14-dekabrdagi 1013-sonli qaroriga muvofiq aktivlar rentabelligi aniqlanishi to’g’ri ko’rsatilgan qatorni ko’rsating.
-======
-#Soliq to‘langunga qadar foydani aktivlarning o’rtacha yillik qiymatiga bo’lish orqali
-======
-Sof foydani uzoq muddatli aktivlarning o’rtacha yillik qiymatiga bo’lish orqali
-======
-Soliq to‘langunga qadar foydani joriy aktivlarning o’rtacha yillik qiymatiga bo’lish orqali
-======
-Sof foydani majburiyatlarning o’rtacha yillik qiymatiga bo’lish orqali
+D.Mak-Gregor
 ++++++
-Quyida berilgan ko’rsatkichlardan qaysilari korxonaning moliyaviy barqarorlik darajasini ifodalaydi?
-======
-#Qarzga olingan va o‘z mablag‘lari nisbati;
+Amerikalik olim D.Mak-Gregor qaysi nazariyaning namoyondasi?
 ======
-Debitorlik qarzlarini aylanishi;
+#x (iks) va y (igrek)
 ======
-Joriy aktivlarni aylanishi;
+z (zeta) va w (double-u) nazariyasi
 ======
-Operatsion davr;
+a va b nazariyasi
 ++++++
-Buxgalteriya balansi quyidagi elementlardan qaysilari aks etmaydi?
+Funksional struktura qanday tashkil etiladi?
 ======
-#Daromadlar, xarajatlar, moliyaviy natija.
+#har bir boshqaruv bo'g'iniga muayyan funksiyalarni biriktirib qo'yish orqali tashkil etiladi
 ======
-Aktivlar va majburiyatlar;
+barcha bo'limlarni bitta markaziy rahbarga bo'ysundirish orqali tashkil etiladi
 ======
-Uzoq muddatli aktivlar va o‘z kapitali;
-======
-Joriy aktivlar va majburiyatlar;
+xodimlarni maxsus loyiha guruhlari bo'yicha taqsimlash orqali tashkil etiladi
 ++++++
-Moliyaviy natijalar to’g’risidagi hisobotda nechta foyda ko’rsatkichi keltirilgan?
-======
-#5
+Tizim bu-….
 ======
-4
+#bir-biri bilan bog'liq va bir-biriga ta'sir etadigan elementlar majmuasi
 ======
-3
+bir-biridan mustaqil va alohida ishlaydigan bo'limlar to'plami
 ======
-7
+faqat texnik asbob-uskunalar va qurilmalar yig'indisi
 ++++++
-Moliyaviy barqarorlik koeffitsiyenti qanday oraliqda bo’lishi tavsiya etiladi?
+Strategik rejalashtirish kimning vazifasi?
 ======
-#0,6-1
+#bosh direktor
 ======
-0,4-0,6
+moliya bo'limi boshlig'i
 ======
-0,5-1,5
-======
-0,6-1,5.
+kadrlar bo'limi boshlig'i
 ++++++
-Daromadlar va xarajatlar nisbati koeffitsiyentining 1 dan past bo’lishi nimani anglatadi?
-======
-#Hisobot davri zarar bilan yakunlanganligini
+Tashkilotlarda iqtisodiy ishga kim boshchilik qiladi?
 ======
-Hisobot davri foyda bilan yakunlanganligini
+#bosh iqtisodiy-moliyaviy boshqaruvi
 ======
-Hisobot davrida kritik nuqtaga erishilganligini
+bosh muhandis
 ======
-Hisobot davrida moliyaviy holat yaxshilanganligini
+bosh texnolog
 ++++++
-Qonunchilik hujjatlariga muvofiq davlat organlariga buxgalteriya hisobining milliy standartlari asosida tuzilgan yillik moliyaviy hisobotlarni topshirish muddati to‘g‘ri ko’rsatilgan qatorni aniqlang.
+Firmaning qaysi boshqaruv darajasi hamma bo'linmalar faoliyatiga muvofiqligi xolda firmaning samarali ishlashi va rivojlanishi ta'minlanishini amalga oshiradi?
 ======
-#hisobot yilidan keying yilning 1-martidan kechiktirmay
+#boshqaruvning o'rtacha darajasi-Middle management
 ======
-hisobot yilidan keying yilning 1-mayidan kechiktirmay
+boshqaruvning oliy darajasi-Top management
 ======
-hisobot yilidan keying yilning 15-fevralidan kechiktirmay
-======
-hisobot yilidan keying yilning 15-yanvaridan kechiktirmay
+boshqaruvning quyi darajasi-Low management
 ++++++
-Qonunchilik hujjatlariga muvofiq davlat organlariga moliyaviy hisobotning xalqaro standartlari asosida tuzilgan yillik moliyaviy hisobotlarni topshirish muddati to‘g‘ri ko’rsatilgan qatorni aniqlang.
-======
-#hisobot yilidan keying yilning 1-mayidan kechiktirmay
+Menejer faoliyati samarasi nimalarga bog'liq?
 ======
-hisobot yilidan keying yilning 1-martidan kechiktirmay
+#vaziyatga qarab firma faoliyatini yo'naltirish, yaxshi strategiyani ishlab chiqish va uni hayotga tadbiq etishga
 ======
-hisobot yilidan keying yilning 15-fevralidan kechiktirmay
+faqat rahbarning shaxsiy xarakter xususiyatlari va tajribasiga
 ======
-hisobot yilidan keying yilning 15-yanvaridan kechiktirmay
+korxonaning moliyaviy resurslari va kapital miqdoriga
 ++++++
-Qaysi ko’rsatkich joriy to’lov qobiliyatini ifodalaydi?
+Sof monopoliya bu
 ======
-#joriy aktivlar /joriy majburiyatlar
+#bozorda faqat bitta sotuvchi va ko'p xaridor bo'lishi
 ======
-pul mablag’lari va boshqa aktivlar / qisqa muddatli aktivlar
+bozorda ko'plab sotuvchi va bitta xaridor bo'lishi
 ======
-(pul mablag’lari + qimmatli qog’ozlar) /qisqa muddatli to’lov majburiyatlari
-======
-pul mablag’lari / qisqa muddatli to’lov majburiyatlari
+bozorda bir nechta yirik sotuvchi va ko'plab xaridorlar bo'lishi
 ++++++
-Aylanma mablag’larning aylanish koeffitsienti qanday aniqlanadi?
-======
-#Mahsulotni sotishdan tushgan tushum / aylanma mablag’larning yillik o’rtacha qiymati
+Asosiy maqsadi sotuvchi bilan xaridorni uchrashtiruvchi va ularga o'zaro kelishishda yordam beruvchi shaxs
 ======
-(Mahsulotni sotishdan tushgan tushum + tayyor mahsulot) / aylanma mablag’larning yillik o’rtacha qiymati
+#broker
 ======
-Sotilgan mahsulotning tannarxi / aylanma mablag’larning yillik o’rtacha qiymati
+diler
 ======
-Mahsulotni sotishdan tushgan tushum / aylanma aktivlar
+distribyutor
 ++++++
-Doimiy harakatdagi aktivlarga nimalar kiradi?
+Agar boshqarishning hamma funksiyalari korxona rahbari qo'lida to'planib barcha quyi rahbarlar va ishlab chiqarish yacheykalari unga bo'ysinsa, bunday tashkiliy struktura?
 ======
-#Pul mablag’lari
+#chiziqli (pog'onali) struktura ko'rinishida bo'ladi
 ======
-Nomoddiy aktivlar
+funksional struktura ko'rinishida bo'ladi
 ======
-Tayyor mahsulot
-======
-Asosiy vositalar
+matritsali struktura ko'rinishida bo'ladi
 ++++++
-Balans aktiv qismining 1-bo’limida aks ettiriladigan moddani toping.
-======
-#Uzoq muddatli investitsiyalar
+Qaror qabul qilishda yakkabosh, jamoa fikri bilan hisoblashmaydigan rahbarlarni:
 ======
-Tayyor mahsulot
+#avtokratik rahbarlar
 ======
-Pul mablag’lari
+demokratik rahbarlar
 ======
-Qisqa muddatli moliyaviy qo’yilmalar
+liberal rahbarlar
 ++++++
-Zaxira va xarajatlarni qoplashga tegishli o’zlik manbalari qanday aniqlanadi?
+Qaror yechimlarini bo'ysinuvchilarga taklif orqali yetkazuvchi rahbarlarni:
 ======
-#O’zlik mablag’larning manbalari minus uzoq muddatli aktivlar
+#demokratik rahbarlar deyishadi
 ======
-O’zlik mablag’larning manbalari minus kreditorlik qarzlari
+avtokratik rahbarlar deyishadi
 ======
-O’zlik mablag’larning manbalari minus uzoq muddatli kredit va qarzlar
-======
-O’zlik mablag’larning manbalari minus qisqa muddatli kredit va qarzlar
+liberal rahbarlar deyishadi
 ++++++
-Moliyaviy mustaqillik koeffitsienti qanday aniqlanadi?
-======
-#Korxona jami o’zlik mablag’lari manbalarini jami balans summasiga nisbati bilan
+Perspektiv maqsadlar bu:
 ======
-Korxona balansi passivining jamini majburiyatlar jamiga nisbati bilan
+#besh yil yoki undan ko'p davr mobaynida amalga oshiriladigan maqsadlar
 ======
-Korxonaning jami majburiyatlarini jami o’zlik mablag’larining manbalariga nisbati bilan
+bir yil davomida amalga oshiriladigan qisqa muddatli maqsadlar
 ======
-Korxonaning jami o’zlik mablag’larining manbalarini majburiyatlar jamiga nisbati bilan
+ikki-uch yil davomida amalga oshiriladigan o'rta muddatli maqsadlar
 ++++++
-Quyidagilardan qaysi biri buxgalteriya balansi aktiv qismining 2-bo’limida aks ettiriladi?
+Strategik maqsadning qator taktik maqsadlarga, istiqbolli maqsadning esa o'rta va qisqa muddatli maqsadlarga bog'liqligi bu:
 ======
-#Tovar-moddiy zaxiralar
+#maqsadning tobeligi
 ======
-Daromad va xarajatlar
+maqsadning ierarxiyasi
 ======
-Asosiy vositalar
-======
-Nomoddiy aktivlar
+maqsadning tartibi
 ++++++
-Balans likvidligining mazmuni noto‘g‘ri ifodalangan qatorni toping.
-======
-#korxonaning moliyaviy natijalari va rentabellik ko’rsatkichlarini ko’rsatadi
+Korxona boshqarish jarayoniga qanday omillar ta'sir ko'rsatadi?
 ======
-korxonalarning olingan qarzlarini qaytarib berishga qodirlik darajasini ko’rsatadi
+#ichki va tashqi omillar
 ======
-korxona aktivlari, aylanma mablag’lari bilan korxonaning umumiy majburiyatlari, qisqa muddatga olingan qarzlar o’rtasidagi nisbat asosida aniqlanadi
+faqat tashqi bozor omillari
 ======
-ko’rsatkichlari korxonaning mablag’ elementlarini naqd pulga aylanish jarayonini ko’rsatadi
+faqat ichki xodimlar omili
 ++++++
-Aylanma mablag’lar aylanish davrini aniqlash formulasi qaysi qatorda to’g’ri ko’rsatilgan?
+Demokratik rahbarlar muomalada:
 ======
-#Tovar-moddiy zaxiralar * hisobot davri (kun) / sotishdan sof tushum
+#ijobiy, muloqotda kirishimli va faol bo'ladilar
 ======
-Zaxira va xarajatlar / jami mulk
+sovuq va masofali munosabatda bo'ladilar
 ======
-Pul mablag’lari* hisobot davri (kun) / sotishdan sof tushum
-======
-Aylanma aktivlar / jami mulk
+faqat rasmiy aloqa va buyruq orqali muloqot qiladilar
 ++++++
-Pul ekvivalentlari harakatdagi aktivlarning qaysi qatoriga kiradi?
-======
-#Doimiy harakatdagi aktivlarga
+Innovatsion menejment deganda-?
 ======
-Qiyin sotiluvchi aktivlarga
+#ilmiy fan asosida yangiliklarni ishlab chiqarish jarayonini boshqarish tushuniladi
 ======
-Tez sotiluvchi aktivlarga
+faqat texnologik asbob-uskunalarni modernizatsiya qilish tushuniladi
 ======
-Sekin sotiluvchi aktivlarga
+mavjud mahsulotlarni yangi bozorlarda sotishni tashkil qilish tushuniladi
 ++++++
-Qisqa muddatli passivlar deganda nimani tushunasiz?
+Xorijda innovatsion faoliyatni moliyalashtirish-
 ======
-#Qisqa muddatli kredit va qarzlar
+#innovatsion jarayon sarmoyalarni xususiy hamda davlat manbalaridan amalga oshiriladi
 ======
-Kelgusi davr sarflari
+faqat xalqaro fondlar va grantlar orqali amalga oshiriladi
 ======
-Kreditor qarzlar
-======
-Maqsadli tushumlar
+faqat xususiy investorlar va kredit tashkilotlari orqali amalga oshiriladi
 ++++++
-Qiyin sotiluvchi aktivlar guruhiga kiradigan moddani belgilang.	
-===
- Uzoq muddatli aktivlar
+Xodimlarning ichki salohiyatini aniqlashda Gilford testi nimalarni aniqlaydi?
 ======
-#Uzoq muddatli qarzlar
+#intellektni, ijtimoiy intellektni
 ======
-Aylanma aktivlar
+jismoniy salomatlik va chidamlilikni
 ======
-Pul mablag’lari
+kasbiy ko'nikma va malakani
 ++++++
-Quyidagilardan qaysi biri buxgalteriya balansi ma`lumotlari asosida aniqlanadi?	
-===
- Korxonaning moliyaviy barqarorlik darajasi
+Korxonada "funksional" strategiyalar qanday maqsadda ishlab chiqiladi?
 ======
-#Korxona daromadlarini tuzilishi
+#korxonada ayrim bo'limlar o'z oldidagi vazifalarini amalga oshirish maqsadida ishlab chiqadi
 ======
-Sotishdan kelgan tushum o’sishi
+butun korxona miqyosida umumiy yo'nalish belgilash maqsadida ishlab chiqadi
 ======
-Asosiy faoliyat bo’yicha xarajatlarning dinamikasi
+raqobatchilar bilan kurash uchun maxsus dasturlar yaratish maqsadida ishlab chiqadi
 ++++++
-Doimiy harakatdagi aktivlar tarkibi to‘g‘ri ko‘rsatilgan qatorni belgilang.
-======
-#Pul mablag’lari, valyuta mablag’lari, qisqa muddatli investitsiyalar
+Xodimlarni boshqarish tushunchasi nimani anglatadi?
 ======
-Debitorlik qarzlari, pul mablag’lari, valyuta mablag’lari
+#kadrlar bilan ishlashni
 ======
-Pul mablag’lari, debitorlik qarzlari, qisqa muddatli investitsiyalar
+moliyaviy resurslarni boshqarishni
 ======
-Valyuta mablag’lari, debitorlik qarzlari, qisqa muddatli investitsiyalar
+ishlab chiqarish jarayonlarini nazorat qilishni
 ++++++
-Hisobot davridagi korxonaning sof foydasi qanday maqsadlarga sarflanmaydi?
+Chiziqli-shtabli strukturaning afzalligi nimada:
 ======
-#Kechiktirilgan daromadlarni shakllanishiga
+#chiziqli rahbarlar o'z diqqatlarini ilmiy-tadqiqot ishlarga emas, korxonaning joriy faoliyatiga qaratadilar
 ======
-Ishlab chiqarish xarakteridagi qurilish ob`ektlariga
+barcha qarorlar markazlashgan holda bir shaxs tomonidan qabul qilinadi
 ======
-O’tgan yilga tegishli zararni qoplashga
-======
-Yangi texnikani sotib olishga
+xodimlar o'rtasida funksiyalar aniq taqsimlanadi va ixtisoslashuv ta'minlanadi
 ++++++
-Balans aktivining rentabellik darajasini determinatsiyalashgan model asosida omilli tahlil qilinganda qaysi omillar natijaga teskari ta`sir etadi?
+Franchayzing nima?
 ======
-#uzoq va qisqa muddatli aktivlar
+#korxona va diler o'rtasida o'zaro faoliyat yuritish haqidagi kelishuvi bo'lib, unga ko'ra diler korxonaning savdo belgisidan foydalangan holda faoliyat yuritish huquqiga ega bo'ladi
 ======
-uzoq va qisqa muddatli majburiyatlar
+ikki kompaniya o'rtasida tovarlarni birga ishlab chiqarish to'g'risidagi kelishuv
 ======
-sof foyda	
-===
-jami daromadlar
+bir korxonaning boshqasini to'liq sotib olishi to'g'risidagi bitim
 ++++++
-Moliyaviy barqarorlik koeffitsiyenti qanday aniqlanadi?
-======
-#o‘z mablag’lari manbalari+uzoq muddatli kredit va qarzlar/jami aktiv
+Moliyaviy ko'rsatkichlar bu
 ======
-o‘z mablag’lari manbalari+uzoq muddatli kredit va qarzlar/joriy aktiv
+#korxonalarning moliyaviy faoliyatini xarakterlab, moliyaviy-xo'jalik faoliyati baholanib, yakuniy umumlashtiruvchi ko'rsatkich
 ======
-o‘z mablag’lari manbalari+uzoq muddatli debitorlik qarzlar/jami aktiv
+faqat foydaning hajmini va rentabellikni ifodalovchi ko'rsatkich
 ======
-o‘z mablag’lari manbalari+uzoq muddatli kreditorlik qarzlar/jami aktiv
+korxona xarajatlari va daromadlar tahlilining ko'rsatkichi
 ++++++
-Mahsulot sotishdan ko’rilgan foydaga qanday omillar ta`sir etadi?
+Umumiy tizim nazariyasi muallifi…
 ======
-#Mahsulot sotish hajmi, sotilgan mahsulot tannarxi, sotilgan mahsulot bahosi
+#L.Bertalanfi
 ======
-Sotish hajmi, sotilgan mahsulot tannarxi, operatsion daromad
+F.Teylor
 ======
-Mahsulot ishlab chiqarish hajmi, sotilgan mahsulot bahosi, davr xarajatlari
-======
-Mahsulot sotish hajmi, sotilgan mahsulot tannarxi, operatsion daromadlar
-++++++
-Sotishdan ko’rilgan foydaga qanday omillar funksional bog’liqlikda ta`sir ko’rsatadi?
-===
- Sotilgan mahsulot hajmi, mahsulot tannarxi, sotilgan mahsulot bahosi, mahsulot tarkibidagi strukturaviy o’zgarishlar
-======
-#Sotish hajmi, bozorni tuzilishi, mahsulotni raqobatga bardoshligi, ishlab chiqarish hajmi
-===
-Mahsulot sifati, sotish hajmi, mahsulot bahosi, ishlab chiqarish hajmi
-======
-Ishlab chiqarish maromiyligi, mahsulot sifati, mahsulot rentabelligi, sotilmay qolgan mahsulot hajmi
+D.Mak-Gregor
 ++++++
-Asosiy vositalarni sotishdan foyda qaysi daromadlar tarkibida aks etadi?
+Zamonaviy menejment tashkilotni …. tizim sifatida ko'rib chiqadi
 ======
-#asosiy faoliyatdan kelgan boshqa daromad
+#ochiq
 ======
-favqulodda kelgan daromad
+yopiq
 ======
-mahsulotni sotishdan kelgan yalpi tushum
-======
-moliyaviy faoliyatdan kelgan daromad
+mexanik
 ++++++
-Foiz ko‘rinishidagi daromadlar qaysi turdagi daromadlar tarkibida aks etadi?
-======
-#moliyaviy faoliyatdan kelgan daromadda
+Liberal rahbarlar rag'batlantirishga kelganda
 ======
-favqulodda kelgan daromadda
+#aniq mo'ljallari bo'lmaydi
 ======
-mahsulotni sotishdan kelgan yalpi tushumda
+xodimlarni har doim adolatli tarzda rag'batlantirib boradilar
 ======
-asosiy faoliyatdan kelgan boshqa daromadda
+faqat moddiy rag'batlantirishdan foydalanadilar
 ++++++
-Ishlab chiqarish tannarxiga kirmaydigan xarajatlarni aniqlang.
-===
- Ishlab chiqarishni moliyalashtirish uchun olingan kredit foizi
+Kim o'zining asarlarida tizimga aniq matematik bayon keltirgan?
 ======
-#Ishlab chiqarish moddiy xarajatlari
+#R.Kalman
 ======
-Ishlab chiqarishdagi ishchilar mehnat haqi
+L.Bertalanfi
 ======
-Ishlab chiqarish stanoklari eskirishi
+P.Druker
 ++++++
-Korxonaning asosiy faoliyatidan kelgan foyda qanday aniqlanadi?
-======
-#mahsulotni sotishdan kelgan yalpi foydadan davr xarajatlari chiqarilib, asosiy faoliyatning boshqa daromadlari qo’shiladi
-======
-mahsulotni sotishdan kelgan sof tushumdan korxonaning xarajatlari chiqariladi
+Boshqaruv jarayonida u yoki bu masalalarni hal qilishda rahbarning o'ziga xos yondoshishi menejmentda?
 ======
-mahsulotni sotishdan kelgan sof tushumdan mahsulot tannarxi chiqariladi
+#rahbarning ish uslubi
 ======
-davr xarajatlaridan moliyaviy xarajatlar chiqariladi
-++++++
-Mahsulot sotishdan olingan yalpi foydaga qaysi omillar ta`sir etmaydi?	
-===
- Moliyaviy faoliyatning xarajatlari
-======
-#Sotilgan mahsulot bahosining o’zgarishi	
-===
-Sotilgan mahsulot hajmining o’zgarishi
+rahbarning boshqaruv tamoyili
 ======
-Sotilgan mahsulot tannarxining o’zgarishi
+rahbarning qaror qabul qilish metodi
 ++++++
-Umumxo’jalik faoliyatining moliyaviy natijasi qanday aniqlanadi
+Bugungi amaliyotda xodim va uni boshqarish muammosiga ikki xil yondashuv mavjud:
 ======
-#Asosiy faoliyatning moliyaviy natijasiga moliyaviy faoliyatning daromadlari qo’shilib, moliyaviy faoliyat xarajatlari ayiriladi
+#inson resurslarini boshqarish va xodimlarni boshqarish
 ======
-Soliq to’langunga qadar foydadan daromad solig’i ayiriladi
+moddiy va ma'naviy yondashuv
 ======
-Mahsulot sotishdan sof tushum summasidan sotilgan mahsulot tannarxi ayiriladi
-======
-Yalpi foydadan davr xarajatlari ayirilib, asosiy faoliyatning boshqa daromadlari qo’shiladi
+rasmiy va norasmiy yondashuv
 ++++++
-Ishlab chiqarish fondlari bo’yicha rentabellik qanday aniqlanadi?
-======
-#(Foyda x 100) / (asosiy vositalar + aylanma mablag’lar	)
+Strategik rejalashtirish qanday ikkita asosiy maqsadni ko'zlaydi?
 ======
-(Foyda x 100) / (jami aktivlar + joriy aktivlar)
+#resurslarni samarali taqsimlash va foydalanish hamda tashqi muhitga moslashish
 ======
-(Foyda x 100) / (aktiv fondlar + passiv fondlar)
+foyda oshirish va xarajatlarni qisqartirish
 ======
-(Foyda x 100) / aktiv fondlar
+yangi bozorlarni egallash va raqobatchilarni siqib chiqarish
 ++++++
-Sotish rentabelligi qanday aniqlanadi?
+Samarali tashkilot quyidagi bir-biriga bog'liq bo'lgan yettilik asosida shakllanadi
 ======
-#(Sotishdan yalpi foyda x 100) / mahsulot sotishdan tushgan sof tushum
+#strategiya, tuzilish, tizim, shtat, uslub, malaka, bo'lingan qiymat
 ======
-(Sotishdan yalpi daromad x 100) / mahsulot sotishdan tushgan tushum	
-===
-(Mahsulotni sotishdan tushgan tushum x 100) / yalpi foyda
+reja, nazorat, motivatsiya, kadrlar, texnologiya, moliya, bozor
 ======
-(Mahsulotni sotishdan tushgan yalpi tushum x 100) / yalpi sarflar
+maqsad, taktika, byudjet, xodimlar, texnika, marketing, foyda
 ++++++
-Sof rentabellik darajasi qanday aniqlanadi?
+Innovatsion loyihalar tuzish nimalardan iborat?
 ======
-#sof foydani sof tushumga nisbati bilan
+#ilmiy izlanish, innovatsion loyihalarni ishlab chiqish va tasdiqlashdan
 ======
-sof foydani aktivlar summasiga nisbati bilan
+mahsulotni reklamalash, sotish va mijozlarga yetkazib berishdan
 ======
-sof foydani xususiy kapitalga nisbati bilan
-======
-sof foydani asosiy vositalar va moddiy aylanma mablag’larga nisbati bilan
+xomashyo xarid qilish, ishlab chiqarish va bozorga chiqarishdan
 ++++++
-Sotish rentabelligi darajasining o’zgarishiga ta`sir etadi
-======
-#sotishdan olingan sof tushumning o’zgarishi 
-===
-asosiy faoliyat bo’yicha foyda (zarar)ni o’zgarishi
+Korxonani bir-biri bilan bog'langan, yaxlit bir butunlik sifatida o'rganish qanday yondashuvga xos?
 ======
-sof foydani o’zgarishi
-======
-korxona aktivlari summasini o’zgarishi
-++++++
-Quyida keltirilgan ko’rsatkichlarning qaysi biri rentabellik ko’rsatkichini ifodalaydi?
-===
- sof foydani korxona aktivlariga nisbati
+#tizimli
 ======
-#qarzga olingan kapitalning o’z kapitaliga nisbati koeffitsienti	
-===
-debitor qarzlarning aylanish koeffitsienti
+vaziyatli
 ======
-joriy likvidlik koeffitsienti
+jarayonli
 ++++++
-Qaysi ko’rsatkich foyda ko’rsatkichlari tarkibiga kirmaydi?
+Avtokratik rahbarlar mas'uliyatni taqsimlashda
 ======
-#Foizlar ko’rinishidagi daromadlar
+#to'la-to'kis o'zining vakolatiga binoan o'zlari taqsimlaydi
 ======
-Mahsulot sotishdan yalpi moliyaviy natija
+barcha xodimlar o'rtasida teng ravishda taqsimlaydi
 ======
-Asosiy faoliyatning moliyaviy natijasi
-======
-Soliq to’langunga qadar foyda
+faqat yuqori malakali xodimlarga mas'uliyat beradi
 ++++++
-Qaysi omil sotish rentabelligiga ta`sir ko’rsatadi?
-======
-#Yalpi foydaning o’zgarishi
+Delegirovaniye bu –
 ======
-Moliyaviy xarajatlarning o’zgarishi
+#topshiriqlarni bajarilish majburiyatini o'z zimmasiga oladigan vakolatli shaxsga berish
 ======
-Sof foydaning o’zgarishi
+rahbarning o'z vakolatlarini boshqa shaxsga o'tkazmasdan saqlashi
 ======
-Ma`muriy xarajatlarning o’zgarishi
+xodimlarning ish natijalarini baholash va nazorat qilish jarayoni
 ++++++
-Debitorlik va kreditorlik qarzlari tahlilining axborot manbasi emas
-===
- Xususiy kapital to’g’risida hisobot
+Maqsad va topshiriqlarni aniqlash jarayoni qanday jarayonlardan tuzilgan?
 ======
-#Buxgalteriya balansi
+#topshiriqni aniqlash, uzoq muddatli maqsadni aniqlash, qisqa muddatli maqsadni aniqlash
 ======
-Muddati o’tgan debitorlik va kreditorlik qarzlari to’g’risida ma`lumotnoma
+rejalashtirish, amalga oshirish, nazorat va baholash jarayonlari
 ======
-Debitorlik va kreditolik qarzlarini hisobga oluvchi schyotlar ma`lumotlari
+tahlil, strategiya, taktika va operativ jarayonlar
 ++++++
-Da’vo muddati o‘tib ketganligi sabab hisobdan chiqarilgan kreditorlik va deponent qarzlar qaysi modda tarkibiga kiritiladi?
+Xodimlarni o'qitishda qanday ishlarni amalga oshirish lozim?
 ======
-#Asosiy faoliyatning boshqa daromadlari
+#jamoaning professional madaniyati va uyg'unligini oshirish, yangi topshiriqlarni yechishga tayyorlash
 ======
-Rezerv kapitali
+faqat nazariy bilimlarni oshirish va imtihon o'tkazish
 ======
-Tekinga olingan mulk
-======
-Maqsadli tushum
+xodimlarni yangi ish o'rinlariga o'tkazish va rotatsiya qilish
 ++++++
-Debitorlik va kreditorlik qarzlari tahlilining maqsadlaridan biri hisoblanmaydigan qatorni toping.
+Xodimlarni rivojlantirish usullari qaysi javobda to'g'ri berilgan?
 ======
-#hisobdan chiqarilgan kreditorlik qarzlarining yuzaga chiqish sabablarini o’rganishdan iborat
+#kauching, o'z ustida ishlash
 ======
-korxonaning debitorlik qarzlari holatiga baho berishdan iborat
+faqat rasmiy o'qitish va kurslar
 ======
-debitorlik qarzlarining tarkibiy tuzilishi va dinamik o’zgarishlariga baho berishdan iborat
-===
-debitorlik va kreditorlik majburiyatlari aylanish davrini tezlashtirish asosida korxonaning moliyaviy holatini yaxshilash borasida chora-tadbirlar belgilashdan iborat
+testlash va baholash tizimi
 ++++++
-Debitorlik qarzlarining shartli aylanish kuni qanday aniqlanadi?	
-===
- O’tgan yilgi debitorlik qarzlari summasini hisobot davridagi sotishdan sof tushum summasiga bo’linib, hisobot davridagi kunlarga ko’paytiriladi
+Seleng firmalar bu:
 ======
-#Hisobot davridagi sotishdan sof tushum summasi o’tgan yilgi debitorlik qarzlari summasiga bo’linadi
+#jismoniy va yuridik shaxslarning mulklarini jalb qilish va bu mulklardan o'z ehtiyojlari bo'yicha erkin foydalanish masalalari bilan shug'ullanadilar
 ======
-Hisobot davridagi sotishdan sof tushum summasi hisobot davridagi debitorlik qarzlari summasiga bo’linadi
+xalqaro savdo operatsiyalari va eksport bilan shug'ullanadigan firmalar
 ======
-Hisobot davridagi debitorlik qarzlari summasi hisobot davridagi sotishdan sof tushum summasiga bo’linib, hisobot davri kuniga ko’paytiriladi
+sug'urta xizmatlarini ko'rsatadigan moliyaviy firmalar
 ++++++
-Qaysi ko’rsatkich debitorlik qarzlari tarkibiga kirmaydi?
-======
-#Kechiktirilgan daromadlar
+Nazorat bu:
 ======
-Xaridor va buyurtmachilarning qarzi
+#muayyan vazifalarni bajarish va tashkilot maqsadlariga erishishni ta'minlash uchun boshqaruv funksiyalaridan biri va boshqaruv faoliyatining turi
 ======
-Olinadigan operativ ijara
+xodimlarning shaxsiy hayotiga va xatti-harakatlariga aralashish jarayoni
 ======
-Ta sischilar ustav kapitaliga ulushlari bo’yicha qarzlari
+faqat moliyaviy xarajatlar va hisobotlarni tekshirish jarayoni
 ++++++
-Qaysi ko’rsatkichlar kreditorlik qarzlari tarkibiga kirmaydi?
+Innovatsion strategiyalarni turlari:
 ======
-#Qisqa muddatli bank kreditlari
+#an'anaviy, opportunistik, imitatsion, mudofaaviy, bog'liq, hujumkor
 ======
-Byudjetga to’lovlar bo’yicha qarzlar
+strategik, taktik, operativ, funksional, moliyaviy, marketing
 ======
-Mol yetkazib beruvchilarga qarzlar
-======
-Mehnatga haq to’lash bo’yicha qarzlar
+agressiv, passiv, neytral, moslashuvchan, stabil, o'suvchi
 ++++++
-Debitorlik va kreditorlik qarzlarni muddati o’tgan qarz sifatida e’tirof etish uchun qonunchilikda necha kun belgilangan?
-======
-#90 kun
-======
-15 kun
-======
-60 kun
+Imitatsion strategiya nima?
 ======
-30 kun
-++++++
-Debitorlik qarzlarining muddati o’tishi korxona moliyaviy holatiga qanday ta`sir ko’rsatadi?
-===
- Korxonada qarz mablag’lariga bo’lgan ehtiyojni oshiradi
+#yangi texnologiya boshqalardan, masalan, litsenziyalarni sotib olish yo'li bilan xarid qilinadi
 ======
-#Kreditorlik qarzlarining aylanishi tezlashadi	
-===
-Aktivlarning aylanishi tezlashadi
+o'z ichki ilmiy-tadqiqot bo'limida yangi texnologiyalar ishlab chiqiladi
 ======
-Korxona aylanmasida ortiqcha mablag’lar hosil bo’ladi
+raqobatchilarning texnologiyasini taqlid qilish yo'li bilan nusxa ko'chiriladi
 ++++++
-Kreditorlik qarzlarining muddati o’tishi korxona moliyaviy holatiga qanday ta`sir ko’rsatadi?
-======
-#Korxonada qarz mablag’larini jalb etish imkoniyati pasayadi
+Boshqarish nazariyasining dastlabki kurtaklari kimlar?
 ======
-Korxona aylanmasida ortiqcha mablag’lar hosil bo’ladi
+#Yuli Sezar, A.Makedonski, A.Temur
 ======
-Aktivlarning aylanishi tezlashadi
+A.Smit, K.Marks, V.Lenin
 ======
-Kreditorlik qarzlarining aylanishi tezlashadi
+F.Teylor, A.Fayol, E.Meyo
 ++++++
-Kreditorlik qarzlari aylanish koeffitsienti qanday aniqlanadi?
+60-70 yillarda boshqaruv sohasida nimalar vujudga keladi?
 ======
-#Sotilgan mahsulot tannarxi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
+#strategik rivojlantirish
 ======
-Kreditor qarzlarning o’rtacha qiymati joriy majburiyatlar summasiga bo’linadi
+raqamli texnologiyalar va kompyuterlashtirish
 ======
-Joiy majburiyatlar summasi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
-===
-Mahsulot sotishdan sof tushum summasi debitor qarzlarning o’rtacha qiymatiga bo’linadi
+mehnat munosabatlari va kasaba uyushmalari
 ++++++
-Kreditorlik qarzlarining o’rtacha aylanish kuni qanday aniqlanadi?
+Subordinatsiya nima?
 ======
-#Kreditor qarzlarning o’rtacha qiymati hisobot davri kuniga ko’paytirilib, sotilgan mahsulot tannarxiga bo’linadi
+#ko'rsatilgan mehnat intizomining qoidalariga asoslangan holda, bu xodimlar o'rtasidagi barcha munosabatlar ko'rsatilgan intizomga rioya qilishni va qat'iy ish doirasida faoliyat olib borishidir
 ======
-Sotilgan mahsulot tannarxi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
+xodimlarning ish haqi va mukofot olish tartibi va qoidalari
 ======
-Joriy majburiyatlar summasi kreditor qarzlarning o’rtacha qiymatiga bo’linadi
-======
-Kreditor qarzlarning o’rtacha qiymati joriy majburiyatlar summasiga bo’linib, yuzga ko’paytiriladi
+tashkilotda lavozimlarni egallash va ko'tarilib borish tartibi
 ++++++
-Pul oqimlari to’g’risidagi hisobot qaysi davrga tuziladi?
-======
-#Yil bo’yicha
+Qaysi kompaniya egasi A. Fayol tamoyillariga asoslangan "texnokratik" boshqarish usuli orqali yuqori rivojlanishga erishdi?
 ======
-Yarim yillik
+#G.Ford
 ======
-Choraklik, yarim yillik, 9 oylik, yillik
+J.Morgan
 ======
-Yarim yillik va yillik
+R.Rockefeller
 ++++++
-Pul oqimlari to’g’risidagi hisobotni tuzishdan maqsad nima?
+1920 yilning boshlarida Kerjentsev tashabbusi bilan qanday liga tashkil etiladi?
 ======
-#Barcha javoblar to’g’ri
+#vaqt ligasi
 ======
-Ma`lumot foydalanuvchilariga korxonaning pul mablag’larini boshqaruvidagi layoqatiga baho berish
+mehnat ligasi
 ======
-Pul mablag’lari harakatining balansini tuzish
-======
-Pul mablag’lari harakatini boshqarishda axborotlar bilan ta`minlash
+ilm-fan ligasi
 ++++++
-Pul oqimi deganda nimani tushunasiz?
+Qaror qabul qilish usullari:
 ======
-#Pul mablag’larining kirimi va chiqimini
+#sezgirligi (ichki hissiga) asoslangan usul, sog'lom fikrlash orqali, ko'plab axborotlarga ishlov berish asosida, optimal yechimni tanlashni nazarda tutadigan usul
 ======
-Pul mablag’lari kirimini
+faqat matematik va statistik modellar asosida qaror qabul qilish
 ======
-Pul mablag’lari chiqimini	
-===
-Pul balansini
+faqat ekspert baholash va guruh muhokamasi asosida qaror qabul qilish
 ++++++
-Valyuta mablag’lari harakati to’g’risida ma`lumot qaysi hisobot shaklida ilova qilingan?
-======
-#Pul oqimi to’g’risidagi hisobotda
+Qaror qabul qilishdagi delfa usuli qanday usul?
 ======
-Buxgalteriya balansida
+#qaror qabul qilish jarayonida qatnashuvchi a'zolarni to'plash imkoniyati bo'lmagan hollarda qo'llaniladi
 ======
-Moliyaviy natijalar to’g’risidagi hisobotda
+bir guruh mutaxassislar yig'ilishib ochiq muhokama qiladigan usul
 ======
-Xususiy kapital to’g’risida hisobotda
+faqat bir kishi tomonidan mustaqil ravishda qaror qabul qilinadigan usul
 ++++++
-Pul oqimi to’g’risidagi hisobot qaysi usullarda tuziladi?
+Fazilat bu:
 ======
-#To’g’ri va bilvosita usulda
+#ijobiy xislat, yaxshi sifat yoki xususiyatdir
 ======
-Balans usulda
+kasbiy diplom va sertifikat yoki malaka darajasi
 ======
-To’g’ri usulda	
-===
-To’g’ri va balans usulida
+shaxsning ijtimoiy maqomi va obro'si
 ++++++
-Qaysi qatorda valyuta balansini tuzish uchun zarur ko‘rsatkichlar keltirilgan?
+Ilmiylik, yakka hokimlik, ierarxiya, demokratiya, mashvarat tamoyillari asosida davlatni kim boshqargan?
 ======
-#Valyuta mablag’larining yil boshidagi qoldig’i, valyuta mablag’larining jami kirimi va chiqimi, yil oxiridagi qoldiq
+#Amir Temur
 ======
-Valyuta mablag’larining chiqimi va yil oxiridagi qoldig‘i	
-===
-Valyuta mablag’larining kirimi	 va yil boshidagi qoldig‘i
+Bobur Mirzo
 ======
-Valyuta mablag’larini hisobot davri boshidagi qoldig’i, kirimi va chiqimi
+Ulug'bek
 ++++++
-Pul opqimlari to‘g‘risidagi hisobotda qaysi faoliyatlarga oid pul oqimlari keltirilgan?
+Quyidagilardan qaysi biri zamonaviy menejment tamoyili hisoblanadi?
 ======
-#Operatsion, investitsiya va moliyaviy faoliyatlar
+#ierarxiya tamoyili
 ======
-Operatsion, investitsiya va tashqi iqtisodiy faoliyatlar
+monopoliya tamoyili
 ======
-Operatsion, investitsiya va innovatsion faoliyatlar
-======
-Operatsion va investitsiya faoliyatlari
+byurokratiya tamoyili
 ++++++
-Moliyaviy faoliyatdagi pul oqimini tahlil qilishda o’rganiladigan ko’rsatkichlarni belgilang.
-======
-#Olingan va to’langan foizlar, olingan va to’langan dividendlar
+Amal qilish xarakteriga qarab boshqaruv qarorlari quyidagi turlarga bo'linadi:
 ======
-Mol yetkazib beruvchilarga to’langan pul mablag’lari
+#vaqtinchalik qarorlar, tezkor (operativ) qarorlar, muntazam qarorlar, vaqti-vaqti bilan qabul qilinadigan qarorlar
 ======
-Mahsulotlarni sotishdan kelib tushgan pul mablag’lari
+strategik, taktik, operativ va tartibli qarorlar
 ======
-Xodimlarga va ular nomidan to’langan pul mablag’lari
+rahbar, jamoa, ekspert va avtomatik qarorlar
 ++++++
-Operatsion faoliyatidagi pul oqimini tahlil qilishda o’rganiladigan ko’rsatkichlarni belgilang.
+Innovatsion madaniyat deyilganda nimani tushunasiz?
 ======
-#Mahsulotlarni sotishdan kelib tushgan pul mablag’lari, mol yetkazib beruvchilarga to’langan pul mablag’lari
+#yangiliklarni qabul qilishga munosabat xos bo'lgan omil
 ======
-Asosiy vositalarni sotib olish va sotish, nomoddiy aktivlarni sotib olish va sotish
+ilm-fan yutuqlarini ishlab chiqarishga tatbiq etish jarayoni
 ======
-Olingan va to’langan foizlar, olingan va to’langan dividendlar
-======
-To’langan daromad (foyda) solig’i, to’langan boshqa soliqlar
+xodimlarning texnik bilim va ko'nikmalar darajasi
 ++++++
-Investitsion faoliyatdagi pul oqimini tahlil qilishda o’rganiladigan ko’rsatkichlarni belgilang.
-======
-#Asosiy vositalarni sotib olish va sotish, nomoddiy aktivlarni sotib olish va sotish
+Innovatsion boshqaruvning dastlabki bosqichi?
 ======
-To’langan daromad (foyda) solig’i, to’langan boshqa soliqlar
+#rejalashtirish
 ======
-Mahsulotlarni sotishdan kelib tushgan pul mablag’lari, mol yetkazib beruvchilarga to’langan pul mablag’lari
+moliyalashtirish
 ======
-Olingan va to’langan foizlar, olingan va to’langan dividendlar
+amalga oshirish
 ++++++
-Korxonada qaysi faoliyat turi bo’yicha pul oqimlari tahlili asosida qisqa muddatli kredit va qarzlarga oid pul mablag’larini aniqlash mumkin?
+Tashkilotga tadbiq etish kerak bo'lgan yangiliklari ro'yxati bu-
 ======
-#Moliyaviy faoliyatdagi pul mablag’lari harakati tahlili asosida
+#innovatsiyalar portfeli
 ======
-Operatsion faoliyatidagi pul mablag’lari harakati tahlili asosida
+innovatsion byudjet
 ======
-Investitsion faoliyatdagi pul mablag’lari harakati tahlili asosida
-======
-Soliqqa tortishdagi pul mablag’lari harakati tahlili asosida
+texnologik xarita
 ++++++
-Sof pul oqimi qanday aniqlanadi?
-======
-#Kelib tushgan va sarflangan pul mablag’larining ayirmasi orqali
+Innovatsion muhit nima?
 ======
-Kelib tushgan va sarflangan pul mablag’larining nisbati orqali
+#innovatsiyalarni yaratilishi, amalga oshirilishi va tarqatilishini o'rab turuvchi holat
 ======
-Yil boshidagi va yil oxiridagi pul mablag’larini qo’shib ikkiga bo’lish orqali
+ilmiy-tadqiqot laboratoriyalari va texnoparklar majmui
 ======
-Pul mablag’lari o’rtacha qoldig’ini hisobot davri kuniga ko’paytirib, oborot summasiga bo’lish orqali
+davlat subsidiyalari va moliyaviy yordam mexanizmi
 ++++++
-Pul mablag’larining aylanish davri qanday aniqlanadi?
+Trast firmalar nima?
 ======
-#Pul mablag’lari o’rtacha qoldig’ini hisobot davri kuniga ko’paytirib, sof tushum summasiga bo’lish orqali
+#xususiy shaxslar va tashkilotlar uchun sir saqlanadigan xizmatlarni bajaradi
 ======
-Kelib tushgan va sarflangan pul mablag’larining ayirmasi orqali
+davlat tomonidan nazorat qilinadigan moliyaviy muassasalar
 ======
-Kelib tushgan va sarflangan pul mablag’larining nisbati orqali
-======
-Yil boshidagi va yil oxiridagi pul mablag’larini qo’shib ikkiga bo’lish orqali
+eksport va import operatsiyalarini amalga oshiradigan firmalar
 ++++++
-Quyidagilardan qaysi biri xususiy kapital tarkibiga kirmaydi?
-======
-#Dargumon qarzlar bo’yicha rezerv
+Yapon kompaniyalariga ustunlik beruvchi element bu?
 ======
-Rezerv kapitali
+#inson omili
 ======
-Ustav kapitali
+texnologik ustuvorlik va robototexnika
 ======
-Taqsimlanmagan foyda
+moliyaviy kapital va investitsiyalar hajmi
 ++++++
-Rezerv kapitali nima maqsadda tashkil etiladi?
+Yevropa va Amerika kompaniyalari ishchilarni tanlashda qanday usuldan foydalanishadi?
 ======
-#Hisobot davrida ko’rilgan zararlarni qoplash uchun
+#psixologik testlardan
 ======
-Dargumon debitor qarzlarni qoplash uchun
+faqat kasbiy bilim va ko'nikmalar imtihonidan
 ======
-Aylanma mablag’larga bo’lgan ehtiyojni qondirish uchun
-======
-Asosiy vositalar ta’mirlash uchun
+oila va qarindoshlilik aloqalari asosida tavsiyalardan
 ++++++
-Xususiy kapital qatoriga kiruvchi elementlar to’liq ko’rsatilgan qatorni toping.
-======
-#Ustav kapitali, qo’shilgan kapital, zaxira kapitali, taqsimlanmagan foyda, qoplanmagan zarar, maqsadli tushumlar, kelgusi to‘lovlar va xarajatlar uchun rezerv
+Kadrlarni rejalashtirishdan maqsad nima?
 ======
-Ustav kapitali, taqsimlanmagan foyda, maqsadli tushumlar
+#tashkilotning kadrlarga bo'lgan ehtiyojlarini qondirish, jamiyatning manfaatlarini ta'minlash, inson omiliga bo'lgan ehtiyojni oldindan aniqlash
 ======
-Zaxira kapitali, qo’shilgan kapital, taqsimlanmagan foyda, maqsadli tushumlar, inson kapitali, intellectual kapital
+faqat ish haqi fondini optimallashtirish va xarajatlarni kamaytirish
 ======
-Zaxira kapitali, taqsimlanmagan foyda, maqsadli tushumlar
+xodimlar sonini ko'paytirish va yangi bo'limlar ochish
 ++++++
-Xususiy kapital to’g’risidagi hisobotda aks ettiriladigan qiymat ko’rinishida ifodalanmaydigan ko’rsatkichni toping.
+Kadrlarni ishga olishda tanlovning qanday usullaridan qo'llaniladi?
 ======
-#Muomaladagi aktsiyalar soni
+#xodimdan so'rovnomani to'ldirish yoki ishi va unga qo'yiladigan talablarni yoritish talab etiladi, xodimning bevosita boshlig'i bilan suhbatlashish
 ======
-Hisoblangan dividendlar
+faqat yozma imtihon va test topshirish
 ======
-Tekinga olingan mulk
-======
-Qimmatli qog‘ozlar emissiyasi
+faqat kasbiy sertifikat va diplom taqdim etish
 ++++++
-Xususiy kapital rentabelligi nimani ifodalaydi?
-======
-#har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan sof foyda qiymati
+Innovatsion maqsadlar deganda:
 ======
-har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan daromadlar qiymati
+#yangi mahsulotni ishlab chiqarish, yangi texnologiyani joriy qilish bo'yicha qo'yiladigan maqsadlar tushuniladi
 ======
-har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan mahsulot sotishdan sof tushum qiymati
+mavjud mahsulot sifatini yaxshilash maqsadlari tushuniladi
 ======
-har bir so’mlik xususiy kapital hisobiga to’g’ri kelgan mahsulot tannarxi qiymati
+bozordagi ulushni oshirish va yangi mijozlar jalb qilish maqsadlari
 ++++++
-Bir aktsiya uchun foyda ko‘rsatkichi qanday aniqlanadi?
+Mehnat shartnomasi nima?
 ======
-#Hisobot yilida olingan foydani chiqarilgan aktsiyalar soniga bo’lish bilan
+#ish beruvchi va yollanma ishchining shaxsiy muzokaralari natijasida mehnat mazmuni va sharoiti haqidagi, ish haqi, ishdan boshqa majburiyatlari haqidagi kelishuvdir
 ======
-Uzoq va qisqa muddatli qarz mablag’larini o’z mablag’lari manbaiga bo’lish bilan
+davlat tomonidan belgilanadigan ish haqi va mehnat sharoitlari to'g'risidagi hujjat
 ======
-Hisobot yilida olingan foydani xususiy kapital summasiga bo’lish bilan
-======
-Hisobot yilida olingan yalpi foydani chiqarilgan oddiy aktsiyalar soniga bo’lish bilan
+kasaba uyushmasi va korxona o'rtasida tuzilgan jamoaviy bitim
 ++++++
-Rezerv kapitalini ko’paytirish omillari noto‘g‘ri ko‘rsatilgan qatorni toping.
-======
-#Aktsiyalarni nominal qiymatidan yuqori narxda sotish
+Mehnat bozorining asosiy maqsadi nima?
 ======
-Asosiy vositalarni qayta baholash
+#iqtisodiy faol aholining kasbiy-mehnat va turmush ehtiyojini qondirish, xalq xo'jaligini zaruriy kadrlar bilan ta'minlash, maksimal to'la bandlikka erishish
 ======
-Taqsimlanmagan foydadan rezerv kapitaliga ajratma qilish
+faqat davlat korxonalari uchun ishchi kuchini ta'minlash
 ======
-Tekinga olingan mulk
+xorijiy investitsiyalarni jalb qilish va eksport hajmini oshirish
 ++++++
-Quyidagi ma’lumotlar asosida moliyaviy mustaqillik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m.
+Xizmat-kasb jihatidan ko'tarilish deyilganda nimani tushunasiz?
 ======
-#0,44
+#tashkilot tomonidan turli darajalar (lavozimlar, ish o'rinlari, jamoadagi mavqe-martabalarni taklif qilish) izchilligi tushuniladi
 ======
-0,56
+xodimning o'z kasbiy bilimlarini mustaqil ravishda oshirishi tushuniladi
 ======
-0,5
-======
-0,06
+xodimning bir tashkilotdan boshqa tashkilotga o'tib ishlashi tushuniladi
 ++++++
-Quyidagi ma’lumotlar asosida moliyaviy barqarorlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
-======
-#0,6
+Tezkor qarorlar bu:
 ======
-0,44
+#kechiktirmay ijro uchun chiqariladi, tabiiy ofatlar kutilmagan vaziyatlarda
 ======
-0,5
+uzoq muhokama va tahlildan so'ng qabul qilinadigan strategik qarorlar
 ======
-0,16
+har oyda muntazam ravishda qabul qilinadigan rejali qarorlar
 ++++++
-Quyidagi ma’lumotlar asosida sof aktivlar miqdorini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+Kadrlar zaxirasini rejalashtirishning maqsadi nima?
 ======
-#220 mln so‘m
+#kadrlar zaxirasini rejalashtirish xodimlarning lavozimlarga ko'tarilib borishini maqsad qilib qo'yadi
 ======
-280 mln so‘m
+tashkilotning moliyaviy zaxiralarini boshqarish maqsad qilib qo'yiladi
 ======
-80 mln so‘m
-======
-250 mln so‘m
+tashkilotda ish o'rinlarini qisqartirish maqsad qilib qo'yiladi
 ++++++
-Quyidagi ma’lumotlar asosida aktivlar rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
-======
-#6 foiz
+Sotsial ehtiyojlarga nimalar kiradi?
 ======
-5 foiz
+#ijodiy mehnat oila va muhabbat, bilim va axborot
 ======
-50 foiz
+ovqat, kiyim-kechak, uy-joy va suv
 ======
-10 foiz
+pul, boylik, hokimiyat va obro'-e'tibor
 ++++++
-Quyidagi ma’lumotlar asosida sof rentabellikni aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m.
+Ehtiyoj bu..
 ======
-#5 foiz
+#insonning hayot kechirishi, shaxs va ijtimoiy guruhni rivojlantirish uchun obyektiv zarur narsalar
 ======
-6 foiz
+shaxsning orzulari va xohlishlari to'plami
 ======
-50 foiz
-======
-10 foiz
+tashkilotning resurs va moliyaviy imkoniyatlari
 ++++++
-Quyidagi ma’lumotlar asosida sotish rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m.
-======
-#25 foiz
+Kasbga yo'naltirish tizimi nimalardan iborat?
 ======
-6 foiz
+#aholiga kasbga yo'naltirish bo'yicha xizmat ko'rsatish, kasbiy maslahat berish, kasbiy tanlash
 ======
-5 foiz
+faqat maktab va universitetlarda kasbiy ta'lim berish
 ======
-10 foiz
+xorijiy kompaniyalarda ishlash imkoniyatlarini kengaytirish
 ++++++
-Quyidagi ma’lumotlar asosida tannarx rentabelligini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
+Boshqaruv personalining uch toifasi ajratib ko'rsatiladi, ular qaysilar:
 ======
-#6,67 foiz
+#rahbarlar, mutaxassislar va boshqa xizmatchilar
 ======
-50 foiz
+direktorlar, menejerlar va ishchilar
 ======
-5 foiz
-======
-17 foiz
+oliylar, o'rtalar va quyi bo'g'inlar
 ++++++
-Quyidagi ma’lumotlar asosida aylanma mablag‘lar aylanuvchanlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m.
-======
-#2
+Vakolat bu:
 ======
-1,2
+#vakillik xuquqi bo'lsa, mas'uliyat biror ish, hatti-harakat oqibati, natijasi uchun bo'lgan javobgarlikdir
 ======
-1,5
+rahbarning buyruq berish va nazorat qilish huquqi
 ======
-4
+xodimning ish haqi va ijtimoiy imtiyozlarga ega bo'lish huquqi
 ++++++
-Quyidagi ma’lumotlar asosida aylanma mablag‘lar aylanish davrini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m. Hisobot davri 360 kundan iborat.
+Matritsali boshqaruv turining kamchiligi nimadan iborat?
 ======
-#180
+#ikki tomonlama bo'ysunish, ijro munosabatlari yaratiladi va bu boshqaruv mexanizmini murakkablashtiradi va ziddiyatli vaziyatlarning paydo bo'lish xavfini kuchlaytiradi
 ======
-90
+markazlashgan qaror qabul qilish va rahbar hokimiyatining kuchsizligi
 ======
-270
-======
-60
+funksiyalarning aniq taqsimlanmaganligi va samaradorlikning past bo'lishi
 ++++++
-Quyidagi ma’lumotlar asosida uzoq muddatli aktivlarning jami aktivlardagi ulushini  aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, sotilgan mahsulotlar tannarxi 450 mln so‘m. Hisobot davri 360 kundan iborat.
-======
-#40 %
+To'g'ri strategiyani tanlash uchun menejer avvalo ….ni bilishi zarur
 ======
-60 %
+#firmaning iqtisodiy potensialini
 ======
-30 %
+raqobatchilarning zaif tomonlarini
 ======
-25 %
+bozordagi narxlar darajasini
 ++++++
-Quyidagi ma’lumotlar asosida joriy likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, yalpi foyda 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 220 mln so‘m.
+Supply chain managementning asosiy maqsadi nimadan iborat?
 ======
-#1,36
+#xarajatlarni kamaytirish
 ======
-2,27
+savdo hajmini oshirish
 ======
-1,07
-======
-1,26
+yangi bozorlarni zabt etish
 ++++++
-Quyidagi ma’lumotlar asosida tez likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 220 mln so‘m.
-======
-#0,68
+Strukturaning asosida nima yotibdi?
 ======
-0,9
+#mehnat taqsimoti
 ======
-1,07
+moliyaviy resurslar taqsimoti
 ======
-0,23
+vakolatlar taqsimoti
 ++++++
-Quyidagi ma’lumotlar asosida mutloq likvidlik koeffitsiyentini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
+Bozor samaradorligini oshirish uchun resurslarni birlashtirish maqsadida tashkil etilgan rasmiy ittifoq va h.k lar … deb ataladi?
 ======
-#0,2
+#strategik alyans
 ======
-0,12
+konsern
 ======
-0,4
-======
-0,53
+holding kompaniya
 ++++++
-Quyidagi ma’lumotlar asosida sotishdan yalpi foyda summasini aniqlang. Jami aktiv 500 mln so‘m, joriy aktivlar 300 mln so‘m, jami majburiyatlar 280 mln so‘m, pul mablag‘lari 30 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
-======
-#120 mln
+Bozorning mohiyati nimada?
 ======
-280 mln
+#sotuvchi va xaridor o'rtasidagi o'zaro munosabatlarda
 ======
-350 mln
+davlat tomonidan belgilanadigan narx va soliq tizimida
 ======
-200 mln
+ishlab chiqarish va iste'mol o'rtasidagi muvozanatda
 ++++++
-Quyidagi ma’lumotlar asosida asosiy faoliyat bo‘yicha moliyaviy natija miqdorini aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami majburiyatlar 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, qisqa muddatli investitsiyalar 20 mln so‘m, debitorlik qarzlar 100 mln so‘m, TMZ 150 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, sof tushum 600 mln so‘m, joriy majburiyatlar 250 mln so‘m.
+P.Druker bo'yicha boshqaruvning mohiyati
 ======
-#-50 mln
+#boshqaruv san'atida
 ======
--350 mln
+boshqaruv texnologiyasida
 ======
-350 mln
-======
-200 mln
+boshqaruv fanida
 ++++++
-Quyidagi ma’lumotlar asosida umumxo‘jalik faoliyat bo‘yicha moliyaviy natija miqdorini aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, jami moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m.
-======
-#110 mln
+Menejmentda qayta aloqaning asosida…yotadi?
 ======
--350 mln
+#nazorat
 ======
--50 mln
+rejalashtirish
 ======
--110 mln
+motivatsiya
 ++++++
-Quyidagi ma’lumotlar asosida soliq to‘langunga qadar foydani aniqlang. Jami aktiv 500 mln so‘m, davr xarajatlari 300 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln.
+Insoniyat tabiati haqidagi odamlarning fikrlarini tasniflashga urinish kimga tegishli?
 ======
-#95 mln
+#Duglas MakGregor
 ======
--350 mln
+Frederik Teylor
 ======
--50 mln
-======
-110 mln
+Anri Fayol
 ++++++
-Quyidagi ma’lumotlar asosida TMZ aylanuvchanlik koeffitsiyentini toping. Jami aktiv 500 mln so‘m, TMZ 120 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln.
-======
-#4
+Ratsional boshqaruv konsepsiyasi asosida nima yotibdi?
 ======
-3
+#mehnatni ratsionalizatsiyasi
 ======
-6
+kapitalning to'g'ri taqsimlanishi
 ======
-3,2
+xodimlarning motivatsiyasi
 ++++++
-Quyidagi ma’lumotlar asosida TMZ aylanish davrini toping. Jami aktiv 500 mln so‘m, TMZ 120 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln. Hisobot davri 90 kun.
+Missiya … bo'lishi kerak
 ======
-#22,5
+#sifatli, tashqi muhitga yo'naltirilgan
 ======
-9
+miqdoriy, ichki muhitga yo'naltirilgan
 ======
-360
-======
-180
+moliyaviy, foyda olishga yo'naltirilgan
 ++++++
-Quyidagi ma’lumotlar asosida debitorlik qarzlar aylanish davrini toping. Jami aktiv 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, moliyaviy faoliyat daromadlari 280 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, moliyaviy faoliyat xarajatlari 120 mln so‘m, sotilgan mahsulotlar tannarxi 480 mln so‘m, sof tushum 600 mln so‘m, favqulodda zarar 15 mln. Hisobot davri 90 kun.
-======
-#15
+Aksiyadorlar, kreditorlar, yetkazib beruvchilar, iste'molchilar qanday muhitga tegishli?
 ======
-18,75
+#to'g'ridan-to'g'ri ta'sir qilish, tashqi muhitga
 ======
-75
+bilvosita ta'sir qiluvchi tashqi muhitga
 ======
-60
+korxonaning ichki muhitiga
 ++++++
-Quyidagi ma’lumotlar asosida doimiy passivlarning uzoq muddatli aktivlarga nisbati koeffitsiyentini toping. Jami aktiv 500 mln so‘m, debitorlik qarzlar 100 mln so‘m, joriy aktivlar 360 mln so‘m, asosiy faoliyatdan boshqa daromadlar 130 mln so‘m, jami majburiyatlar 240 mln so‘m.
+Maqsadli boshqaruv usulining birinchi pog'onasida:
 ======
-#1,86
+#faoliyat sohalari bo'yicha korxonaning umumiy maqsadlari aniqlanadi
 ======
-0,48
+xodimlarning individual maqsadlari belgilanadi
 ======
-0,72
-======
-2,08
+korxonaning moliyaviy ko'rsatkichlari tahlil qilinadi
 ++++++
-Quyidagi ma’lumotlar asosida asosiy vositalarning eskirish darajasini toping. Boshlang’ich qiymati 1,2 mlrd so‘m, jamg’arilgan eskirish summasi 800 mln so‘m, qoldiq qiymat 400 mln so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m.
-======
-#66,7%
+Quyida qayd qilinganlarning qaysi biri boshqarish funksiyasi hisoblanadi:
 ======
-33,3 %
+#rejalashtirish
 ======
-50 %
+soliq to'lash
 ======
-16,7 %
+moliyaviy hisobot berish
 ++++++
-Quyidagi ma’lumotlar asosida asosiy vositalarning yaroqlilik darajasini toping. Boshlang’ich qiymati 1,2 mlrd so‘m, jamg’arilgan eskirish summasi 800 mln so‘m, qoldiq qiymat 400 mln so‘m, tugatish qiymati 200 mln so‘m, bozor qiymati 600 mln so‘m.
+Menejerni tashkilotni boshqarishdagi asosiy roli – bu…
 ======
-#33,3 %
+#liderlilik, kuzatuvchilik, ma'lumot uzatuvchanligi, resurslarni taqsimlash
 ======
-66,7%
+faqat moliyaviy qarorlar qabul qilish va byudjetni nazorat qilish
 ======
-50 %
-======
-16,7 %
+faqat kadrlar siyosatini amalga oshirish va xodimlarni boshqarish
 ++++++
-Quyidagi ma’lumotlar asosida asosiy vositalar rentabelligini aniqlang. Yil boshidagi qoldiq qiymat 400 mln so‘m, yil oxiridagi qoldiq qiymat 500 mln so‘m. Hisobot davridagi sof foyda 90 mln so‘m, sof tushum 500 mln so‘m.
-======
-#20 %
+Boshqaruvning eng quyi va eng yuqori vazifasini aniqlang?
 ======
-22,5 %
+#rejalashtirish, motivatsiya
 ======
-18 %
+nazorat, hisobot
 ======
-16,7 %
+moliyalashtirish, buxgalteriya
 ++++++
-Quyidagi ma’lumotlar asosida yuqori likvidlik aktivlar (A1) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m.
+"Lider" so'zi qaysi tildan kelib chiqqan?
 ======
-#120 mln
+#ingliz tilidan
 ======
-360 mln
+fransuz tilidan
 ======
-220 mln
-======
-70 mln
+lotin tilidan
 ++++++
-Quyidagi ma’lumotlar asosida qiyin sotiluvchi aktivlar (A4) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 70 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m.
-======
-#360 mln
+Xoleriklar qanday fazilatlarga xos?
 ======
-440 mln
+#kuchli, chaqqon, jizzaki va harakatchan, qarshiliklarni yenga oladigan
 ======
-220 mln
+xushchaqchaq, harakatlari shiddatli, kelajakka ishonch bilan qaraydigan
 ======
-70 mln
+depressiyaga, g'amginlik, tushkunlik kayfiyatiga moyil
 ++++++
-Quyidagi ma’lumotlar asosida sekin sotiluvchi aktivlar (A3) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
+Maqsad qanday sifatlarga xos?
 ======
-#230 mln
+#tobe bo'lishlik, yoyib bo'lishlik, o'zaro munosabatda bo'lishlik
 ======
-440 mln
+aniqlik, o'lchovlilik, erishish mumkinligi
 ======
-220 mln
-======
-360 mln
+moslashuvchanlik, vaqtga bog'liqligi, amaliylik
 ++++++
-Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlar (A2) summasini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
-======
-#100 mln
+Sangviniklar qanday fazilatlarga xos?
 ======
-440 mln
+#xushchaqchaq, harakatlari shiddatli, kelajakka ishonch bilan qaraydigan kishilar
 ======
-220 mln
+kuchli, chaqqon, jizzaki va harakatchan kishilar
 ======
-360 mln
+depressiyaga va tushkunlikka moyil kishilar
 ++++++
-Quyidagi ma’lumotlar asosida tez sotiluvchi aktivlarning (A2) jami aktivlardagi ulushini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
+Melanxoliklar:
 ======
-#12,5 %
+#depressiyaga, g'amginlik, tushkunlik kayfiyatiga moyil kishilar
 ======
-25 %
+xushchaqchaq, kelajakka ishonch bilan qaraydigan kishilar
 ======
-50 %
-======
-27,5 %
+kuchli, chaqqon, harakatchan va tashabbuskor kishilar
 ++++++
-Quyidagi ma’lumotlar asosida yuqori likvidli aktivlarning (A1) joriy aktivlardagi ulushini aniqlang. Jami aktivlar 800 mln so‘m, uzoq muddatli aktivlar jami aktivlarning 45 foizini tashkil etadi. Joriy aktivlarning 50 foizi TMZlardan iborat. Debitorlik qarzlari 100 mln so‘m, pul mablag‘lari 60 mln so‘m, qisqa muddatli investitsiyalar 50 mln so‘m, boshqa joriy aktivlar 10 mln so‘m.
-======
-#25 %
+Korxonalarda jo'natiladigan hujjatlar nima deb ataladi?
 ======
-13,6 %
+#chiqish korrespondentsiyasi
 ======
-11,4 %
+kirish korrespondentsiyasi
 ======
-22,7 %
+ichki korrespondentsiya
 ++++++
-Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 200 mln so‘m, uzoq muddatli aktivlar 160 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+Boshqarish bo'g'ini deganda nimani tushunasiz?
 ======
-#Barqaror (normal)
+#boshqarishning ayrim yoki qator funksiyalarini bajaruvchi mustaqil strukturasi bo'limlaridir
 ======
-Mutloq barqaror
+tashkilotning moliyaviy bo'linmalari va hisobot markazlari
 ======
-Nobarqaror
-======
-Krisiz holat
+ishlab chiqarish jarayonidagi texnologik bo'limlar
 ++++++
-Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 150 mln so‘m, uzoq muddatli aktivlar 160 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
-======
-#Mutloq barqaror
+Menejment ob'ekti va sub'ekti uchta darajasi farqlanadi?
 ======
-Barqaror (normal)
+#makrodaraja, megodaraja, mikrodaraja
 ======
-Nobarqaror
+yuqori, o'rta, quyi daraja
 ======
-Krisiz holat
+birinchi, ikkinchi, uchinchi daraja
 ++++++
-Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 280 mln so‘m, uzoq muddatli aktivlar 160 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+Rahbar obro'siga putur yetkazuvchi unsurlar:
 ======
-#Nobarqaror
+#byurokratizm, mahalliychilik, hadiksirashlik va balandparvozlik va boshqa salbiy qusurlar
 ======
-Barqaror (normal)
+kasbiy bilim va malakaning yetarli emasligi
 ======
-Mutloq barqaror
-======
-Krisiz holat
+texnik bilim va innovatsiyaga e'tibor bermaslik
 ++++++
-Quyidagi ma’lumotlar asosida korxona moliyaviy barqarorligining toifasini aniqlang. Joriy aktivlar 440 mln so‘m, shu jumladan TMZ 200 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 330 mln so‘m, uzoq muddatli majburiyatlar 70 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
-======
-#Krizis holat
+Emersonning qaysi asarida korxonani boshqarish tamoyillarini ko'rib chiqdi va shakllantirdi?
 ======
-Barqaror (normal)
+#"mehnat unumdorligining 12 tamoyili"
 ======
-Mutloq barqaror
+"boshqarish san'ati"
 ======
-Nobarqaror
+"industrial boshqaruv"
 ++++++
-Quyidagi ma’lumotlar asosida korxonaning o‘z oborot mablag‘lari mavjud summasini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 360 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+An'anaviy qarorlar nima?
 ======
-#10 mln
+#odatiy vaziyatlarda qabul qilinadigan qarorlar
 ======
-60 mln
+yangi va noyob muammolarga berilgan ijodiy qarorlar
 ======
-140 mln
-======
-120 mln
+oldindan rejalashtirilgan strategik qarorlar
 ++++++
-Quyidagi ma’lumotlar asosida korxonaning o‘z oborot mablag‘lari mavjud summasini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 260 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
-======
-#110 mln
+Gorizontal aloqa:
 ======
-220 mln
+#bu teng huquqli zveno va boshqaruv elementlari o'rtasidagi aloqa
 ======
-30 mln
+bu yuqori va quyi boshqaruv bo'g'inlari o'rtasidagi aloqa
 ======
-120 mln
+bu tashkilot va tashqi muhit o'rtasidagi aloqa
 ++++++
-Quyidagi ma’lumotlar asosida o‘z oborot mablag‘lari mavjud summasining balans jamiga nisbati koeffitsiyentini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 130 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
+Menejmentning tashkiliy farmoyish usuli nimaga asoslanadi?
 ======
-#0,167
+#iqtisodiy usullarni to'ldirib, bozor iqtisodiyoti qonunlari hamda me'yoriy-huquqiy hujjatlarni hisobga olish va bajarishga asoslanadi
 ======
-0,303
+faqat rahbar hokimiyati va buyruqlariga asoslanadi
 ======
-0,333
-======
-0,257
+xodimlarning ixtiyoriy roziligiga va ko'ngilli ishtirokiga asoslanadi
 ++++++
-Quyidagi ma’lumotlar asosida o‘z mablag‘larining harakatchanlik (xususiy kapital manyovrlashganlik) koeffitsiyentini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, qisqa muddatli kredit va qarzlar 50 mln so‘m.
-======
-#0,75
+Menejmentning vaqt qonunining mohiyati nimadan iborat?
 ======
-0,85
+#mehnatni tashkil etishning yangi usullarini qo'llash, vaqtni iqtisod qilish, xodimlar malakasini oshirish
 ======
-0,25
+ish vaqtini qisqartirish va ishchilar sonini ko'paytirish
 ======
-0,91
+ish soatlarini nazorat qilish va davomatni kuzatish
 ++++++
-Quyidagi ma’lumotlar asosida xususiy kapital rentabelligini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, sof foyda 50 mln so‘m.
+Quyidagilarning qaysi birlari menejmentning prinsiplari hisoblanadi?
 ======
-#25 %
+#ilmiylik, qayta aloqalar
 ======
-29 %
+monopoliya, byurokratiya
 ======
-22,7 %
-======
-11,3 %
+texnologiya, avtomatizatsiya
 ++++++
-Quyidagi ma’lumotlar asosida aktivlar aylanuvchanligini aniqlang. Joriy aktivlar 440 mln so‘m, uzoq muddatli aktivlar 220 mln so’m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m, sof foyda 50 mln so‘m, sof tushum 924 mln so‘m.
-======
-#1,4
+Tashkilot faoliyatiga ta'sir etuvchi ichki omillar nimalardan iborat?
 ======
-2,1
+#tabiiy va moddiy resurslar, tashkilotning tashkiliy tuzilmasi va ishlab chiqarish texnologiyasi, mehnat resurslari bilan ta'minot darajasi
 ======
-0,113
+raqobatchilar faoliyati, bozor narxlari va iste'molchi talabi
 ======
-4,2
+davlat siyosati, xalqaro savdo va valyuta kursi
 ++++++
-Quyidagi ma’lumotlar asosida sotishdan yalpi foyda summasini aniqlang. Mahsulot birligining sotish narxi 5000 so‘m, sotilgan mahsulot miqdori 10000 dona, mahsulot birligining tannarxi 4200 so‘m, o‘z mablag’lari manbalari 200 mln so‘m, uzoq muddatli kredit va qarzlar 170 mln so‘m.
+«Vaqt uchun kurash» asari muallifi kim?
 ======
-#8 mln
+#P.M. Kerjensev
 ======
-50 mln
+A.K. Gastev
 ======
-42 mln
-======
-92 mln
+F. Teylor
 ++++++
-Quyidagi ma’lumotlar asosida operatsion faoliyatdan sof pul oqimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 50 mln so’m, xodimlarga to‘langan ish haqi 20 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, operativ ijaraga to‘langan summa 7 mln so‘m, sotilgan mahsulotlar tannarxi 40 mln so‘m, asosiy vositalarni sotishdan kelgan tushum 10 mln so‘m.
-======
-#5 mln
+Qaysi rus klassik olimi menejment bo'yicha «Qanday ishlash kerak» degan asarni yozgan?
 ======
-15 mln
+#A.K. Gastev
 ======
--35 mln
+P.M. Kerjensev
 ======
--20 mln
+L. Bertalanfi
 ++++++
-Quyidagi ma’lumotlar asosida investitsiya faoliyatidan jami pul kirimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 50 mln so’m, xodimlarga to‘langan ish haqi 20 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, qimmatli qog’ozlarni sotishdan olingan pul mablag‘lari 12 mln,  olingan kreditlar 40 mln so‘m, asosiy vositalarni sotishdan kelgan tushum 28 mln so‘m.
+Guruh dinamikasi bu:
 ======
-#40 mln
+#kichik guruh a'zolari o'rtasidagi o'zaro ta'sir jarayonlari, shuningdek, ushbu jarayonlarni o'rganadigan ilmiy yo'nalish
 ======
-80 mln
+tashkilotning tashkiliy tuzilmasidagi o'zgarishlar jarayoni
 ======
-130 mln
-======
-68 mln
+bozordagi narx va talab-taklifning o'zgarish qonuniyatlari
 ++++++
-Quyidagi ma’lumotlar asosida jami pul kirimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 50 mln so’m, xodimlarga to‘langan ish haqi 20 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, qimmatli qog’ozlarni sotishdan olingan pul mablag‘lari 12 mln,  olingan kreditlar 40 mln so‘m, asosiy vositalarni sotishdan kelgan tushum 28 mln so‘m.
-======
-#130 mln
+Innovatsion menejerdan talab etiladigan sifatlar-
 ======
-80 mln
+#tashabbuskorlik, yetakchilik, xodimlarga munosabat, mas'uliyatli bo'lishlik, tashkilotchilik qobiliyati, qat'iylik maqsadga erishishdagi tirishqoqlik, ilmiy bilim, malaka va ko'nikmalar
 ======
-150 mln
+faqat texnik bilim va muhandislik malakasi
 ======
-168 mln
+faqat moliyaviy bilim va buxgalteriya ko'nikmalari
 ++++++
-Quyidagi ma’lumotlar asosida moliyaviy faoliyatga doir jami pul chiqimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 150 mln so’m, to‘langan kreditlar 120 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, to‘langan foizlar 12 mln,  olingan kreditlar 40 mln so‘m, to‘langan dividendlar 28 mln so‘m.
+Stabil menejmentining maqsadi:
 ======
-#160 mln
+#tashkilotning moliyaviy, kadrlar, texnik-texnologik, ichki va tashqi tuzilmalarini barqarorlashtirishga qaratilgan tadbirlarni doimiy ravishda joriy etish va o'tkazish
 ======
-200 mln
+yangi bozorlarni zabt etish va innovatsion mahsulotlarni ishlab chiqarish
 ======
-120 mln
-======
-138 mln
+xodimlar sonini qisqartirish va xarajatlarni minimallashtirish
 ++++++
-Quyidagi ma’lumotlar asosida moliyaviy faoliyatga doir sof pul oqimini aniqlang. Mahsulot sotishdan kelgan pul mablag‘lari 150 mln so’m, to‘langan kreditlar 120 mln so‘m, mol yetkazib beruvchilarga to‘langan summalar 18 mln so‘m, to‘langan foizlar 12 mln,  olingan kreditlar 40 mln so‘m, olingan dividendlar 80 mln so‘m, to‘langan dividendlar 28 mln so‘m.
-======
-#-40 mln
+Ijtimoiy siyosat – bu:
 ======
-+240 mln
+#ijtimoiy masalalarni yechish maqsadida butun aholini, boshqaruv tuzilmalari sub'ektlari kuchini birlashtirishga qaratilgan davlatning ijtimoiy sohadagi faoliyati
 ======
--22 mln
+faqat kambag'allikka qarshi kurash va ijtimoiy nafaqa to'lovlari
 ======
-+58 mln
+iqtisodiy o'sish va sanoatni rivojlantirish siyosati
 ++++++
-Quyidagi ma’lumotlar asosida sof aktivlarning jami aktivlardagi ulushini aniqlang. Jami aktiv 500 mln so‘m, jami majburiyatlar 280 mln so‘m, sof foyda 30 mln so‘m, uzoq muddatli kredit va qarzlar 80 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
+Ijtimoiy boshqarish jarayonida menejer qanday me'yorlarga amal qiladi?
 ======
-#44 %
+#moddiy, mehnat va moliyaviy resurslar harakati me'yori
 ======
-60 %
+faqat etika va axloq me'yorlari
 ======
-15 %
-======
-25 %
+faqat huquqiy va qonuniy me'yorlar
 ++++++
-Quyidagi ma’lumotlar asosida muddati o‘tgan debitorlik qarzlarning jami debitorlik qarzlardagi ulushini aniqlang. Jami aktiv 500 mln so‘m, jami debitorlik qarzlari 120 mln so‘m, sof foyda 30 mln so‘m, muddati o‘tgan debitorlik qarzlari 30 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m.
-======
-#25 %
+Boshqaruv madaniyati elementlarini aniqlang?
 ======
-6 %
+#boshqaruv qarorlarini qabul qilishda jamoa fikrini inobatga olish, rahbar odobi va iqtidori o'rtasidagi dialektik bog'lanish
 ======
-15 %
+korxona ichki qoidalari va muassasa ustaviga rioya qilish
 ======
-44 %
+texnologik tartib va ishlab chiqarish tsikliga rioya qilish
 ++++++
-Quyidagi ma’lumotlar asosida yuqori likvidli aktivlar jami summasini toping. Jami aktiv 500 mln so‘m, jami debitorlik qarzlari 120 mln so‘m, hisob-kitob schyotidagi pul mablag‘lari 30 mln so‘m, valyuta schyotidagi mablag’lar 60 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, qisqa muddatli investitsiyalar 40 mln so‘m.
+Iqtisodiy faol aholi deganda nima tushuniladi?
 ======
-#130 mln
+#aholining tovarlarga va xizmatlar ko'rsatishda ishchi kuchiga talabni ta'minlovchi qisim tushuniladi
 ======
-250 mln
+ish bilan band bo'lgan barcha aholi tushuniladi
 ======
-500 mln
-======
-350 mln
+faqat davlat muassasalarida ishlaydigan xodimlar tushuniladi
 ++++++
-Quyidagi ma’lumotlar asosida mutloq likvidlik koeffitsiyentini toping. Joriy majburiyatlar 100 mln so‘m, jami debitorlik qarzlari 120 mln so‘m, hisob-kitob schyotidagi pul mablag‘lari 30 mln so‘m, valyuta schyotidagi mablag’lar 60 mln so‘m, o‘z mablag‘lari manbayi 220 mln so‘m, qisqa muddatli investitsiyalar 40 mln so‘m.
-======
-#1,3
-======
-2,5
-======
-5,0
-======
-3,5
